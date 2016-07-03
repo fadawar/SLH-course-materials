@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="sk">
+  <info>
+    <title>Hovoríme o etike</title>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Spaemann</surname>
+    </author>
+    <publisher>
+      <publishername>Don Bosco</publishername>
+      <address>
+        <country>Bratislava</country>
+      </address>
+    </publisher>
+    <pubdate>1994</pubdate>
+  </info>
+
+  <preface>
+    <title>Na úvod</title>
+    <para>Hovorí sa, že spontánne vieme, čo je morálne. Ak by to bolo tak, potom by bolo zbytočné o tom hovoriť. To, čo sa rozumie samo od seba, nie je potrebné vysvetľovať pomocou niečoho iného, ešte zrozumiteľnejšieho, ba ani analógiami zo živočíšnej ríše. Napokon, divým husiam rozumieme len preto, lebo poznáme sami seba, a nie naopak.</para>
+    <para>Na samozrejme môžeme len poukazovať, vlastne ho nemôžeme ani vysloviť. Preto Ludwig Wittgestein napísal: „Je jasné, že etiku nemožno vysloviť.“ Už Platón vedel, že „školometskými slovami“ nemožno povedať, čo znamená slovo „dobré“. „Spomenuté otázky sa totiž nedajú preberať lak ako iné náuky, skôr to príde náhle, keď sa človek tým predmetom dlhšie zaoberá a trvale s ním nažíva, vypukne to v duši ako plameň zapálený od iskry a potom sa už živí sám.“ (Siedmy list)</para>
+    <para>Ak sa i napriek lomu musí stále hovoriť o samozrejmom, je to len preto, lebo sa ustavične popiera. V skutočnosti sa nikdy nevyskytuje v čistej forme. Celý reálny, v spoločnosti platný etos nie je vonkoncom samozrejmý. Nesie stopy nevedomosti, odmietania, potláčania. A tak je možné aj ku každému prevládajúcemu etosu pristupovať ako k etosu vládnucich, kde sa slovo „dobrý“ zneužíva, tam je samozrejmosť používania jeho významu ako jediného a najvlastnejšieho. Ľahko možno preukázať, že je to nesprávne. Aby sme to však mohli urobiť, predsa len treba hovoriť o samozrejmom.</para>
+    <para>Rousseau pochopil túto dilemu: „Netrúfal by som si ľudí poúčať, keby ich iní nezavádzali.“ Poúčať možno v rôznych rovinách.</para>
+    <para>V tej najzákladnejšej rovine sa možno pokúsiť predstaviť si to, čo pokladáme za morálne povinnosti, činnosti, normy alebo hodnoty, odvodiť ich zo spoločného koreňa a uviesť do systematickej súvislosti – do tradičnej oblasti filozofickej etiky.</para>
+    <para>V rovine aplikácie možno objasňovať jednotlivé otázky: lož, eutanáziu, umelý potrat, vojenskú službu, sexuálne otázky, zaobchádzanie s prírodou, atď. Filozofi a teológovia až po Kanta nepovažovali objasňovanie takýchto kazuistických otázok za úlohu, ktorá by bola pod ich dôstojnosť. Etika nie je taká zaujímavá, aby sa oplatilo zaoberať sa ňou aj vtedy, keď neprekročí prázdne formuly a neprináša poučenia pre naše konanie.</para>
+    <para>Osem kapitol tejto knižočky nerobia ani jedno, ani druhé. Pohybujú sa medzi základnými otázkami a kazuistikou – v strednej rovine abstrakcie. Uvažujú o niektorých základných pojmoch, s ktorými denne narábame, keď sa radíme sami so sebou alebo s inými o morálnom aspekte našich činov. Bez terminologickej náročnosti a učenosti sa pokúšajú navodiť uvažovanie o týchto pojmoch.</para>
+    <para>Pôvodne to bola séria relácií v bavorskom rozhlase v januári a februári 1981. Improvizovaný charakter týchto relácií som zmenil. Mojím želaním bolo trochu sa priblížiť tým „častým dôverným rozhovorom“, o ktorých hovorí Platón. Účinok, ktorý si od nich sľuboval, mohol byť iba nepriamy. Nemožno ho chcieť vyvolať zámerne.</para>
+    <para>Robert Spaemann</para>
+  </preface>
+
+  <chapter>
+    <title>Filozofická etika alebo: Je dobro a zlo relatívne?</title>
+    <para>Otázka významu slov „dobro“ a „zlo“, „dobrý“ a „zlý“ patrí medzi najstaršie otázky filozofie. Nepatrí však táto otázka aj do iných odborov? Nejdeme azda k lekárovi spýtať sa, či sa smie fajčiť? Nie sú to psychológovia, ktorí radia pri voľbe povolania? A neradí nám finančný odborník: „Bude dobre, keď uzavriete zmluvu o stavebnom sporení ešte teraz, na budúci rok to bude s prémiou horšie a bude dlhší čakací čas.“ Kde sa tu vlastne vynára to etické, to filozofické?</para>
+  </chapter>
+</book>
