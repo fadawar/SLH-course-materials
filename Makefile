@@ -9,13 +9,13 @@ html:
 fo:
 	# xsltproc -o networkmanager-manual.fo $(STYLESHEETS_DIR)/fo/docbook.xsl networkmanager-manual.xml
 	xsltproc -o $(BUILD_DIR)/out.fo \
-		--stringparam  body.font.family  Ubuntu \
-		--stringparam  title.font.family  "Ubuntu" \
 		--stringparam  paper.type  A4 \
+		--stringparam  title.fontset  OpenSans,normal,bold \
+		--stringparam  body.fontset  OpenSans \
 		$(STYLESHEETS_DIR)/fo/docbook.xsl src/Spaemann-Robert-Hovorime-o-etike.xml
 
 pdf: fo
-	fop -pdf $(BUILD_DIR)/out.pdf -fo out.fo
+	fop -pdf $(BUILD_DIR)/out.pdf -fo $(BUILD_DIR)/out.fo -c fop-cfg.xml
 
 clean:
 	rm -rf networkmanager-manual.html networkmanager-manual.fo networkmanager-manual.pdf

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+    <fop>
+      <renderers>
+        <renderer mime="application/pdf">
+          <fonts>
+                <font kerning="yes"  embed-url="/home/fadawar/.local/share/fonts/OpenSans-Regular.ttf">
+                      <font-triplet name="OpenSans" style="normal" weight="normal"/>
+                </font>
+                <font kerning="yes"  embed-url="/home/fadawar/.local/share/fonts/OpenSans-Bold.ttf">
+                      <font-triplet name="OpenSans" style="normal" weight="bold"/>
+                </font>
+            </fonts>
+        </renderer>
+      </renderers>
+</fop>
