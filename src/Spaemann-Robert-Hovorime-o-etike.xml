@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <book xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="sk">
   <info>
-    <title>Hovoríme o etike</title>
+    <title>Hovoríme o etike (s. 7-23, 39-61)</title>
     <author>
       <firstname>Robert</firstname>
       <surname>Spaemann</surname>
@@ -17,19 +17,1139 @@
 
   <preface>
     <title>Na úvod</title>
-    <para>Hovorí sa, že spontánne vieme, čo je morálne. Ak by to bolo tak, potom by bolo zbytočné o tom hovoriť. To, čo sa rozumie samo od seba, nie je potrebné vysvetľovať pomocou niečoho iného, ešte zrozumiteľnejšieho, ba ani analógiami zo živočíšnej ríše. Napokon, divým husiam rozumieme len preto, lebo poznáme sami seba, a nie naopak.</para>
-    <para>Na samozrejme môžeme len poukazovať, vlastne ho nemôžeme ani vysloviť. Preto Ludwig Wittgestein napísal: „Je jasné, že etiku nemožno vysloviť.“ Už Platón vedel, že „školometskými slovami“ nemožno povedať, čo znamená slovo „dobré“. „Spomenuté otázky sa totiž nedajú preberať lak ako iné náuky, skôr to príde náhle, keď sa človek tým predmetom dlhšie zaoberá a trvale s ním nažíva, vypukne to v duši ako plameň zapálený od iskry a potom sa už živí sám.“ (Siedmy list)</para>
-    <para>Ak sa i napriek lomu musí stále hovoriť o samozrejmom, je to len preto, lebo sa ustavične popiera. V skutočnosti sa nikdy nevyskytuje v čistej forme. Celý reálny, v spoločnosti platný etos nie je vonkoncom samozrejmý. Nesie stopy nevedomosti, odmietania, potláčania. A tak je možné aj ku každému prevládajúcemu etosu pristupovať ako k etosu vládnucich, kde sa slovo „dobrý“ zneužíva, tam je samozrejmosť používania jeho významu ako jediného a najvlastnejšieho. Ľahko možno preukázať, že je to nesprávne. Aby sme to však mohli urobiť, predsa len treba hovoriť o samozrejmom.</para>
-    <para>Rousseau pochopil túto dilemu: „Netrúfal by som si ľudí poúčať, keby ich iní nezavádzali.“ Poúčať možno v rôznych rovinách.</para>
-    <para>V tej najzákladnejšej rovine sa možno pokúsiť predstaviť si to, čo pokladáme za morálne povinnosti, činnosti, normy alebo hodnoty, odvodiť ich zo spoločného koreňa a uviesť do systematickej súvislosti – do tradičnej oblasti filozofickej etiky.</para>
-    <para>V rovine aplikácie možno objasňovať jednotlivé otázky: lož, eutanáziu, umelý potrat, vojenskú službu, sexuálne otázky, zaobchádzanie s prírodou, atď. Filozofi a teológovia až po Kanta nepovažovali objasňovanie takýchto kazuistických otázok za úlohu, ktorá by bola pod ich dôstojnosť. Etika nie je taká zaujímavá, aby sa oplatilo zaoberať sa ňou aj vtedy, keď neprekročí prázdne formuly a neprináša poučenia pre naše konanie.</para>
-    <para>Osem kapitol tejto knižočky nerobia ani jedno, ani druhé. Pohybujú sa medzi základnými otázkami a kazuistikou – v strednej rovine abstrakcie. Uvažujú o niektorých základných pojmoch, s ktorými denne narábame, keď sa radíme sami so sebou alebo s inými o morálnom aspekte našich činov. Bez terminologickej náročnosti a učenosti sa pokúšajú navodiť uvažovanie o týchto pojmoch.</para>
-    <para>Pôvodne to bola séria relácií v bavorskom rozhlase v januári a februári 1981. Improvizovaný charakter týchto relácií som zmenil. Mojím želaním bolo trochu sa priblížiť tým „častým dôverným rozhovorom“, o ktorých hovorí Platón. Účinok, ktorý si od nich sľuboval, mohol byť iba nepriamy. Nemožno ho chcieť vyvolať zámerne.</para>
+    <para>Hovorí sa, že spontánne vieme, čo je morálne. Ak by to bolo tak, potom by bolo zbytočné o tom hovoriť. To, čo
+      sa rozumie samo od seba, nie je potrebné vysvetľovať pomocou niečoho iného, ešte zrozumiteľnejšieho, ba ani
+      analógiami zo živočíšnej ríše. Napokon, divým husiam rozumieme len preto, lebo poznáme sami seba, a nie naopak.
+    </para>
+    <para>Na samozrejme môžeme len poukazovať, vlastne ho nemôžeme ani vysloviť. Preto Ludwig Wittgestein napísal: „Je
+      jasné, že etiku nemožno vysloviť.“ Už Platón vedel, že „školometskými slovami“ nemožno povedať, čo znamená slovo
+      „dobré“. „Spomenuté otázky sa totiž nedajú preberať lak ako iné náuky, skôr to príde náhle, keď sa človek tým
+      predmetom dlhšie zaoberá a trvale s ním nažíva, vypukne to v duši ako plameň zapálený od iskry a potom sa už živí
+      sám.“ (Siedmy list)
+    </para>
+    <para>Ak sa i napriek lomu musí stále hovoriť o samozrejmom, je to len preto, lebo sa ustavične popiera. V
+      skutočnosti sa nikdy nevyskytuje v čistej forme. Celý reálny, v spoločnosti platný etos nie je vonkoncom
+      samozrejmý. Nesie stopy nevedomosti, odmietania, potláčania. A tak je možné aj ku každému prevládajúcemu etosu
+      pristupovať ako k etosu vládnucich, kde sa slovo „dobrý“ zneužíva, tam je samozrejmosť používania jeho významu ako
+      jediného a najvlastnejšieho. Ľahko možno preukázať, že je to nesprávne. Aby sme to však mohli urobiť, predsa len
+      treba hovoriť o samozrejmom.
+    </para>
+    <para>Rousseau pochopil túto dilemu: „Netrúfal by som si ľudí poúčať, keby ich iní nezavádzali.“ Poúčať možno v
+      rôznych rovinách.
+    </para>
+    <para>V tej najzákladnejšej rovine sa možno pokúsiť predstaviť si to, čo pokladáme za morálne povinnosti, činnosti,
+      normy alebo hodnoty, odvodiť ich zo spoločného koreňa a uviesť do systematickej súvislosti – do tradičnej oblasti
+      filozofickej etiky.
+    </para>
+    <para>V rovine aplikácie možno objasňovať jednotlivé otázky: lož, eutanáziu, umelý potrat, vojenskú službu, sexuálne
+      otázky, zaobchádzanie s prírodou, atď. Filozofi a teológovia až po Kanta nepovažovali objasňovanie takýchto
+      kazuistických otázok za úlohu, ktorá by bola pod ich dôstojnosť. Etika nie je taká zaujímavá, aby sa oplatilo
+      zaoberať sa ňou aj vtedy, keď neprekročí prázdne formuly a neprináša poučenia pre naše konanie.
+    </para>
+    <para>Osem kapitol tejto knižočky nerobia ani jedno, ani druhé. Pohybujú sa medzi základnými otázkami a kazuistikou
+      – v strednej rovine abstrakcie. Uvažujú o niektorých základných pojmoch, s ktorými denne narábame, keď sa radíme
+      sami so sebou alebo s inými o morálnom aspekte našich činov. Bez terminologickej náročnosti a učenosti sa pokúšajú
+      navodiť uvažovanie o týchto pojmoch.
+    </para>
+    <para>Pôvodne to bola séria relácií v bavorskom rozhlase v januári a februári 1981. Improvizovaný charakter týchto
+      relácií som zmenil. Mojím želaním bolo trochu sa priblížiť tým „častým dôverným rozhovorom“, o ktorých hovorí
+      Platón. Účinok, ktorý si od nich sľuboval, mohol byť iba nepriamy. Nemožno ho chcieť vyvolať zámerne.
+    </para>
     <para>Robert Spaemann</para>
   </preface>
 
   <chapter>
     <title>Filozofická etika alebo: Je dobro a zlo relatívne?</title>
-    <para>Otázka významu slov „dobro“ a „zlo“, „dobrý“ a „zlý“ patrí medzi najstaršie otázky filozofie. Nepatrí však táto otázka aj do iných odborov? Nejdeme azda k lekárovi spýtať sa, či sa smie fajčiť? Nie sú to psychológovia, ktorí radia pri voľbe povolania? A neradí nám finančný odborník: „Bude dobre, keď uzavriete zmluvu o stavebnom sporení ešte teraz, na budúci rok to bude s prémiou horšie a bude dlhší čakací čas.“ Kde sa tu vlastne vynára to etické, to filozofické?</para>
+    <para>Otázka významu slov „dobro“ a „zlo“, „dobrý“ a „zlý“ patrí medzi najstaršie otázky filozofie. Nepatrí však
+      táto otázka aj do iných odborov? Nejdeme azda k lekárovi spýtať sa, či sa smie fajčiť? Nie sú to psychológovia,
+      ktorí radia pri voľbe povolania? A neradí nám finančný odborník: „Bude dobre, keď uzavriete zmluvu o stavebnom
+      sporení ešte teraz, na budúci rok to bude s prémiou horšie a bude dlhší čakací čas.“ Kde sa tu vlastne vynára to
+      etické, to filozofické?
+    </para>
+    <para>Všimnime si, ako sa v uvedených súvislostiach používa slovo „dobrý“. Lekár hovorí: „Bude dobré, ak zostanete
+      ešte jeden deň v posteli.“ Vlastne by mal dodať dve veci: „Bolo by dobré pre vás“, či: „Bolo by dobré pre vás,
+      najmä ak sa chcete uzdraviť.“ Tieto dodatky sú dôležité, lebo ak napríklad niekto plánuje na určitý deň lúpežnú
+      vraždu, vtedy by bolo nepochybne celkove „lepšie“, keby ochorel na zápal pľúc, čo by zabránilo jeho podujatiu.
+      Mohlo by sa tiež stať, že ako chorí máme urobiť niečo dôležité a neodkladné, a keďže neposlúchneme lekára, ktorý
+      nám nariadil pokoj na lôžku, podstúpime riziko, že sa nám chrípka vráti. K otázke, či je „dobré“ takto konať, sa
+      lekár ako lekár vôbec nemôže vyjadriť. Veď „dobro“ v jeho reči znamená: „Dobré pre vás, ak vám ide v prvom rade o
+      vaše zdravie.“ Na to je kompetentný. Či by mi malo vždy ísť v prvom rade o zdravie, k tomu sa môže vyjadriť ako
+      človek, ale nie vo svojej špecifickej kompetencii ako lekár.
+    </para>
+    <para>A ak chcem peniaze jednoducho premárniť alebo darovať priateľovi, ktorý ich nevyhnutne potrebuje, namiesto
+      toho, aby som ich uložil na základe zmluvy o stavebnom sporení, na to finančný poradca nemôže nič povedať. Keby
+      povedal „dobre“, vtedy by mal na mysli: „Bude to dobré pre vás, ak vám ide v prvom rade o perspektívny vzrast
+      vášho imania.“
+    </para>
+    <para>Slovo „dobrý“ teda znamená vo všetkých radách toľko ako: „dobré pre niekoho v určitých prípadoch“. Je leda
+      ľahko možné, že to isté je pre toho istého človeka z rozličných hľadísk dobré i zlé. Tak napríklad nadčasová práca
+      je pre životnú úroveň dobrá, ale pre zdravie zlá. A to isté môže byť pre jedného dobré a pre iného zlé – výstavba
+      diaľnice je pre vodiča auta dobrá, ale zlá pre tých. ktorí bývajú okolo, atď.
+    </para>
+    <para>No slovo „dobrý“ používame aj v inom význame, takpovediac v „absolútnom“ zmysle, t. j. bez dodatku „pre“ a „z
+      určitého hľadiska“. Tento význam sa vtedy stáva aktuálnym, keď medzi záujmami alebo hľadiskami vzniká konflikt, aj
+      keď ide o záujmy a hľadiská tej istej osoby, napríklad medzi hľadiskami životnej úrovne, zdravia a priateľstva. Tu
+      sa potom vynárajú obe otázky: Čo je vlastne a skutočne pre mňa dobré? Aká je správna hierarchia hľadísk? A druhá
+      otázka: O čie záujmy a o čie dobro ide v konflikte prednostne? Tu treba hneď povedať: Pravda o nich patrí k
+      základným poučkám filozofie všetkých čias: že totiž o týchto dvoch otázkach nemožno rozhodnúť nezávisle od seba.
+      Ale o tom až neskôr. Rozmýšľanie o týchto otázkach nazývame jednoznačne filozofickým.
+    </para>
+    <para>Prvé, čo si musíme objasniť, je oprávnenosť takých otázok. Lebo tá sa stále popiera. Ustavične sa stretávame s
+      tvrdením, že etické otázky sú preto nezmyselné, lebo na ne niet odpovedí. Etické výroky vraj nie sú schopné
+      pravdy. V oblasti „dobra pre Jána z hľadiska zdravia“, alebo „dobra pre Pavla z hľadiska úspory na daniach“ by sa
+      dali získať rozumne a všeobecne platné poznatky. Ale tam. kde by sme slovo „dobro“ použili v absolútnom zmysle,
+      tam by naopak boli relatívne, závislé od danej kultúry, epochy, spoločenskej vrstvy a od charakteru toho, kto
+      tieto slová používa. A tento názor sa vraj môže opierať o bohatý skúsenostný materiál. Či nejestvujú kultúry,
+      ktoré schvaľujú ľudské obete? Vari niet otrokárskych spoločností? Či nedali Rimania otcom právo odložiť svoje
+      novorodené dieťa? Mohamedáni dovoľujú mnohoženstvo. V kresťanskej kultúrnej oblasti je len jednoženstvo ako
+      inštitúcia atď.
+    </para>
+    <para>Ako námietka proti možnosti filozofickej etiky, t. j. rozumného vysvetlenia otázky významu slova „dobro“ v
+      absolútnom, nie relatívnom zmysle, sa stále uvádza, že sústavy noriem do značnej miery závisia od kultúry. Ale
+      táto námietka neberie do úvahy, že filozofická etika nespočíva na neznalosti tej to skutočnosti. Práve naopak.
+      Rozumné uvažovanie o otázke všeobecne platného dobra sa začalo na základe objavu tejto skutočnosti.
+    </para>
+    <para>V 5. storočí pred Kristom bola už totiž dostatočne známa. Vtedy sa v Grécku šírili správy z ciest, v ktorých
+      sa hovorili o mravoch okolitých národov fantastické veci. No Gréci sa neuspokojili iba s tým, že tieto zvyky
+      nazvali absurdnými, hodnými opovrhnutia alebo primitívnymi, ale niektorí z nich, filozofi, začali hľadať meradlo,
+      podľa ktorého možno merať rôzne spôsoby života a rôzne sústavy noriem. Azda s tým cieľom, aby sa jedny ukázali
+      lepšie ako druhé.
+    </para>
+    <para>Toto meradlo nazvali „physis“ – príroda. Podľa tohto meradla bola napr. norma skýtskych dievčat odrezať si
+      jeden prsník horšia než opačná norma nerobiť to. Toto je mimoriadne jednoduchý a sugestívny príklad.
+    </para>
+    <para>Pojem prírody však vôbec nebol vhodný na nepochybné riešenie všetkých otázok správneho života. Nateraz nám
+      stačí konštatovať, že hľadanie všeobecne platného kritéria dobrého a zlého života. dobrých a zlých skutkov,
+      vychádza z pozorovania rozmanitosti morálnych systémov noriem, a že poukazovanie na rôznosť nie je zároveň aj
+      argument proti tomuto hľadaniu.
+    </para>
+    <para>Čo sa prihovára za toto hľadanie? Čo sa prihovára za uznanie toho. že slová „dobro“ a „zlo“, „dobrý“ a „zlý“
+      majú nielen absolútny. ale aj všeobecne platný význam? Táto otázka je zle položená. Nejde tu totiž vôbec o nejakú
+      domnienku alebo predpoklad, ale ide tu o istotu, ktorú všetci máme, kým o nej nezačneme výslovne uvažovať.
+    </para>
+    <para>Keď počujeme, že rodičia kruto potrestali malé dieťa za to, že sa nechtiac pocikalo do postieľky, nepokladáme
+      ich konanie za uspokojivé pre rodičov, teda za „dobré“, a pre dieťa za „zlé“, ale s konaním rodičov jednoducho
+      nesúhlasíme, lebo považujeme v absolútnom zmysle za zlé, keď rodičia robia čosi, čo je pre dieťa zlé. A keď
+      počujeme o nejakej kultúre, kde je to zvykom, vtedy usudzujeme, že táto spoločnosť má zlý zvyk. A keď sa človek
+      zachová ako poľský páter Maximilián Kolbe, ktorý sa dobrovoľne prihlásil na smrť v hladovom bunkri v Osvienčime,
+      aby zachránil otca rodiny, nepokladáme to pre toho otca za dobré a pre pátra za zlé, z hľadiska absolútneho teda
+      ľahostajné, ale cítime, ako tu jeden muž zachránil česť ľudstva, ktorú zhanobili vrahovia.
+    </para>
+    <para>Tento obdiv sa prirodzene objaví všade, kde sa bude rozprávať príbeh tohto muža, u austrálskych Pygmehov
+      rovnako ako u nás. No my nemusíme vôbec hľadať také dramatické a výnimočné prípady. Podobnosti medzi morálnymi
+      predstavami v rôznych epochách a kultúrach sú totiž omnoho väčšie ako to obvykle vidíme.
+    </para>
+    <para>Často jednoducho podliehame optickému klamu. Rozdiely sú nám nápadnejšie, lebo podobnosti sú pre nás
+      samozrejmé. Vo všetkých kultúrach jestvujú povinnosti rodičov voči deťom a detí voči rodičom, všade sa vďačnosť
+      považuje za „dobrú“, všade je lakomec odporný a šľachetný človek vážený, skoro všade sa nestrannosť považuje za
+      cnosť sudcu a udatnosť za cnosť bojovníka.
+    </para>
+    <para>Námietka, že tu ide o bežné normy, normy, ktoré sa dajú ľahko odvodiť z biologickej a sociálnej užitočnosti,
+      nie je nijakou námietkou. Pre toho, kto vie niečo o človeku, sú k človeku patriace všeobecné mravné zákony,
+      samozrejme, triviálne. A to, že ich zachovávanie je pre ľudské pokolenie užitočne, je takisto bežné. Ako by mohla
+      byť pre človeka prijateľná norma, ktorej zachovávanie by viedlo ku všeobecnej ujme? Veď čo by mohlo byť pre
+      človeka užitočnejšie než to, čo zodpovedá jeho prirodzenosti? Rozhodujúce však je, že biologická alebo sociálna
+      užitočnosť nie je pre nás základom hodnotenia-mravnosť, teda mravné dobro, sa ňou nedefinuje. Skutok Maximiliána
+      Kolbeho by sme si vážili aj vtedy, keby otec rodiny, za ktorého sa obetoval, na druhý deň prišiel o život. A
+      prejavy priateľstva alebo vďačnosť by sme pokladali za dobré, aj keby sa svet zajtra pominul.
+    </para>
+    <para>Táto skúsenosť prevažujúcich morálnych podobnosti v rôznych kultúrach na jednej strane a bezprostrednosť nášho
+      vlastného absolútneho hodnotenia určitých spôsobov konania na druhej strane je to, čo oprávňuje teoretické úsilie
+      vyrovnať sa s týmito spoločnými aspektami a nevyhnutnosťami, s týmto meradlom správneho života.
+    </para>
+    <para>Ale práve kultúrne rozdielnosti nás vyzývajú hľadať nejaké kritérium hodnotenia. Jestvuje také? Zatiaľ sme
+      brali do úvahy len predbežné argumenty, takpovediac prvé náznaky. K dôkladnejšiemu zodpovedaniu tejto otázky sa
+      chceme priblížiť lak, že budeme skúmať dve krajne protichodné stanoviská, ktoré sa zhodnú len v jednom, že totiž
+      nemajú nijakú všeobecnú obsahovú platnosť – teda dva varianty etického relativizmu.
+    </para>
+    <para>Prvá téza znie asi takto: Každý človek by sa mal riadiť podľa morálky panujúcej v jeho spoločnosti. Druhá
+      znie: Každý by sa mal riadiť podľa vlastnej ľubovôle a robiť to, na čo má chuť. Tieto dve tézy neobstoja pred
+      rozumným skúmaním.
+    </para>
+    <para>Uvážme najprv prvú tézu: „Každý by sa mal riadiť morálkou panujúcou v jeho spoločnosti.“ Táto požiadavka vedie
+      k trom rozporom. Po prvé, protirečí si už tým, že ten, kto ju kladie, chce vytvoriť prinajmenšom jednu všeobecne
+      platnú normu, a to tú, že sa vždy treba riadiť vládnucou morálkou.
+    </para>
+    <para>Proti tomu sa môže namietať, že tu nejde o obsahovú normu, ale o akúsi nadnormu či metanormu, ktorá vôbec
+      nemôže konkurovať samostatným normám morálky. Lenže nie je to také jednoduché. Veď napríklad súčasťou panujúcej
+      morálky môže byť aj zaznávanie morálky iných spoločností a odsudzovanie ľudí, ktorí akceptujú tieto odlišné
+      morálky.
+    </para>
+    <para>Keď teda zachovávam len morálku panujúcu v mojej kultúrnej oblasti, musím sa zúčastňovať na odsudzovaní iných
+      morálok. Možno patrí k panujúcej morálke určitej kultúry dokonca misionársky elán, ktorý vedie ľudí k tomu, aby
+      prenikali do cudzích kul túr a menili ich normy. V tom prípade nemožno zachovať uvedené pravidlo, tj. povedať, že
+      všetci ľudia majú prijať u nich panujúcu morálku.
+    </para>
+    <para>Ak prijmem morálku dominujúcu v prostredí, v ktorom žijem, musím sa pokúsiť odhovoriť iných ľudí od toho, aby
+      žili podľa svojej morálky. V takej kultúre sa teda podľa tohto pravidla vôbec nedá žiť.
+    </para>
+    <para>Po druhé: V spoločnosti nemusí vždy dominovať určitá morálka. Práve v našej pluralistickej spoločnosti si
+      navzájom konkurujú rôzne ponímania morálky. Jedna časť spoločnosti napríklad odsudzuje umelý potrat ako zločin.
+      Druhá časť ho prijíma a dokonca brojí proti pocitom viny v tejto súvislosti. Princíp pridržiavať sa vždy platnej
+      morálky nás teda vôbec nepoúča o tom, ktorú platnú morálku si máme vybrať.
+    </para>
+    <para>Po tretie: Existujú spoločnosti, v rámci ktorých sa správanie zakladateľa, proroka, reformátora či
+      revolucionára povyšuje ako vzor, ktorý sa neprispôsobuje morálke svojich čias, ale ju mení. Môže sa síce stať, že
+      jeho meradlá uznáme za správne a že nové zásadne zmeny nepovažujeme za potrebné. A to preto, lebo sme presvedčení
+      o obsahovej správnosti jeho pokynov, no nie preto, že by sme prispôsobovanie považovali za správne. Veď príkladom
+      nám je tu práve niekto, kto sa sám vôbec neprispôsobil. Komu sa tu teda má prispôsobiť ten, kto sa chce zásadne
+      prispôsobovať?
+    </para>
+    <para>Toľko o prvej téze. Absolutizovala panujúce morálky, vymedzila teda slová „dobro“ a „zlo“ jednoducho nimi
+      samými a zaplietla sa pritom do uvedených protirečení.
+    </para>
+    <para>Druhá téza naproti Lomu odsudzuje každú platnú morálku ako represiu, ako potláčanie a vyžaduje, aby každý
+      konal podľa svojej ľubovôle a hol šťastný po svojom. Vtedy je vecou trestného zákonníka a polície, aby urobili
+      všeobecne škodlivé konanie v záujme postihnutých takým nevýhodným pre konajúceho, že ho vo vlastnom záujme
+      zanechá. Prvá téza by sa dala nazvať autoritatívnou, táto zasa anarchistickou alebo individualistickou.
+      Preskúmajme aj túto.
+    </para>
+    <para>Na prvý pohľad sa nám javí, ako nezmyselnejšia než prvá, lebo je v priamom rozpore s naším morálnym cítením.
+      Ale teoreticky sa dá ťažšie vyvrátiť preto, lebo často má povahu dôslednej nemorálnosti, pre ktorú „dobro“ a „zlo“
+      nejestvuje v inom zmysle ako „dobro pre mňa z určitého hľadiska“.
+    </para>
+    <para>Človekovi takého druhu, ktorý medzi vernosťou matky k svojmu dieťaťu, činom Maximiliána Kolbeho, činom jeho
+      vrahov, nesvedomitosťou priekupníka alebo šikovnosťou burzového špekulanta nevidí nijaké hodnotové rozdiely,
+      chýbajú určité základné skúsenosti a možnosti skúseností, ktoré sa nedajú nahradiť argumentmi.
+    </para>
+    <para>Aristoteles píše: „Ľudia, ktorí hovoria, že je dovolené zabiť vlastnú matku, si nezaslúžia argument, ale
+      bitku. Možno aj povedať, že taký človek by potreboval priateľa. Ale je otázka, či by bol schopný priateľstva.
+      Skutočnosť, že on azda argumenty ani nepočúva, neznamená, že proti nemu argumenty nejestvujú.“
+    </para>
+    <para>Presnejšie povedané, téza, že každý má robiť, čo chce, je trivialitou. Každý beztak robí, čo sa mu páči. Kto
+      koná podľa svojho svedomia, tomu sa páči konať podľa svojho svedomia. Kto zachováva niektoré mravné normy, tomu sa
+      páči tak robiť. Čo má teda na mysli ten, kto s morálno-kritickým zámerom vyslovuje tézu, že „každý má robiť, čo sa
+      mu páči“? Zrejme vychádza z toho, že v ľuďoch sú rôzne pohnútky a že on obhajuje jednu z nich a druhú zaznáva.
+    </para>
+    <para>Za tým cítiť predstavu, že jedny z nich sú človekovi vlastnejšie, prirodzenejšie než druhé, tzv. morálne
+      pohnútky. Tie sa naproti tomu chápu ako určitý druh cudzích nariadení, ako zvnútornenú nadvládu, od ktorej sa
+      treba oslobodiť.
+    </para>
+    <para>Ale obhajobou samourčenia, tj. prirodzeného proti nanútenému, vyúsťuje antimorálny protest priamo späť do
+      tradície filozofickej morálky. Lebo tá sa začala zoči-voči rôznym spoločenským zvykom pýtať na to, čo je vlastne
+      človekovi prirodzené. A domnievala sa, že slobodný môže byť vlastne len len, kto robí, čo je preňho prirodzené.
+      Ale čo je to?
+    </para>
+    <para>Kto hovorí: „Každý má robiť, čo sa mu páči“, ten sa otáča v kruhu. Ten zaznáva skutočnosť, že človek nie je
+      bytosť poznačená pudmi, ale bytosť, ktorá musí najprv hľadať a nájsť meradlá svojho konania. Ani reč nemáme od
+      prírody, musíme sa ju naučiť. Človek sa netvorí sám od seba ako zviera. Ľudský život sa nežije sám od seba. Musíme
+      sa. ako sa hovorí, „naučiť žiť“. Máme totiž konkurujúce si pohnútky a želania. A výrok: „Rob, čo chceš“,
+      predpokladá, že človek už vie, čo chce.
+    </para>
+    <para>Lenže my nespejeme k tomu, aby sme si vytvorili vôľu zhodnú samu sa so sebou bez ohľadu na to, čo znamená
+      slovo „dobro“. Toto slovo znamená hľadisko, ktorému sa podriaďujú všetky ostatné zretele, ktoré nám kážu to či ono
+      chcieť. Bez toho, že by sme povedali, v čom spočíva, predsa môžeme povedať, v čom nespočíva. Nespočíva v zdraví –
+      lebo zavše môže byť aj dobré, keď je niekto chorý. Nespočíva v úspechu v povolaní – lebo zavše môže byť aj dobré,
+      keď je niekto trochu menej úspešný. Nespočíva v altruizme – lebo niekedy môže byť dobré myslieť aj na seba.
+    </para>
+    <para>Anglický filozof Moore nazval „naturalistickým chybným záverom“ pokusy nahrádzať slovo „dobro“ nejakým iným
+      slovom, tj. nejakým špeciálnym hľadiskom. Lebo keby „byť dobrý“ znamenalo napr. jednoducho „byť zdravý“, potom by
+      sa už nemohlo vôbec povedať, že zdravie je väčšinou niečo dobré, lebo tým by sa povedalo, že zdravie je byť
+      zdravý.
+    </para>
+    <para>Správne žiť. dobre žiť znamená predovšetkým hierarchicky správne si usporiadať vlastné záľuby. Antickí
+      filozofi mysleli, že našli kritérium správneho poradia. Správne je podľa nich poradie, pri ktorom je človek
+      šťastný a spriatelený so sebou. Lebo práve to nedosiahne pri ľubovoľnom poradí, takže rada „rob, čo sa ti zachce“
+      na zodpovedanie otázky, čo sa mi má páčiť, nestačí. Nestačí ani z inej príčiny. Lebo jestvuje nielen moja vôľa,
+      ale aj vôľa druhých.
+    </para>
+    <para>Pravidlo, podľa ktorého každý má robiť, čo chce, je preto dvojznačným pravidlom. Môže znamenať: každý má s
+      vôľou druhých zaobchádzať, ako sa mu páči, zmierlivo a znášanlivo, alebo násilne a neznášanlivo. Môže tiež
+      znamenať, že každý má rešpektovať vôľu druhého.
+    </para>
+    <para>Taká všeobecná požiadavka tolerancie však obmedzuje vlastnú vôľu. Treba si uvedomiť, že tolerancia nie je
+      samozrejmý dôsledok morálneho relativizmu, ako sa to často tvrdí. Tolerancia spočíva v určitom morálnom
+      presvedčení, ktoré si vyžaduje všeobecnú platnosť. Morálny relativista môže naproti tomu povedať: „Prečo mám byť
+      tolerantný? Každý má žiť podľa svojej morálky. Moja morálka mi dovoľuje násilnosti a neznášanlivosť.“
+    </para>
+    <para>Preto treba mať určitú ideu dôstojnosti každého človeka, aby sa požiadavka tolerancie mohla uznať za
+      pochopiteľnú. Inak požiadavka tolerancie vôbec nestačí na to, aby sa riešili konflikty medzi želaniami jednych a
+      druhých. Niektoré želania sú jednoducho nezlučiteľné.
+    </para>
+    <para>Ako sú vo mne nezlučiteľné želania rôzneho stupňa, tak môžu byť nezlučiteľné aj želania rôznych osôb rôzneho
+      stupňa. Nie je vždy dobre uprednostňovať vlastné želania, ani uprednostňovať želania druhých. Aj tu treba vedieť,
+      ktoré želania jedného a druhého si navzájom konkurujú. Riešenie prijateľné pre obidve strany sa nájde len vtedy,
+      ak sa nájde možné spoločné meradlo na posúdenie týchto želaní, tj. meradlo schopné vyjadrovať pravdu. Etický
+      relativizmus vychádza z pozorovania, že práve tieto meradlá sú sporné. No tento argument dokazuje opak toho, čo
+      chce dokázať. Lebo každý teoretický spor sa zakladá na idee spoločnej pravdy. Keby mal každý svoju vlastnú pravdu,
+      nebolo by sporu, ale len vzájomné sebauplatňovanie až do vypuknutia konfliktu. Konflikt by sa však nedal vyriešiť
+      rozumným uvažovaním a možno ani hádkou o správne meradlo, ale len fyzickým právom silnejšieho, ktorý proste
+      presadí svoju vôľu. Líška a zajac sa spolu nehádajú o správny život. Buď idú každý svojou cestou, alebo to zajac
+      zaplatí životom.
+    </para>
+    <para>Spor o „dobro“ a „zlo“ dokazuje, že etika je sporná. Z toho však vyplýva i to, že etika nie je jednoducho čosi
+      relatívne, takže v jednotlivých prípadoch v nej môže obstáť aj dobro, i keď ťažko rozhodnúť hraničné prípady.
+      Dokazuje, že niektoré druhy konania sú lepšie než druhé – vôbec lepšie, nielen pre niekoho, ale aj lepšie v
+      porovnaní s určitými kultúrnymi normami. To vieme všetci. Zmysel filozofickej etiky je v objasnení poznatkov o
+      sebe a v schopnosti obrániť ich pred sofistickými námietkami.
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>Výchova alebo: Princíp pôžitku a princíp reality</title>
+    <para>V prvej kapitole išlo o to, aby sme si pripomenuli niečo, čo už všetci vieme: že je rozdiel medzi lepším a
+      horším, medzi dobrom a zlom. Tento rozdiel je nielen relatívny podľa potrieb jednotlivých ľudí, ktorých sa to
+      týka, ale vyjadruje aj absolútne hodnotenie bez ohľadu na konkrétny prípad. A tiež celkom spontánne vieme, že
+      tento rozdiel je všeobecne platný napriek všetkým jednotlivým dejinným a kultúrnym rozdielom. Môžeme totiž
+      porovnávať aj morálne štandardy rôznych kultúr. A pritom sme dokonca schopní dať štandardom iných lepší prívlastok
+      než našej vlastnej kultúre.
+    </para>
+    <para>Najskôr išlo o to, obrániť toto pôvodné poznanie proti niektorým skeptickým a relativistickým námietkam.
+      Dôkladnejšie poznanie toho, čo vlastne mienime, keď hovoríme o správnom a nesprávnom živote, o dobre a zle, o
+      dobrom a zlom, predpokladá niektoré ďalšie úvahy. Tými chceme teraz začať.
+    </para>
+    <para>Sme zvyknutí spájať takzvané morálne otázky so slovom „treba“, s myšlienkou požiadaviek alebo prikázaní. No
+      požiadavky sa obracajú na našu vôľu. Aby som niečo urobil, musím to chcieť. Keď niečo máme urobiť, znamená to. že
+      to máme chcieť.
+    </para>
+    <para>„Robím, čo chcem“ je vlastne celkom zbytočný zvrat, lebo to. že každý robí, čo chce, sme videli už v kapitole
+      1. Otázka je len, prečo niečo chcem. Kto poslúcha lekára, ktorý mu zakáže jesť pečené mäso, robí to, lebo chce byť
+      alebo zostať zdravý. Aj ten, ktorý odovzdá lúpežníkovi svoju peňaženku, robí to preto, lebo si chce zachrániť
+      život. Kto nič nechce, od toho ani nemožno niečo požadovať. V chorobnom stave nerozhodnosti, apatie, vyznieva
+      každé chcenie naprázdno.
+    </para>
+    <para>Keď sa asi pred 2500 rokmi začalo filozoficky rozmýšľať o etike, tj. o správnom živote, nebola na začiatku
+      týchto úvah otázka, čo máme robiť, ale otázka, čo vlastne v podstate chceme robiť. Lebo väčšinu toho, čo chceme,
+      vlastne ani ako také nechceme, ale chceme to preto, aby sme dosiahli niečo iné, ako to ukazujú príklady o
+      lúpežníkovi alebo lekárovi. Každé treba nadväzuje na nejaké predchádzajúce chcenie, lebo ináč by srne nemali
+      nijaký dôvod si túto potrebu osvojiť.
+    </para>
+    <para>Keby sme presne pochopili, čo vlastne podstate chceme – tak uvažovali Gréci polom by sme vedeli, čo máme robiť
+      a v čom spočíva správny život. To, čo v podstate chceme a kvôli čomu chceme a robíme všetko ostatné, nazvali Gréci
+      dobrom alebo najvyšším dobrom.
+    </para>
+    <para>Otázka „Čo je najvyššie dobro?“, okolo ktorej sa krútila celá antická etika, neznamenala: „Čo je mravne
+      opodstatnené?“, ale: „Čo je vlastne konečný cieľ nášho snaženia?“ Keby sme to vedeli, tak by sme podľa toho vedeli
+      rozlíšiť aj morálky – či sú prirodzené alebo neprirodzené a represívne. Prirodzené sú vtedy, keď nám pomáhajú
+      dosiahnuť to, čo vlastne v podstate chceme; neprirodzené sú vtedy, keď to nerobia. Sústavy noriem môžu byť
+      dvojakým spôsobom neprirodzené: Buď vydávajú človeka cudziemu určeniu, alebo ho prenechávajú vlastnej ľubovôli.
+    </para>
+    <para>Aj cudzie určenie nadväzuje na vlastné chcenie, ale mocipán môže splnenie našich želaní urobiť závislým od
+      toho, že najprv my splníme jeho želania, hoci protirečia našim, ako je želanie lúpežníka, ktorý nám ponechá život,
+      len keď mu dáme peňaženku. V tomto zmysle sa na nás môžu vzťahovať morálne normy, ktoré vôbec nie sú v našom
+      záujme, ale len, ak tieto normy splníme, získame to, čo chceme. Také morálky sú „zvnútornenou nadvládou“.
+    </para>
+    <para>Neprirodzenou je aj taká morálka, ktorá nás vydáva napospas našej ľubovôli, tj. našim momentálnym želaniam a
+      náladám, ktoré, či už pre nedostatok vedomostí alebo pre nedostatok sebaovládania, zmárnia to, čo vlastne chceme.
+    </para>
+    <para>No jestvuje vôbec také základné chcenie človeka, podľa ktorého by sme mohli merať všetky jeho jednotlivé
+      želania a úsilia, ako aj všetky normy platné v danej spoločnosti? Ak áno, v čom spočíva?
+    </para>
+    <para>Najstaršia odpoveď na túto otázku, ktorá je aj dnes opäť veľmi rozšírená, znie: Čo vlastne v podstate chceme a
+      k čomu smeruje všetko ostatné chcenie, je pôžitok a zamedzenie nepohody, čiže jednoduchšie povedané: chceme sa
+      cítiť dobre. Dobré je, čo pomáha dosiahnuť tento cieľ, a zlé je, čo tomu prekáža. Tento názor sa nazýva
+      „hedonizmus“ – z gréckeho slova hedoné, rozkoš. Hedonizmus je prvý výsledok reflexie o základe nášho konania, a
+      preto aj prvý sústavný morálny princíp. Že je nedostatočný, to ešte uvidíme. No predbežne je dobré si uvedomiť, že
+      obsahuje jeden objav. A to objav, o ktorom som hovoril na začiatku: skôr než niečo máme urobiť, musíme niečo
+      chcieť. Aby som urobil niečo, čo je samo osebe dobré, musí to byť v nejakom zmysle aj pre mňa dobré, lebo sa to
+      musí stať pre mňa pohnútkou a musím v tom nejakým spôsobom nájsť uspokojenie, ináč by som to ani nemohol chcieť.
+    </para>
+    <para>Hedonizmus však interpretuje tento svoj objav falošne. Zo skutočnosti, že každé dosiahnutie cieľa chcenia je
+      spojené s nejakým uspokojením, usudzuje, že toto uspokojenie je vlastným cieľom konania. Všetko ostatné je žiaduce
+      len kvôli tomuto cieľu. Toto tvrdenie však nemá nijaké opodstatnenie. Robí mi samozrejme radosť, keď sa mi podarí
+      zachrániť nejakému Človekovi život, alebo prejaviť niekomu darčekom vďačnosť za to, že mi pomohol. Ale bolo by za
+      vlasy pritiahnuté povedať, že som to urobil preto, aby to uspokojilo mňa. To je skôr dodatočný výklad nejakého
+      vonkajšieho pozorovateľa, alebo úvaha, v ktorej sa stávame divákmi vlastného konania namiesto toho, aby sme
+      jednoducho niečo chceli a robili.
+    </para>
+    <para>Filozofickí hedonisti však nepodliehali vždy tomuto omylu. Niektorí z nich, ako napríklad Epikur os, dobre
+      vedeli, že ľuďom vo všeobecnosti nejde o ich vlastný pôžitok, ale o mnohé veci života, dôležité i nedôležité,
+      dobré i zlé. On to však považoval za stav sebaodcudzenia človeka, v ktorom sú ľudia stále nešťastní, lebo
+      nedosahujú veci, ktoré chcú dosiahnuť. Preto netvrdil, že všetci ľudia sú hedonisti, ale odporúčal, aby sa nimi
+      stali. Mali by sa naučiť, že najvyššie dobro nespočíva vo veciach alebo ľuďoch, ale len v potešení, ktoré vo
+      veciach a ľuďoch nachádzame.
+    </para>
+    <para>Rozoznávame dva varianty hedonizmu. Pozitívny a negatívny. V jednom ide najmä o maximalizovanie pôžitku a v
+      druhom väčšmi o zamedzenie nepohody. Prvý sa vyskytuje najmä vo vládnucich vrstvách spoločnosti, ktoré si môžu
+      dovoliť zvyšovať svoje túžby, lebo majú prostriedky na ich uspokojenie. Druhý variant je skôr asketický. Ten
+      obmedzuje túžby, aby už vopred zmenšoval možné frustrácie. To bol postoj Epikura. Ten sa spája väčšinou so
+      starostlivosťou o zdravie. Lebo trvalejší zisk pôžitku predpokladá zdravie.
+    </para>
+    <para>K tomu pristupuje ešte tretia úvaha. Stupeň pocitu šťastia závisí aj od horizontu očakávania. Kto si zvykol na
+      uspokojovanie mnohých diferencovaných potrieb, ten z toho perspektívne nemá viac pôžitku ako ten, kto má skromné
+      túžby. Ale jeho pôžitky sa ťažšie dosahujú. Ich príprava potrebuje viac času zo života, ktorého bohatý človek nemá
+      nazvyš. A sú aj ohrozenejšie. Preto je podľa Epikurovho názoru rozumné držať svoju žiadostivosť na uzde.
+    </para>
+    <para>Napokon aj cnosť, dobroprajnosť, priateľstvo, štedrosť patria podľa Epikura k dobrému životu, lebo tieto
+      vlastnosti sú pre toho, kto ich má, zdrojom radosti. Ježišov výrok „Blaženejšie je dávať ako dostávať!“ možno aj
+      hedonisticky zdôvodniť. Hedonizmus obsahuje dôležité náhľady patriace k umeniu žiť. Lenže on ich hneď aj kazí,
+      lebo ako ešte uvidíme, práve sústreďovanie sa na vlastný pôžitok stojí v ceste ozajstnému šťastiu.
+    </para>
+    <para>Najprv si však treba uvedomiť nasledovné: aj keď vychádzame z toho, že človek túži v prvom rade po pôžitku,
+      pristupuje k tomu už vo včasnom vývine každého človeka ešte aj iné úsilie, a to sebazáchovné. U zvieraťa je
+      inštinkt sebazáchovy a zachovania druhu bezprostredne spojený s pudom ukájania, s inštinktívnym obchádzaním
+      znechucujúcich stavov. V prirodzených podmienkach prostredia chutí zvieraťu práve to, čo prospieva jeho
+      sebazáchove. A na zachovanie druhu tiež nemusí myslieť. To sa zabezpečuje uspokojením pohlavného pudu. Aj človek
+      je vybavený hladom, smädom a pohlavným pudom. Ale ak sa zameria výlučne na uspokojenie pudu, môže ho to odvádzať
+      od jeho prirodzeného účelu pudu sebazáchovy a zachovania druhu. Svet sa nám nejaví ako pudmi vopred pripravené
+      životné prostredie, ale ako otvorená ríša nekonečných možností uspokojovania, ale aj nekonečných ohrození – lebo
+      nemôžeme beztrestne splniť každé naše želanie.
+    </para>
+    <para>Preto Sigmund Freud opísal raný vývoj dieťaťa pomocou oboch pojmov, princípu pôžitku a reality. Videl to
+      takto: Dieťa je spočiatku vybavené len neurčitým libidom, túžbou po rozkoši, po telesnom dotyku a zjednotení. No
+      dieťa pociťuje aj realitu ako takú, ktorá nevyhovuje tejto túžbe ľubovoľne, automaticky a bezmedzne. Realita sa
+      neriadi podľa nás. My sa musíme riadiť podľa nej. Musíme sa zriecť časti svojich želaní, aby sme mohli splniť inú
+      časť, aby sme sa vôbec zachovali pri živote. Freud videl v princípe reality pôvod rozumu. V rozprávkovej krajine,
+      kde by sa každé želanie bez námahy hneď splnilo a nemuseli by sme brať do úvahy nijaké iné, od nás nezávislé
+      okolnosti, by sa niečo také, ako je rozum, vôbec nevyvinulo. Freud videl celý ľudský život ako kompromis (kvôli
+      sebazáchove) medzi tým, čo vlastne chceme – tj. bezhraničným uspokojovaním libida – a prispôsobením sa realite,
+      ktorá prekáža tomuto uspokojovaniu. Človek je z tohto hľadiska takpovediac znemožňovaným hedonistom. V tom tkvie
+      príčina všetkých neuróz, ale aj všetkých kultúrnych výkonov, vyplývajúcich z tzv. sublimácie primárnych pudov.
+    </para>
+    <para>Freud objavil dovtedy neznáme javy. Ale vysvetlil ich aj dobre? Na zodpovedanie tejto otázky urobíme takýto
+      myšlienkový experiment: Predstavte si človeka, ktorý je v operačnej sieni pripútaný ku stolu. Je v narkóze. Do
+      jeho lebky vedie niekoľko vodičov. Tieto vodiče privádzajú presne dávkované údery prúdu do určitých mozgových
+      centier, ktoré spôsobujú, že tento človek je v ustavičnej eufórii. Na jeho tvári sa odzrkadľuje stav najväčšej
+      blaženosti. Lekár, ktorý robí tento pokus, vyhlasuje, že tento človek zostane v takomto stave ešte najmenej desať
+      rokov. Keď už nebude možné tento stav predlžovať, nechajú ho po odpojení prístroja hneď bezbolestne zomrieť. Lekár
+      nám ponúka, že i nás uvedie do takého stavu. A teraz nech sa každý opýta sám seba, či by bol ochotný dať sa uviesť
+      do takéhoto stavu blaženosti.
+    </para>
+    <para>Čo vyplýva z našej neochoty prijať takúto ponuku? Je to skutočnosť, že to, čo my vlastne a v podstate chceme,
+      vôbec nie je získanie rozkoše. Ten človek na stole zrejme prežíva najvyššie pocity rozkoše. A predsa s ním
+      nechceme zameniť. Radšej chceme pokračovať v našom obyčajnom živote. Prečo nechceme meniť? Lebo ten človek je mimo
+      skutočného života, mimo reality. On to síce nebadá, jeho sen azda oživujú najmilší ľudia. No priemerní, ale zato
+      reálni ľudia sú nám predsa milší. Vôbec nie je pravda, že realitou pre nás je v prvom rade to nepríjemné, odporné,
+      čomu sa musíme prispôsobovať. Ona je zároveň to, čo nechceme za žiadnu cenu stratiť. V realite je rozkoš pomiešaná
+      s bolesťou. Bolesť, pokiaľ nie je nadmerná, má pritom dôležitú funkciu. Ukazuje nám totiž ohrozenia života. Je v
+      službách sebazáchovy. Pud sebazáchovy vskutku obmedzuje túžbu po rozkoši. No nie v zmysle lenivého kompromisu,
+      lebo rozkoš nie je zrejme hlavnou vecou, ktorú v podstate chceme, ale len žiaducim sprievodným javom. Skúsenosť
+      reality naproti tomu vôbec nie je prekážkou naplnenia nášho života, ale skôr jeho vlastným obsahom. A skutočnosť,
+      že tu ide vždy o našu sebazáchovu – hoci s vedomím, že sa náš život skončí smrťou dodáva vlastne zmysel nášmu
+      životu, akokoľvek čudne to znie. Urobme ešte jeden myšlienkový experiment. Predstavme si, že by sme sa v tomto
+      okamihu dozvedeli, že nikdy nezomrieme. Nedostaneme sa, ako to učí kresťanská viera, po smrti do vyššieho stupňa
+      bytia, ale akí sme teraz, budeme stále ďalej žiť bezbolestne, bez starnutia. Kto má dosť fantázie predstaviť si,
+      čo to znamená, rýchle pochopí, že by to bola katastrofa. Niekto by rád žil 200 rokov. Ale večne – to by
+      znehodnotilo každý okamih, radosť, ľudské stretnutia. Všetko, Čo teraz robíme, mohli by sme takisto urobil aj
+      zajtra či pozajtra. Všetko by bolo celkom ľahostajné. Vecí okamih nadobúda hodnotu tým, že sa v živote už nikdy
+      nevráti. V nekonečnom živote by nebolo nič drahocenné. Tak vzniká paradoxná situácia: Bez starosti o život
+      ohrozovaný koncom neexistuje naplnené bytie.
+    </para>
+    <para>Sebazáchova, rovnako ako získanie pôžitku, nie je vlastným zmyslom života, lebo potom by sme túžili žiť
+      nekonečne a taký život by zase nebol žiaduci. Ani sebazáchovu, ani získanie rozkoše, si neprajeme za každú cenu.
+      Niekto môže obetovať život za iného človeka. Niekto sa môže – ako hovorí Brecht – „väčšmi báť zlého života než
+      smrti“. V dejinách jestvovali popri hedonistických morálkach aj ako reakcie na ne – morálky sebazáchovy, systémy
+      noriem, ktoré všetko podriaďovali hľadisku sebazáchovy, či už individuálneho zachovania alebo zachovania celej
+      sociálnej sústavy.
+    </para>
+    <para>Keďže toto hľadisko vôbec neberie do úvahy to, čo sa tu teda má zachovať, keďže otázku dobrého života obetuje
+      otázke podmienok zachovania života, potom ani v takých morálkach nevidíme vyjadrený celý význam toho, čo znamená
+      slovo „dobro“. Hľadiská životného naplnenia a zachovania života nesmieme od seba oddeľovať. To platí aj v oblasti
+      politiky. Kde spoločnosť buduje právo na slobodu a subjektívnu spokojnosť občanov bez obmedzenia a bez ohľadu na
+      podmienky zachovania bezpečnosti, tam sa sloboda a blahobyt pravdepodobne čoskoro skončia. Kde sa však
+      zabezpečenie slobodného systému tak zdokonalí, že sa všetko podriadi zachovaniu, tam sa obetuje práve to. čo sa má
+      udržať a čo robí sústavu hodnou zachovania. Tu ide takpovediac o ľavý a pravý variant možnosti zničiť dobrý život.
+    </para>
+    <para>Inak sa každý systém udržuje len určitými zmenami, prispôsobovaním sa prostrediu. Kde je systém meravý, tam sa
+      rozpadne. A kde v prispôsobovaní sa a zmenách zachádza priďaleko, tam stratí systém svoju identitu a zanikne.
+      Potom nie je taký, aký bol predtým. Zameranie na sebazáchovu, či už meravým udržovaním alebo zveličeným
+      prispôsobovaním sa, znemožňuje vydarený život. Jestvuje dialektika zachovania a naplnenia. Je otázkou povahy, či
+      sa niekto pridŕža viac jednej alebo druhej strany, či je preňho charakteristický strach, že niečo zamešká, alebo
+      strach, že niečo stratí. Politická ľavica a politická pravica sa dá, ako sme už povedali, typologický priradiť k
+      obidvom typom obáv a tendencií, k princípu pôžitku i princípu reality, k princípu naplnenia i princípu záchovy.
+    </para>
+    <para>Pred desaťročím vtedajší duchovný mentor lavicového hnutia, Herbert Marcuse, zastával tézu, podľa ktorej
+      vzhľadom na nástup blahobytnej spoločnosti sa môže vláda princípu reality, ktorú ešte Feud považoval za
+      nevyhnutnú, uvoľňovať. Heslo: „Fantázia k moci“ – celkom v zmysle Herberta Marcuseho – bolo v r. 1968 napísané na
+      múroch parížskej Sorbonny. Pre tých, ktorí sa oddávali tejto nádeji, musela byť naftová kríza a všetko, čo po nej
+      nasledovalo, hlbokým sklamaním. Ale sklamania sú vždy dobré, lebo klamanie je vždy zlé. Len ten, kto posudzuje
+      ľudí ako bytosti, ktorým koniec-koncov v podstate ide o maximalizovanie subjektívnych radostí, musí chápať realitu
+      ako niečo nepriateľské. Kto pochopil, že chceme práve realitu – skutočnosť, že zážitok reality a aktívne
+      vyrovnávanie sa s ňou nás vedie k sebe samým, ten to vidí ináč. Ten pochopí, že dobro má niečo clo činenia so
+      skúsenosťou z reality a so spravodlivým posudzovaním skutočnosti.
+    </para>
+    <para>Táto kapitola má nadpis „Výchova alebo: Princíp pôžitku a princíp reality“. Slovo „výchova“ tu dosiaľ vôbec
+      nepadlo. A predsa, po celý čas sa o nej hovorilo. Na začiatku každej etiky, všetkých vedomých otázok o správnom
+      živote, stojí proces, v ktorom sa dieťa opatrne a cieľavedome privádza zo zaujatia vlastným subjektívnym citovým
+      svetom do reality, do skutočnosti, ktorá je aj bez nás taká, aká je. Rousseau kedysi odporúčal, aby matky, keď
+      dieťa v ich náručí vystiera ruku za jablkom, nenosili jablko k dieťaťu, ale dieťa k jablku. Tak sa dieťa naučí, že
+      veciam nemožno rozkazovať, že sa musíme pohybovať sami. Aj Matthias Claudius píše svojmu synovi Johannesovi: „Syn
+      môj, pravda sa neriadi podľa nás, my sa musíme riadiť podľa nej.“
+    </para>
+    <para>Ide o to, že je to tak nie bohužiaľ, ale našťastie. Lebo naše sily môžeme rozvíjať len na skutočnosti, ktorá
+      nám kladie odpor. Každá hlbšia radosť v živote súvisí s rozvojom našich síl a schopností. Vychovávateľ má za úlohu
+      viesť deti do samostatnej a rozporuplnej skutočnosti. Matka je vo všeobecnosti prvá samostatná skutočnosť, s
+      ktorou sa dieťa stretne. Tým je dané, že skutočnosť sprvu prežíva ako pomáhajúcu a priateľsky naklonenú.
+      Nadobudnutie tejto základnej skúsenosti – psychológia hovorí o „prvopočiatočnej dôvere“ – je to najdôležitejšie,
+      čo výchova môže poskytnúť. Lebo kto sa môže opierať o spomienky na blažený svet, len sa ľahšie prebíja tým
+      neblahým.
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>Zmýšľanie a zodpovednosť alebo posväcuje cieľ prostriedky?</title>
+    <para>Čo znamená byť spravodlivý k človeku? Tak sme sa začali spytovať. Ešte sme túto otázku nezodpovedali.
+      Pomenovali sme iba prvú podmienku, ktorú označujeme slovom „spravodlivosť“. Rozumeli sme pod tým postoj človeka,
+      ktorý je ochotný a spôsobilý pri delení nedostatkových existenčných prostriedkov alebo pri nárokoch na ne,
+      odhliadnuť od seba a vlastných osobných záľub a sympatií, a namiesto toho je ochotný použiť také kritérium, ktoré
+      obstojí zoči-voči každému postihnutému. V takom prípade hovoríme, že sa nerovnosť v delení musí odôvodniť. Musí
+      byť úmerná relevantným vlastnostiam, a nie diskriminácii osôb alebo skupín obyvateľov, s ktorou by títo nikdy
+      nesúhlasili. Spravodlivosť znamená uznať, že každý človek si zasluhuje úctu už kvôli sebe.
+    </para>
+    <para>No spravodlivosť nestačí na to, aby sme boli k ľudom spravodliví. Vláda, ktorá by zakázala všetkým, vrátane
+      členom vlády, voňať ruže, by nepostupovala nespravodlivo, lebo nikoho by nediskriminovala z nerelevantných príčin,
+      no zákaz by bol jednako idiotský. Pôsobivým príkladom toho, že jestvuje ešte niečo vyššie než spravodlivosť, je
+      „šalamúnsky rozsudok“.
+    </para>
+    <para>Dve ženy sa hádajú pred kráľom Šalamúnom o to, ktorej patrí dieťa, čo prežilo. Šalamún nevedel objasniť
+      skutkovú podstatu, nuž rozkázal preťať dojča mečom a každej žene dať polovicu. Ženu, ktorá bola proti tomu a bola
+      ochotná radšej nechať dieťa druhej žene, práve preto uznal za pravú matku. Tá sa zriekla spravodlivosti, lebo to
+      dieťa milovala.
+    </para>
+    <para>Archaický príbeh odhliada od toho, že predmetom nárokov na spravodlivosť je už aj samo dieťa. Hovorí len o
+      spravodlivosti medzi ženami. No všeobecne platí, že je nemravné radšej zničiť veci, ktoré nie je možné spravodlivo
+      rozdeliť, ako by sa pririekli niekomu z nejakého dôvodu. A kde niet relevantného hľadiska, tam ešte vždy zostáva
+      žrebovanie alebo právo toho, kto tú vec náhodou už má.
+    </para>
+    <para>Vyhovieť človeku, rešpektovať objektívnu danosť, prevyšuje spravodlivosť, vyžaduje dvoje: vedomosti a lásku.
+      Bez vedomostí o tom, čo je človek a čo mu osoží, konáme nesprávne. Kto kŕmi svoje dieťa bonbónmi alebo častým
+      sledovaním televízie, sotva miluje svoje dieťa, čiže koná tak, ako by konal ten, kto chce dieťaťu škodiť.
+      Vedomosti spojené s láskou sú to najlepšie.
+    </para>
+    <para>Keď chce niekto škodiť, vtedy pôsobia vedomosti negatívne, lebo čím viac vie, tým lepšie vie škodiť. Pod
+      láskou sa tu nechápe sympatia. Mať či nemať sympatie nie je v našej moci. Pod láskou sa tu rozumie priazeň, vôľa
+      poskytnúť tomu druhému to, čo mu osoží. Taká priazeň sa vzťahuje nielen na človeka, ale aj na všetko živé;
+      spôsobiť zvieraťu zbytočne bolesť znamená byť k nemu nespravodlivý. K bolesti bezprostredne patrí, že ju nemáme
+      chcieť pre druhých, lebo ju nechceme ani pre seba.
+    </para>
+    <para>To nás privádza k otázke: Čo vyžaduje všeobecná ochota spravodlivo rešpektovať objektívne danosti, najmä
+      skutočnosť ľudí? Čo vyžaduje dobroprajnosť, bez ktorej nemôže byť dobrý život? Čo je meradlom, okrem
+      spravodlivosti, ktorému musí zodpovedať naše konanie, aby bolo dobré? Tu vládne už oddávna filozofická
+      kontroverzia, ktorú si musíme všimnúť. Veľký sociológ Max Weber charakterizoval oba postoje, ktoré sa podľa jeho
+      názoru nikdy nedajú zlúčiť, pojmami „etika zmýšľania“ a „etika zodpovednosti“.
+    </para>
+    <para>Pod etikou zodpovednosti rozumel postoj človeka, ktorý pri posudzovaní svojich skutkov berie do úvahy všetky
+      ich predvídateľné dôsledky, ktorý sa teda pýta, aké dôsledky sú z hľadiska hodnotového obsahu skutočnosti
+      najlepšie, a podľa toho koná aj vtedy, keď pritom musí urobiť niečo, čo by sa pri izolovanom posudzovaní muselo
+      nazvať zlé. V duchu etiky zodpovednosti postupuje podľa Webera napríklad lekár, ktorý pacientovi povie nepravdu o
+      jeho zdravotnom stave, lebo sa bojí, že by ju nezniesol, a zodpovedne eticky postupuje politik, ktorý posilňuje
+      vojnový potenciál, ba aj pripravenosť viesť v prípade potreby vojnu, aby tým dosiahol odstrašujúci účinok a
+      zmenšil pravdepodobnosť vojny.
+    </para>
+    <para>Naproti tomu podľa etiky zmýšľania postupuje pacifista, ktorý nie je ochotný za žiadných okolností zabíjať,
+      dokonca ani vtedy, keď rozšírenie pacifizmu na jednej strane zvýši nebezpečenstvo vojny. Argumentuje, že nijaké
+      vojny by neboli, keby všetci boli pacifisti a že raz s tým musí niekto začať. Na argument, že pacifizmus sa nikdy
+      nestane všeobecným, ale vedie práve k takému oslabeniu vlastného postavenia, že to potencionálneho protivníka
+      vyprovokuje, odpovedá, že to nie je jeho vina, a keď sa už bude zabíjať, on na tom nechce mať účasť.
+    </para>
+    <para>Max Weber zastával názor, že tu ide o posledné rozpory, ktoré sa argumentmi už nedajú vyvrátiť. Prikláňal sa k
+      tomu, aby sa etika zodpovednosti označovala za etiku politika a etika zmýšľania za etiku svätca; neberie však do
+      úvahy skutočnosť, že medzi svätcami boli aj úspešní politici – hoci zriedkakedy dnešnej etike sa o tomto probléme
+      často diskutuje, a to pod heslom protikladu deontologickej a teleologickej morálky. „Deontologickými“ sa nazývajú
+      morálky, ktoré označujú určité skutky všeobecne a bez ohľadu na následky za zlé alebo dobré, a „teleologickými“ sú
+      také, ktoré morálnu hodnotu skutkov odvodzujú z hodnoty celku ich pravdepodobných následkov. Teleologická morálka
+      či etika zodpovednosti má aj názov „utilitarizmus“
+    </para>
+    <para>Alternatíva: etika zmýšľania alebo etika zodpovednosti, rovnako ako alternatívy: deontologia alebo
+      utilitarizmus, často vec, o ktorú ide, skôr zatemnia ako osvetlia. Pripomínajú nám Heglovu vetu: „Zásada ignorovať
+      dôsledky konania ako i zásada posudzovať skutky podľa následkov a urobiť ich meradlom toho, čo je spravodlivé a
+      dobré obidve sú produktom abstraktného rozumu.“
+    </para>
+    <para>V skutočnosti niet takej etiky, ktorá by celkom neprihliadala k následkom konania, lebo je vonkoncom nemožné
+      definovať konanie bez ohľadu na určité účinky. Konať znamená vyvolávať účinky. Kto, napríklad, zavrhuje každú lož,
+      takisto neignoruje všetky následky, iba sa sústreďuje na jeden jediný – na ten, ktorý robí lož lžou, čiže
+      klamstvom, podvádzaním iného človeka. Bez toho následku niet lži, lebo inak by každý rozprávač rozprávky bol
+      luhár.
+    </para>
+    <para>Nejde leda o zmýšľanie, ani o zodpovednosť, o zvažovanie či zanedbanie následkov, ale o otázku: Za ktoré a ako
+      ďaleko siahajúce následky konania nesie konajúci zodpovednosť? Ide o to či sa niektoré následky nesmú nikdy
+      zapríčiniť, alebo naopak, či je za istých okolností každé konanie dovolené, keď ho perspektívne ospravedlňuje
+      súhrn kladných následkov.
+    </para>
+    <para>V konečnom dôsledku ide teda o starú otázku, či posväcuje cieľ prostriedky – ak totiž ide o dobrý účel, ktorý
+      vyváži škodu spôsobenú prostriedkami.
+    </para>
+    <para>Nejde vôbec o to, že väčšina našich skutkov sa opiera o zvažovanie následkov, resp. o zvažovanie výsledkov,
+      ktoré pozitívne alebo negatívne zasiahli následky nášho konania. Zvažujeme stratu a zisk. Lekár amputuje za
+      určitých okolností nohu, alebo odstráni jednu obličku, aby zachránil človeka, alebo zakáže pacientovi piť víno,
+      aby ho ochránil pred väčšími nepríjemnosťami, než je toto odrieknutie. Tu nepochybne cieľ svätí prostriedky: to je
+      etika zodpovednosti.
+    </para>
+    <para>No ako by to vyzeralo, keby sme v tejto úvahe ľubovoľne pokračovali? Povedzme, že lekár sa má starať o zdravie
+      zlého človeka, ktorý ide na nervy sebe i svojim blížnym, alebo o zdravie nejakého zločinca. Nemal by lekár ako
+      zodpovedný za všetky následky svojho konania naordinovať pacientovi takú terapiu, ktorá by ho čím skôr priviedla
+      do hrobu? Tak sa správali zrejme sovietski psychiatri, keď podľa etiky zodpovednosti disidentov považovali za
+      škodlivých ľudí, zatvárali ich do kliník a dopovali drogami, aby zlomili ich vôľu.
+    </para>
+    <para>Nášmu chápaniu lekárskej zodpovednosti tento postup radikálne odporuje. Lebo podľa nášho názoru zodpovednosť
+      lekára sa končí práve pri konečnom cieli urobiť to najlepšie pre svojho pacienta. Podrobiť túto zodpovednosť inej
+      zodpovednosti za nejaké následky by bolo nezlučiteľné s lekárskym etosom.
+    </para>
+    <para>Nezlučiteľné s lekárskym etosom je napríklad aj to, keď sa pri testovaní liečiv jednej kontrolnej skupine
+      pacientov liek odoprie, hoci ošetrujúci lekár už pred dokončením pokusu vie, že tento liek by niektorých z týchto
+      pacientov zachránil. Lebo pomer lekár-pacient stojí na lichej dohode, že pri terapii nehrajú nijakú úlohu žiadne
+      nadradené ciele a ani ďalšie následky, ale iba vrátenie zdravia pacientovi.
+    </para>
+    <para>Niečo iné je, keď tu nastane aj moment nedostatku prostriedkov. Keď napríklad niet dostatok strojov na umelé
+      dýchanie a krvný obeh, alebo ak nie je dostatok umelých obličiek pre všetkých pacientov, vtedy sa musí rozhodovať
+      podľa hľadísk spravodlivého rozdelenia. To znamená, že sa za istých okolností musí skutočne zvažovať život proti
+      životu z objektívnych, nestranných hľadísk.
+    </para>
+    <para>Také príklady sa často uvádzajú ako dôkaz, že hodnotenie dobier či hodnôt je všeobecnou formou nášho morálneho
+      konania; ale tento záver je nesprávny. Utilitarizmus, ktorý to tvrdí, je z rôznych príčin neudržateľný. Na to
+      stručne poukážeme nasledujúcimi úvahami.
+    </para>
+    <para>Utilitarizmus zlyháva po prvé na komplexnosti a neprehľadnosti dlhodobých následkov ľudského konania. Keby sme
+      museli brať do úvahy všetky následky nášho konania, tak by sme sa pre samo zvažovanie vôbec nedostali k činom.
+      Zníženie úmrtnosti detí v chudobných krajinách má často dlhodobo katastrofálne následky a tie zasa vedú k tlaku
+      zlepšovať tam životné pomery; či sa to podarí, je otázne. Čo preváži nakoniec na zemeguli, kto to môže posúdiť?
+      Nikto by nemohol nič urobiť, keby chcel najprv dospieť k výslednej úvahe o tomto.
+    </para>
+    <para>A naopak, zo zlého často dlhodobo vzniká dobro. Ježiš výslovne povedal, že Judášovu zradu neospravedlňuje to,
+      že v skutočnosti bola prostriedkom na spásu ľudstva. Každý zločin by sa mohol ospravedlniť, keby páchateľ pritom
+      sledoval nejaký cieľ, ktorý by tento prostriedok „posvätil“. Tu máme do činenia s celkom osobitnou dialektikou,
+      lebo radikálna etika zodpovednosti v zmysle Maxa Webera v skutočnosti nie je ničím iným, ako radikálnou etikou
+      zmýšľania. Lebo podľa nej sa skutky vôbec nesmú posudzovať osamotene, ale sa musí pochopiť zmýšľanie, úmysel
+      konajúceho, jeho spôsob, konečný zmysel dejín a na ich základe možno zbaviť obvinenia aj skutky, ktoré by sa
+      normálne hodnotili ako zločinné.
+    </para>
+    <para>Etik zmýšľania sa sám považuje za radikálneho etika zodpovednosti. Pravda je taká: Pokiaľ ide o všetky
+      následky, tápeme vždy v temnotách. A keby mravnosť nášho konania závisela od takého úsudku, museli by sme byť
+      presvedčení s Hamletom, že sme prišli na svet, aby sme ho naprávali.
+    </para>
+    <para>Druhý argument je takýto: Utilitarizmus vydáva mravný úsudok normálneho človeka napospas technickej
+      inteligencii expertov. Mení mravne normy na technické. Lebo podľa neho mravnú kvalitu skutkov nemožno zistiť z
+      nich samých, ale potrebujeme na to nejakú univerzálnu funkciu úžitku, a jej zostava je vecou expertov, aj keď sa
+      títo sami vymenovali.
+    </para>
+    <para>Keď mladí esesáci za nacizmu dostali rozkaz zabíjať židovské deti, iste sa v niektorých pohlo svedomie. No
+      svedomie bolo umlčané teóriami, že existencia Židov je pre ľudstvo vonkoncom škodlivá. Predpokladajme, že ľudia
+      boli vtedy prihlúpi alebo príliš zaslepení na to, aby spoznali nezmyselnosť tejto teórie. Jednako im však mal
+      zostať jednoduchý názor, že nevinné deti neslobodno zabíjať.
+    </para>
+    <para>Ale utilitarizmus neuznáva takéto jednoduché náhľady, prispôsobuje si svedomie v prospech ideológov a
+      technokratov. Aby si nik nemyslel, že tento príklad je priveľmi extrémny, aby mohol mať pre nás význam, pripomínam
+      pokus uskutočnený Bavorským rozhlasom pred niekoľkými rokmi. Zobrali bez výberu určitý počet ľudí z ulice –
+      starých i mladých, mužov i ženy – a vyzvali ich, aby sa zúčastnili na pokuse, ktorý vraj mal byť veľmi dôležitý
+      pre vývoj metód vyučovania. V priebehu tohto experimentu museli vybratí pomocníci stlačením gombíka zvonka
+      zasahovať osobu v uzavretej miestnosti elektrickými impulzmi, a to v stúpajúcej sile.
+    </para>
+    <para>Pravdaže, musím povedať, že to celé bolo iba simulované. V skutočnosti nikto nedostával prúdové nárazy. Ale
+      privolaní chodci si to mysleli. Vlastne oni boli pokusnými osobami. Malo sa zistiť, ako ďaleko siaha ich ochota
+      spolupracovať pri niečom takom.
+    </para>
+    <para>Zarážajúce bolo, že ich ochota zašla dosť ďaleko. Len keď sa pokusná osoba rozkričala, keď sa údajné prúdové
+      nárazy blížili k smrtiacej hranici, vtedy niektorí už nechceli spolupracovať. Potom sa im povedalo, že by sa tým
+      celý finančný nákladný pokus zmaril, a od úspechu pokusu sa dá očakávať značné zlepšenie učebných metód pre ľudí
+      celého sveta. Väčšina si týmto utilitaristickým argumentom upokojila svedomie a zúčastnila sa na mučení.
+    </para>
+    <para>Čo z toho vyplýva? Zameraním konania na súhrn jeho následkov stráca človek orientáciu a stáva sa obeťou
+      akéhokoľvek pokušenia a manipulácie. A keďže to iste nevedie k lepšiemu svetu, dostáva sa utilitarista do rozporu
+      sám so sebou, lebo on si želá čo najlepší svet. No najlepší svet sa nedosahuje tým, že si ho každý vytýči za cieľ.
+      Dokonca aj z utilitaristického hľadiska je utilitaristická orientácia konania skôr škodlivá.
+    </para>
+    <para>Tretí argument to má ešte väčšmi ozrejmiť. Utilitarista je nielen ľahko ovplyvniteľný takzvanými expertmi, on
+      je aj ľahšie vydierateľný zločincami, a tým sa zvyšuje nebezpečenstvo vydierania. Samozrejme, v mnohých prípadoch
+      je aj z utilitaristických hľadísk správne odmietať vydieranie, aby sa odstránilo aj samo vydieračstvo. Jednako
+      však je vždy vecou uváženia daného zla, či sa človek má vydieraniu podvoliť, alebo nie.
+    </para>
+    <para>Súkromník je právom väčšmi ochotný ustúpiť než politik, ktorý je povinný robiť ďalekosiahlejšie úvahy. Konanie
+      politika musí väčšmi sledovať hľadiská utilitaristickej „etiky zodpovednosti“ než ostatné hľadiská. Mravný problém
+      najostrejšie vzniká až tam, kde vydierač požaduje zločinné skutky, napríklad zabitie nevinného, alebo vydanie
+      nejakého hosťa pod hrozbou omnoho väčšieho zla.
+    </para>
+    <para>Utilitarista by tu musel za určitých okolností ustúpiť s odôvodnením, že smrť jedného človeka je lepšia než
+      smrť sto ľudí. Ale kto zastáva stanovisko, že zabitie čo aj jediného nevinného človeka je v každom prípade zločin,
+      ten sa tejto logike nepodrobí. Keď vieme, že ho zastáva, vtedy sa nikto nebude ani pokúšať o vydieranie, takže
+      utilitarizmus tu pôsobí za určitých okolností zase kontraproduktívne, tj. privodí následky, ktoré by práve chcel
+      zamedziť.
+    </para>
+    <para>Výsledok našich doterajších úvah sa zdá takýto: Naša mravná zodpovednosť je len vtedy konkrétna, určitá, a nie
+      ľubovoľne manipulovateľná, keď je zároveň ohraničená, keď nevychádzame z toho. že sa musíme vždy zodpovedať za
+      všetky následky každého konania a každého zanedbania konať. Len za tohto predpokladu sa dá pojem „nedbalosť“ vôbec
+      definovať. Zavineným zanedbaním je zanedbanie niečoho, čo som musel urobiť. Keby sme sa v každom okamihu museli
+      zodpovedať za všetko, čo v tom okamihu nerobíme. keby sme pri každom konaní museli skúmať všetky alternatívne
+      možnosti konania a zvoliť tú najlepšiu, boli by sme úplne preťažení.
+    </para>
+    <para>Stanoviť ako ďaleko siaha zodpovednosť konajúceho v danom prípade, je veľmi ťažké. Tak napríklad zodpovednosť
+      lekára je obmedzenejšia než zodpovednosť politika, ktorému prislúcha a je dovolené uvažovať o ďalekosiahlych a
+      komplexných príčinných súvislostiach. Ale aj jeho povinnosť optimalizovať sa vzťahuje v prvom rade na územie, za
+      ktoré má skutočnú zodpovednosť. O iné krajiny a národy sa nemusí starať v tom zmysle, že by robil pre nich to
+      najlepšie. Voči nim má iba povinnosť spravodlivosti.
+    </para>
+    <para>Jestvuje však nejaká zodpovednosť človeka ako človeka, zodpovednosť. ktorú má každý človek? Jestvujú určité
+      skutky, ktorými ju porušuje? Kant formuloval požiadavku kladenú na každého človeka tak, že pri nijakom konaní
+      nesmie ani seba ani iných použiť len ako prostriedok. Proti tomu sa namietalo, že sa navzájom stále potrebujeme
+      ako prostriedky na určité účely, celé ľudské spolunažívanie na tom koniec-koncov spočíva.
+    </para>
+    <para>To, samozrejme, vedel aj Kant. On však chcel povedať toto: My sa smieme ako prostriedky navzájom použiť iba
+      čiastočne. Využívame určité schopnosti a výkony iných. Tým však nezapochybujme o tom. že aj ten druhý je
+      samoúčelný, že aj on má právo využívať služby svojich blížnych. Neneguje sa teda ako osoba.
+    </para>
+    <para>Sú však aj druhy konania, ktoré kompromitujú človeka ako osobu. Napríklad keď poprú jeho samoúčelnosť, keď ho
+      predajú do otroctva, keď ho mučia, keď ho nevinne usmrtia, keď ho pohlavne zneužijú. A Kant dodáva: aj keď ho
+      klamú; v tejto súvislosti by som o tomto nechcel diskutovať.
+    </para>
+    <para>Dôležité je. že jestvuje asymetria medzi dobrými a zlými činmi. Nejestvuje totiž spôsob konania, ktorý je vždy
+      a všade „dobrý“. Či je skutok dobrý, závisí vždy od súhrnu okolností. I keď pod „dobrým“ rozumieme aj prosté
+      vylúčenie zlého konania. Jestvujú však niektoré druhy konania, ktoré bez ohľadu na okolnosti sú vždy a všade zlé.
+      lebo nimi sa bezprostredne poprie charakter samoúčelnosti, dôstojnosť osoby.
+    </para>
+    <para>Pri takých skutkoch prestáva akékoľvek rátanie s následkami. To však znamená, že za následky absencie zlého
+      konania ako takého nemáme nijakú zodpovednosť. Človek, ktorý odmietol zastreliť židovské dievča, keď ho prosilo o
+      život, nie je zodpovedný za to, že jeho predstavený namiesto toho zastrelil desať iných ľudí – čím sa mu predtým
+      vyhrážal. Zomrieť musíme napokon všetci, ale vraždiť nemusíme.
+    </para>
+    <para>Za nevykonanie toho, čo nesmieme, rovnako ako ani za nevykonanie niečoho, čo fyzicky nie sme schopní urobiť,
+      nie sme zodpovední. Dobrým človekom by bol ten, ktorého svedomie by slovo „nesmiem“ premenilo na „nemôžem“. Rímsky
+      zákonodarca v staroveku tento náhľad s jemu vlastnou jasnosťou, formuloval takto: „Čo je proti zbožnosti, proti
+      úcte k človekovi, skrátka, proti dobrým mravom, to sa musí posudzovať ako keby bolo nemožné.“
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>Jednotlivec alebo: Musíme vždy konať podľa svojho svedomia?</title>
+    <para>Doteraz bola reč o mnohých hľadiskách, ktoré hrajú úlohu pri označovaní konania za dobré alebo zlé, správne
+      alebo nesprávne, vydarené či nevydarené. Spýtali sme sa: Čo vlastne a v podstate chceme? A pokúšali sme sa chápať
+      dobro ako splnenie tohto najvlastnejšieho chcenia. Hovorili sme o hodnotách, o dôsledkoch činov a o
+      spravodlivosti. No predsa sa zdá, že na to jestvuje jednoduchá a jasná odpoveď, ktorá robí všetky takéto úvahy
+      zbytočnými: To, čo má jednotlivec robiť, mu povie jeho svedomie.
+    </para>
+    <para>Táto odpoveď je správna, ale v tejto svojej jednoduchosti zároveň zavádzajúca. Chceme sa tu ňou zaoberať a
+      pýtať sa: Čo vlastne nazývame svedomím? Čoho je schopné svedomie? Má svedomie zakaždým pravdu? Musíme ho skutočne
+      vždy poslúchať a musíme vždy rešpektovať svedomie iných?
+    </para>
+    <para>Slovo „svedomie“ zrejme nie je apriori jednoznačné. Používa sa vo veľmi rozmanitých súvislostiach. Hovoríme o
+      svedomitých ľuďoch vyznačujúcich sa presným plnením svojich každodenných povinností, ale hovoríme aj o svedomí,
+      keď niekto zanedbá tieto povinnosti a kladie odpor. Svedomie označujeme za svätyňu každého človeka, ktorú treba
+      rešpektovať a ktorú chráni aj ústava, a predsa odsudzujeme tzv. odporcov podľa svedomia na vysoké tresty. Jedni
+      považujú svedomie za hlas Boží v človeku, iní za výplod drezúry, za výchovné zvnútornenie pôvodne vonkajších
+      panujúcich noriem. Čo teda znamená svedomie?
+    </para>
+    <para>Hovoriť o svedomí znamená hovoriť o dôstojnosti človeka, o tom, že človek nie je (individuálnym) prípadom
+      čohosi všeobecného, exemplárom nejakého druhu, ale každý človek je ako jednotlivec totalitou, že je už sám
+      „všeobecninou“.
+    </para>
+    <para>Prírodný zákon, podľa ktorého kameň padá zhora nadol, je pre tento kameň takpovediac vonkajší. On o ňom nič:
+      nevie. My. pozorovatelia, chápeme jeho pád ako príklad všeobecného zákona. Ani vták stavajúci si hniezdo,
+      nesleduje zámer robiť niečo na udržanie druhu, ani neprejavuje starosť o dobro budúcich mláďat. Vnútorný tlak, pud
+      ho ženie robiť niečo, čoho zmysel je mu skrytý. To vidno z toho. že vták si začína stavať hniezdo aj v zajatí, kde
+      nemôže očakávať nijaké potomstvo.
+    </para>
+    <para>No ľudia vedia, prečo robia to, čo robia. Pridržiavajú sa výslovne a slobodne zmyslu svojho konania. Keď mám
+      chuť niečo robiť, v dôsledku čoho niekto iný utrpí ujmu, môžem si tieto následky predstaviť a pýtať sa, či je to
+      spravodlivé a či za to môžem zodpovedať.
+    </para>
+    <para>Sme schopní oslobodzovať sa od svojich objektívnych momentálnych záujmov a sprítomňovať si objektívne
+      hodnotové poradie relevantných hodnôt svojho konania. A to nielen teoreticky, tak, že tento názor zostane mimo nás
+      a nijako nezmení našu motiváciu, ako keby sme povedali: „Je síce objektívne nespravodlivé konať tak či onak, ale
+      pre mňa je to výhodne.“
+    </para>
+    <para>V skutočnosti vôbec nie je pravda, že to, čo v podstate chceme, musí byť v základnom rozpore s tým, čo je
+      objektívne dobré a správne. Vo svedomí sa všeobecné, objektívne poradie hodnôt a požiadavka uplatniť ich prejavuje
+      skôr bezprostredne ako naše chcenie. Svedomie je naša požiadavka voči nám samým. Keď niekoho nespravodlivo
+      poškodím, zarmútim, urazím, poškodzujem aj seba. Mám. ako sa hovorí, „zlé svedomie“.
+    </para>
+    <para>Svedomie je prítomnosť absolútneho hľadiska v konečnej bytosti. zakotvenie tohto hľadiska v jej emocionálnej
+      štruktúre. Keďže tým je už v každom človeku prítomné samo všeobecno, objektívno, absolútno, preto – a z nijakej
+      inej príčiny – hovoríme o dôstojnosti človeka. Ak platí, že svedomím sa človek sláva všeobecnom a zmysluplným
+      celkom, tak potom platí tiež, že pre človeka nemôže byť nič dobré, nemôže mať nijaký zmysel a oprávnenosť, keď sa
+      to všeobecné, objektívne správne a dobré nejaví jeho svedomiu dobrým a správnym.
+    </para>
+    <para>Svedomie treba opísať ako dvojité duchovné hnutie mysle. Jedno vedie človeka k prevýšeniu seba samého. Pobáda
+      ho relativizovať svoje túžby a záujmy a inšpiruje ho k otázke, čo je samo osebe dobré a správne. A aby si bol
+      istý, že sa nemýli, musí sa v mravnom spoločenstve radiť s inými o tom. čo je dobré a správne.
+    </para>
+    <para>Musí vziať na vedomie dôvody i námietky. Kto hovorí: „Zvyky a dôvody ma nezaujímajú, ja sám viem. čo je
+      správne a dobré“, ten nie je objektívny a všeobecný. To, čo nazýva svojím svedomím, sa v ničom nelíši od súkromnej
+      nálady, idiosynkrázie.
+    </para>
+    <para>Svedomie nejestvuje bez ochoty utvárať a informovať toto svedomie. Lekár, ktorý by nesledoval pokroky v
+      lekárstve, by si počínal nesvedomito a nesvedomito koná aj ten, kto zatvára oči a uši pred úvahou druhých, ktorí
+      ho upozorňujú na aspekty jeho správania, ktoré on možno ani nezbadal. Bez takej ochoty možno o svedomí hovoriť len
+      v hraničných prípadoch.
+    </para>
+    <para>No k svedomiu patrí aj druhé hnutie, ktoré opäť vedie jednotlivca späť k sebe samému. Ak jednotlivec, ako sme
+      povedali, potenciálne sám predstavuje všeobecné, celok zmyslu, potom nemôže presunúť zodpovednosť za svoje konanie
+      na iných, ani na zvyklosti svojej doby. na nejaký anonymný diskurz, na výmenu dôvodov a protidôvodov.
+    </para>
+    <para>Samozrejme, môže sa pridať k prevládajúcim názorom, a to býva vo väčšine príkladov dokonca i rozumné. Je totiž
+      celkom nesprávne neustále priznávať svedomie iba človeku, líšiacemu sa od väčšiny. No nakoniec zodpovednosť nesie
+      vždy jednotlivec sám.
+    </para>
+    <para>Môže poslúchať nejakú autoritu, aj to môže byť správne a rozumné, ale nakoniec sám musí zodpovedať za svoju
+      poslušnosť. Môže nadviazať dialóg, zvažovať dôvody i protidôvody, ale dôvody a protidôvody nemávajú konca. Ľudský
+      život je však konečný. Treba konať skôr, než sa nastolí svetová jednotnosť v názore na to, čo je správne a
+      nesprávne. Jednotlivec sa musí rozhodnúť, kedy vystúpi z bezkonečnosti zvažovania, kedy ukončí diskurz, a prejde
+      ku konaniu z presvedčenia.
+    </para>
+    <para>Presvedčenie, ktoré dovoľuje ukončiť diskurz, nazývame svedomím. Nepozostáva vždy z istoty, že robíme
+      objektívne to najlepšie. Politik, lekár, otec alebo matka nevedia vždy naisto, či to, čo robia alebo radia, je to
+      najlepšie, keď sa uvážia všetky následky. Ale bez pecne môžu vedieť, že je to najlepšie z možností, ktoré sa im
+      momentálne podľa ich vedomostí javí, a to stačí na presvedčenie o svedomitosti, lebo už sme videli, že zmysel
+      ospravedlňujúci konanie nespočíva a nemôže spočívať v súhrne všetkých následkov konania.
+    </para>
+    <para>Svedomím – ako sa zdá – sa celkom vymykáme riadeniu zvonka. Je to skutočne tak? Tu sa natíska dôležitá
+      námietka. Ako vnikol do nás ten kompas, ktorý nás riadi a kto ho naprogramoval? Či nie je vnútorné riadenie v
+      skutočnosti len diaľkovým riadením zozadu, t. j. z minulosti? Riadiaci prístroj programovali naši rodičia. Máme
+      normy, ktoré do nás vložili už v detstve, ktorým sme sa museli podrobiť, a „zvnútorniť“ ich, a tak rozkazy, ktoré
+      sme dostávali, sme premieňali na rozkazy nám samým.
+    </para>
+    <para>Sigmund Freud razil v tejto súvislosti pojem „nad-ja“, ktoré spolu s takzvanými „ono“ a „ja“ vytvára štruktúru
+      našej osobnosti. To nad ja je takpovediac zvnútorneným obrazom otca, je to otec v nás samých. No u Freuda táto
+      myšlienka ešte nemala denunciačnú povahu, ako má výklad o zažitých vrchnostenských normách v novomarxistickej
+      sociálnej kritike.
+    </para>
+    <para>Freud ako psychoanalytik zbadal, že ja sa tvorí iba pod vedením nad-ja a oslobodzuje sa z opantanosti pudovej
+      sféry, zo zajatia „ono“. Musí sa však oslobodiť aj od nadvlády nad-ja, aby sa stalo naozajstným ja.
+    </para>
+    <para>Nech by sa tieto Freudove opisy zdali akokoľvek priliehavé, predsa je mylné identifikovať to, čo nazývame
+      svedomím, s nad-ja a pokladať ho za produkt výchovy. To nemôže byť pravda i prelo, že sú ľudia, ktorí sa z
+      nesúhlasu svedomia stavajú proti normám spoločnosti, proti normám, v ktorých vyrástli – dokonca aj vtedy, keď ich
+      otec je reprezentantom týchto noriem. Možno je za tým často iba číra túžba po emancipácii, jednoduchý reflex vôle
+      byť inakším. Tento reflex, rovnako ako ani reflex prispôsobenia sa, nie je svedomím.
+    </para>
+    <para>Jednako však v dejinách stále pozorujeme, že páchatelia svedomím prikazovaných činov alebo odporcovia takých
+      skutkov operujúci svedomím, boli ľudia, ktorí apriori nemali sklony k odporu a k disidentstvu, a radšej by boli
+      poslušne vykonávali svoje denné povinnosti bez vzbudzovania rozruchu.
+    </para>
+    <para>„Byť verným služobníkom kráľa, no najprv Boha“ bola zásada anglického lorda-kancelára Thomasa Moora, ktorý
+      robil všetko, aby vyhovel kráľovi a vyhol sa konfliktu až po bod, keď mal niečo podpísať, čo sa nezrovnávalo s
+      jeho svedomím. Neviedla ho túžba podrobiť sa, ani túžba vzoprieť sa, ale tiché presvedčenie, že sú veci. ktoré
+      neslobodno robiť. Toto presvedčenie bolo natoľko totožné s jeho ja, že „nesmiem“ sa mu stalo „nemôžem“.
+    </para>
+    <para>Ak už svedomie nie je jednoducho produktom výchovy a ani nie je identické s nad-ja, je teda vrodené? Akýsi
+      vrodený inštinkt sociálneho druhu? Nie je to ani tak, lebo inštinkt poslúchame „inštinktívne“. Lenže to „ja
+      nemôžem ináč“ pudového človeka sa líši ako deň od noci od „ja nemôžem ináč“ páchateľa podľa svedomia. Pudový
+      človek sa cíti hnaným, neslobodným; chcel by iné, ale nemôže. Je sám so sebou nespokojný.
+    </para>
+    <para>Ale ono známe „tu stojím a nemôžem ináč“ človeka, ktorý koná podľa svojho svedomia, je výrazom slobody. Ono
+      vlastne znamená: „Ja nechcem iné. Nemôžem iné chcieť ani ináč môcť.“ Taký človek je slobodný. Je, ako vraveli
+      Gréci, spriatelený sám so sebou.
+    </para>
+    <para>Odkiaľ teda pochádza svedomie? Rovnako sa môžeme spýtať: Odkiaľ pochádza reč? Prečo rozprávame? Samozrejme,
+      rozprávame preto, lebo sme sa od našich rodičov naučili hovoriť. Kto nikdy nepočuje rozprávať, zostane nemý, a kto
+      sa nezúčastňuje na žiadnej komunikácii, neprepracuje sa ani k mysleniu, lebo aj naše myšlienky sú určitým druhom
+      vnútorného rozhovoru. A predsa nik nepovie, že reč: je zvnútornené cudzie určenie.
+    </para>
+    <para>Čo je potom „samourčenie“? Nedá sa tvrdiť, že by človek sám od seba nebol hovoriacou ani mysliacou bytosťou.
+      Pravdou je však, že Človek je bytosť, ktorá potrebuje pomoc iných, aby sa stala tým. čím vlastne je, a to isté
+      platí aj o svedomí.
+    </para>
+    <para>V každom človekovi je základ svedomia, orgán dobrého a zlého. Kto pozná deti, vie, že to u nich jasne vidno.
+      Majú zmysel pre spravodlivosť. Pohoršujú sa, keď sa spravodlivosť poruší. Majú zmysel pre správne a nesprávne
+      tóny, pre dobro a úprimnosť, ale keby nevideli tieto hodnoty stelesnené v nejakej autorite, tento orgán by
+      degeneroval.
+    </para>
+    <para>Keby boli privčas vystavené právu silnejšieho, stratili by zmysel pre čestnosť, jemnocit, úprimnosť. Spočiatku
+      je pre nich slovo a reč médiom transparentnosti pravdy. Ale keď sa pôsobením hrozieb a zastrašovania naučia, že
+      treba luhať, aby vyviazli z konfliktov, alebo keď zistia, že rodičia im nehovoria pravdu a lož používajú v
+      každodennom živote ako normálny nástroj živobytia, vtedy zmizne lesk a vytvoria sa len jeho znetvoreniny svedomia.
+      Svedomie zhrubne.
+    </para>
+    <para>Jemné, citlivé svedomie je znakom vnútorne otvoreného a slobodného človeka, nemajúceho nič spoločného so
+      škrupulantom, ktorý namiesto na správne a dobré myslí vždy len na seba a podozrievavo pozoruje každý svoj krok. To
+      je určitá forma choroby.
+    </para>
+    <para>Sú ľudia, ktorí každé zlé svedomie považujú za chorobu. Za úlohu psychológa pokladajú zbaviť človeka zlého
+      svedomia, takzvaných pocitov viny. V skutočnosti je chorobou nemať zlé svedomie, nemať pocity viny, keď sme sa
+      vskutku dopustili nejakého previnenia.
+    </para>
+    <para>Takisto ako je chorobou, a to životu nebezpečnou, neschopnosť pociťovať bolesť. Bolesť je signál ohrozenia
+      života. Chorý je len len, kto bez organických príčin pociťuje bolesť a takisto je chorý škrupulant, ktorý má bez
+      previnenia zlé svedomie, lebo zlé svedomie je u zdravého signálom viny za činy odporujúce vlastnej bytosti a
+      skutočnosti.
+    </para>
+    <para>Revíziu tohto postoja nazývame „ľútosťou“. Ako ukázal filozof Max Scheler, ľútosť nie je nezmyselným hrabaním
+      sa v minulosti, keď by bolo jednoducho lepšie napraviť veci v budúcnosti. Vôbec ich nemôžeme napraviť, ak máme
+      ešte ten istý postoj, z akého sme predtým nesprávne konali. Nesmieme potlačiť minulosť. Musíme jej vedome pozrieť
+      do očí, t. j. nesprávny postoj musíme vedome zmeniť.
+    </para>
+    <para>Postoj človeka však má pôvod nielen v hlave, ale aj v emocionálnom založení. Zmena postoja znamená takto
+      určitú bolesť nad neprávosťou, ktorú sme spáchali. O takomto aktívnom pôsobení smútku hovorí psychológ
+      Mitscherlich. V podstate takú ľútosť očakávame. Už by sme nedôverovali nikomu, kto trápi dieťa, urobí z neho
+      duševného mrzáka a potom so smiechom vyhlási, že jedna obeť stačí a že ďalšie deti sa budú mať uňho dobre. Keď sa
+      ho nezmocní bolesť nad minulosťou, nemá zlé svedomie a nezmení sa, znamená to, že zostáva taký, aký bol.
+    </para>
+    <para>Má svedomie vždy pravdu? To sme sa opýtali na začiatku. A musíme vždy konať podľa svojho svedomia? Svedomie
+      nemá vždy pravdu. Tak, ako nás našich päť zmyslov nevedie vždy správne a náš rozum nás vždy neuchráni pred omylom,
+      tak je to aj so svedomím. Svedomie je orgánom dobra a zla v človeku, ale nie je to orakulum. Ukazuje nám smer,
+      nabáda nás prekročiť perspektívu nášho egoizmu a dbať na to. čo je všeobecne správne. Ale na to, aby sme túto
+      súvislosť videli, je potrebná úvaha, vecné poznatky, a tiež – ak to smiem vysloviť – vecné morálne poznatky. To
+      znamená správne stanovenie hierarchie hodnôt bez falšujúcich vplyvov ideológie.
+    </para>
+    <para>Aj svedomie sa môže mýliť. Jestvujú zločinci odvolávajúci sa na svedomie, ktorí sa dopúšťajú veľkého
+      bezprávia. Musia aj oni konať podľa svojho svedomia? Samozrejme musia. Ako sme už povedali, dôstojnosť človeka
+      spočíva v tom, že je zmysluplným celkom. Čo je objektívne dobré a správne, to musí aj on poznať ako dobré, aby sa
+      stalo dobrom.
+    </para>
+    <para>Preto pre človeka vôbec nejestvuje len „objektívne dobro“. Keď niečo nepoznáva ako dobro, lak to preňho nie je
+      dobré. Musí konať podľa svojho svedomia. To konkrétne preňho znamená, že musí konať to, čo považuje za objektívne
+      dobro, a to je v podstate triviálne. Platí teda, že skutočne dobré je len to, čo je objektívne i subjektívne
+      správne.
+    </para>
+    <para>Jestvuje nejaké kritérium, podľa ktorého by bolo možné rozoznať správne svedomie od mylného? Ako by však mohlo
+      také niečo jestvovať? Keby jestvovalo, lak by sa už nik nemohol mýliť. Určitým náznakom toho. že niekto skutočne
+      koná podľa svojho svedomia, a nie podľa nejakej nálady, je jeho ochota kontrolovať, konfrontovať svoj úsudok s
+      inými.
+    </para>
+    <para>Ale ani to nie je ešte bezpečné kritérium, lebo aj tu sa stáva, že niekto je obklopený ľuďmi, ktorí ho
+      prevyšujú inteligenciou a výrečnosťou, a predsa má jasný pocit, že nemajú pravdu. Ibaže to nevie zdôvodniť.
+      Nemyslí si, že majú lepšie dôvody, je iba presvedčený, že nie je človekom, ktorý by bol schopný niekoho presvedčiť
+      o dôležitosti svojich dôvodov. Preto verí. že to treba pripísať dajakej náhode, že práve tí inteligentnejší sú na
+      zlej, nesprávnej strane. Uzavretie sa pred ich argumentmi môže byť v takej situácii prejavom vernosti svedomiu.
+    </para>
+    <para>Musíme aj vtedy svedomie iného vždy rešpektovať? To závisí od toho, čo rozumieme pod rešpektovaním. V nijakom
+      prípade to neznamená, že každý smie všetko, čo mu svedomie dovoľuje. Lebo potom by nesvedomitý smel tiež všetko.
+    </para>
+    <para>A nemôže to znamenať ani to, že každý smie robiť, čo mu svedomie prikazuje. Zaiste je povinný poslúchať svoje
+      svedomie. Ak pritom porušuje práva iných, t. j. svoje povinnosti voči iným. potom majú iní, ako aj štát, právo
+      prekaziť mu to. Patrí k ľudským právam, že právo jedného nemá byť závislé od úsudku svedomia druhého človeka.
+    </para>
+    <para>Tak napríklad o otázke, či nenarodené deti treba chrániť, možno diskutovať, i keď ústava nášho štátu na ňu
+      dáva kladnú odpovedí. Nezmyselný je názor, že si túto otázku ľudia musia vyriešiť sami, vo svojom svedomí. Lebo
+      buď nemajú nenarodení právo na život, a potom si nemusíme vôbec namáhať svedomie, alebo právo na život majú. a
+      potom ho nemožno dať k dispozícii svedomiu iných ľudí.
+    </para>
+    <para>Poslušnosť voči zákonom právneho štátu, ktoré väčšina jeho občanov považuje za správne, tiež nemožno obmedziť
+      na tých, ktorým svedomie nezakazuje napríklad platiť dane. Kto ich neplatí a na trovy iných používa cesty a
+      kanalizáciu, tomu sa dane strhnú, alebo bude potrestaný. Keď dotyčný naozaj prestupuje zákony na základe svedomia,
+      vezme na seba trest.
+    </para>
+    <para>Len v prípade vojenskej služby zákonodarca nariadil úpravu, ktorá zaručuje že nikoho nemožno nútiť do
+      ozbrojenej služby proti svojmu svedomiu. No ani tu niet kritéria, ako sa má zvonka rozhodnúť, či tu ide o úsudok
+      vychádzajúci zo svedomia alebo nie. Súdne výsluchy sú tu na uľahčenie rozhodovania vonkoncom nevhodné. Také
+      výsluchy tu odmeňujú len šikovnejšieho rečníka ochotného rafinovanejšie luhať.
+    </para>
+    <para>Jestvuje jediná indícia pravosti rozhodnutia podľa svedomia, a to ochota dotyčného podstúpiť nepríjemnú
+      alternatívu. Svedomie človeka nebude dotknuté, keď sa mu zabráni urobiť niečo, čo mu svedomie prikazuje, lebo za
+      to nenesie nejakú zodpovednosť. Preto sa smie a musí zatvoriť človek, ktorý chce zločinom zlepšiť svet.
+    </para>
+    <para>Čosi iné je, keď niekoho nútia aktívne konať proti svojmu svedomiu. To je útok na dôstojnosť človeka. Ale je
+      to vôbec možné? Ani hrozba smrťou nemusí nikoho prinútiť, aby konal proti vlastnému svedomiu, ako to dokazuje
+      história mučeníkov všetkých čias.
+    </para>
+    <para>Je však jeden spôsob vynútenia skutkov proti vlastnému svedomiu, a to mučenie, ktoré robí z človeka bezvôľový
+      nástroj iných. Prelo mučenie patrí k tým málo skutkom, ktoré sú vždy a za každých okolností zlé. Lebo mučenie
+      priamo zasahuje svätyňu svedomia, tú svätyňu, o ktorej predkresťanský filozof Seneca napísal: „V nás prebýva svätý
+      duch ako pozorovateľ a strážca našich dobrých a zlých skutkov.“
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>To bezpodmienečné alebo: Čo robí konanie dobrým?</title>
+    <para>Nič nemôže byť dobré, čo je proti svedomiu. Z toho však nevyplýva, že všetko je dobré, čo sa deje v súlade so
+      svedomím, lebo svedomie nie je nijaké orákulum, ale orgán. Ako taký môže byť aj mylne riadený. Okrem toho nás
+      nepoučí nijaká introspekcia, nijaké zahĺbenie sa do nášho vnútra o lom, či to. čo sa v nás, ozýva je naozaj
+      svedomie.
+    </para>
+    <para>Nijaký vonkajší sudca nemôže posúdiť, či niekto koná skutočne podľa svojho svedomia, a ani my sami to nemôžeme
+      neomylne vedieť. Svedomie je pohľadom človeka na dobro, ale oko nemôže vidieť samo seba. Musíme sledovať to, čo si
+      myslíme, že vidíme.
+    </para>
+    <para>Kant napísal: „Nič na svete, ba ani mimo neho, sa nemôže bezvýhradne považovať za dobré, okrem dobrej vôle.“
+    </para>
+    <para>Ale čo je to dobrá vôľa? Istotne vôľa, ktorá chce dobro. Otázka o dobre sa však nezodpovie tým, že poukážeme
+      na dobrú vôľu. Všeobecná múdrosť, že koniec-koncov záleží len na dobrom úmysle, nie je až taká nevinná, ako sa
+      zdá. Ľahko môže viesť k ospravedlneniu rôzneho bezprávia a zlomyseľnosti.
+    </para>
+    <para>V určitom zmysle má každý, kto koná, dobrý úmysel. Nik nechce zlo prelo, že je zlé. Každý chce niečo kladné,
+      nejakú hodnotu – či už potešenie, duševné uspokojenie, alebo dokonca šťastie iných ľudí, viac spravodlivosti a
+      pod. Platón a po ňom celý starovek i filozofi stredoveku hovorili, že každý môže konať iba pre nejaké dobro, pre
+      nejakú hodnotu.
+    </para>
+    <para>Zlo spočíva v tom, že niekto – i keď ide za dobrom – neospravedlniteľným spôsobom zapríčiní nejaké zlo, alebo
+      ho spôsobí zároveň s dobrom, predovšetkým vtedy, keď cenu musí zaplatiť druhý. Platí to aj o človeku, ktorý
+      kradne, aby polom mohol vo veľkom štýle predvádzať dobročinnosť. Dobrý úmysel nemení nič na nespravodlivom konaní.
+    </para>
+    <para>Ospravedlňovanie skutkov iba dobrým úmyslom je okrem toho aj školou neúprimnosti. Nechceme, ako sme povedali,
+      nikdy zlo pre zlo, ale chceme ho ako prostriedok, alebo ho prípadne pripúšťame ako cenu za dosiahnutie niečoho, čo
+      samo osebe nie je zlé.
+    </para>
+    <para>Keby každý čin bol ospravedlniteľný len dobrým úmyslom, tak by bol najnevinnejší ten, komu sa najlepšie podarí
+      vytlačiť z vedomia zápornú stránku svojho konania. Každý to môže pozorovať na sebe. Kto sa pokúša robiť niečo, čo
+      by vlastne nemal a vlastne ani nesmel chcieť, ten sa spravidla pokúša odvrátiť pozornosť od zápornej stránky veci
+      a zamerať ju len na to pozitívne.
+    </para>
+    <para>Svedomie nám sťažuje toto potláčanie, pripomína nám všetky aspekty konania. Svedomie je privolávaním
+      pozornosti. Dobrou možno nazvať iba takú vôľu, ktorá sa sledovaním dá nabádať na to, aby uvážila celý dosah nášho
+      konania, ktorá neklame samu seba odvolávajúc sa na tzv. dobrý úmysel. Zlo by sa dalo priam definovať ako neochota
+      k pozornosti. Dalo by sa povedať, že kto robí zlo, nevie, čo robí. Lenže je to tak. že on to ani nechce vedieť. A
+      práve v lom spočíva zlé, a nie vo výslovne zlom úmysle.
+    </para>
+    <para>Takto sme nepriamo urobili prvý krok k odpovedi na otázku: Čo robí konanie dobrým? Dobrota konania musí mať
+      niečo do činenia s pozornosťou, s nezakaleným pohľadom na skutočnosť. Čo môže zakaliť tento pohľad? Všeličo.
+      Presila momentálnych zvodov, zmyselnosť, túžba po moci, ideály. Aj ideály. Čo mal inkvizítor zo smrti kacíra? Čo
+      má terorista zo svojho zlovestného života? Slúži nejakému ideálu. A zdráha sa obrátiť svoju pozornosť na to, čo
+      jeho konanie znamená pre postihnutých.
+    </para>
+    <para>To platí nielen pre inkvizítorov a teroristov, ale pre každého z nás, kto chce z horlivosti vykonať niečo
+      užitočné, nápomocné, milé, čo mu ponúka okamih, čo jeho pozornosť odvedie od skutočnosti, že za jeho ušľachtilé
+      činy musí platiť iný. Napríklad niekto, kto za sľúbenú vernosť požaduje práve to, čo poskytuje inému.
+    </para>
+    <para>Nie je však samo dobro iba akýmsi ideálom? Ak by to tak bolo, v čom by potom spočívalo dobro? Keď sa položí
+      taká neopatrná otázka, vyvolá všade rozpačitosť. V čom však spočíva dobro? Platón hovorieval, že dobré skutky sú
+      dobré svojou dobrotou. To je zrejme tautológia. Tá je však v určitom zmysle nevyhnutná.
+    </para>
+    <para>Anglický filozof Moore, ktorý zomrel v roku 1958, sa obšírne zaoberal pokusmi nahradiť to, čo označujeme za
+      dobré, nejakými inými obsahmi. Také pokusy nazýval naturalistickým zavádzaním. Sú také balamutiace, ako keď to, čo
+      pomenúvame slovami „modrý“, „lichý“ alebo „bolesť“ odvodíme od iných pojmov. Ani zdravie či blaho vlasti, ani
+      maximalizovanie pôžitkov či egoizmus alebo altruizmus nie sú dobrom ako takým. To vyplýva z logickej úvahy, ktorú
+      sme rozvinuli už v prvej kapitole.
+    </para>
+    <para>V skutočnosti si možno vždy predstaviť situácie, kde niečo, čo väčšinou býva dobré, nevypáli práve dobre. Ani
+      altruizmus nie je vždy dobrý. Sú situácie, v ktorých bez upadnutia do egoizmu sme po spravodlivom a nestrannom
+      zvážení nielen oprávnení, ale aj povinní zaradiť želania druhého až za naše. Veď „miluj blížneho ako seba samého“
+      neznamená „miluj ho nadovšetko“, ale: nerob rozdiel medzi tvojím dobrom a dobrom svojho blížneho. Kto to dosiahne,
+      len už je veľmi ďaleko. Naturalistický omyl spočíva v tom, že namiesto dobrého sa dosadí nejaký iný obsah. To
+      nejde preto, lebo mravné hľadisko, hľadisko dobra je absolútnym hľadiskom. A s tým sme sa už stretli v prvej
+      kapitole. Nemá zmysel hovoriť: „Bolo by síce dobre urobiť to či ono, ale dobro sa musí nateraz odložiť.“ Dobro je
+      naopak práve to, čo sa nikdy nemá a nesmie zanedbať pre niečo iné.
+    </para>
+    <para>Každá jednotlivá hodnota alebo obsah musí, ako sa zdá, za určitých okolností ustúpiť realizácii vyšších
+      hodnôt, súrnejších úloh alebo základnejších povinností. Preto mravné hľadisko nie je dodatočným hľadiskom, ktoré
+      by sa zohľadnilo popri mnohých vecných hľadiskách, ktorými sa riadime pri našom konaní. Ide teda iba o správny a
+      skutočnosti zodpovedajúci diktovaný poriadok vecných hľadísk.
+    </para>
+    <para>V tomto zmysle mravnosť nie je vskutku ničím iným ako „vecnosťou“, ako píše filozof H. E. Hengstenberg. Dobré
+      konanie je také, ktoré zodpovedá skutočnosti. Táto odpoveď znie veľmi formálne, ak už nechceme povedať prázdno.
+      Zdá sa, že nás nerobí múdrejšími v tom, čo máme v jednotlivom prípade robiť. Na to si však ani nenárokuje.
+    </para>
+    <para>Pokiaľ ide o konkrétny obsah nášho konania, odkazuje nás na celkom iné pramene, a to na ten pocit hodnoty,
+      ktorý sa v nás vytvorí v procese výchovy, a ďalej na vedomosti, ktoré sme nadobudli. Čo je povinnosťou lekára, to
+      ho učí väčšinou a predovšetkým medicína. No učí ho to aj lekársky etos samočinne vyplývajúci z povahy pomeru
+      dôvery medzi pacientom a lekárom.
+    </para>
+    <para>Najväčšia prekážka pri objektívnom posúdení toho, čo máme alebo nemáme robiť, spočíva v nedostatočnej ochote
+      dať svoje záujmové hľadisko takpovediac v momente usudzovania do zátvoriek. Preto asi najstaršie a
+      najrozšírenejšie morálne pravidlo hlása: „Čo nechceš, aby iní robili tebe, nerob ani ty im.“ V duchu evanjelia
+      znie toto pravidlo ako takzvané zlaté pravidlo: „Všetko, čo chcete, aby ľudia robili vám, robte aj vy im.“
+    </para>
+    <para>Kantov slávny kategorický imperatív nie je koniec-koncov ničím iným ako zjemnením tohto pravidla. To nás
+      vyzýva posudzovať nami sledovaný princíp bez ohľadu na to, že my sami sme tí, čo práve konajú tak či onak, a
+      postihnutí sú tí ostatní. Vyzýva nás položiť si otázku, či si môžeme priať, aby všetci ľudia zachovávali toto
+      pravidlo a my by sme boli pritom tými postihnutými. Nechajme však bokom diskusie o dosahu a účinnosti zlatého
+      pravidla alebo podobných všeobecných pravidiel. Bernard Shaw raz napísal: „Nerob druhému to, čo chceš, aby ti
+      robil on, lebo on by mohol mať iný vkus než ty.“ Zovšeobecňujúce pravidlo chce jednoducho skúšať, ako je to s
+      nestrannosťou úsudku vo vlastnej veci. No tento test je iba negatívny. Lebo nie každý spôsob konania, ktorý v ňom
+      obstojí, je už preto dobrý. Čo sa podľa neho vylúči, je v podstate len primitívny egoizmus.
+    </para>
+    <para>Rozhodujúce pre správne konanie je niečo iné. Rozhodujúce je, či zaobchádzame s vecami, rastlinami,
+      zvieratami, ľuďmi a napokon aj so sebou, podľa ich vlastnej hodnoty, tj. spravodlivo k ich skutočnosti. To, hlavne
+      a predovšetkým znamená, či zaobchádzame s každým človekom ako s bytosťou, ktorá je tak isto samoúčelná ako my.
+      Pravdaže, ustavične sa navzájom používame ako prostriedky pre iné účely.
+    </para>
+    <para>Na tom spočíva celá civilizácia deľby práce. Rozhodujúce však je, aby v tomto systéme nebol nikto len
+      prostriedkom, aby nikto nebol prostriedkom bez toho, aby zároveň bol aj účelom, to znamená bez toho, aby v tomto
+      súvise úkonov mohol sledovať aj svoje účely.
+    </para>
+    <para>Preto Kant povedal, že človek nemá hodnotu, ale dôstojnosť. Lebo každá hodnota je merateľná, môže sa vypočítať
+      porovnávaním. Ale „dôstojnosťou“ nazývame vlastnosť, ktorá sa vymyká každému hodnotiacemu výpočtu, lebo ona sama
+      je meradlom počítania.
+    </para>
+    <para>Dôstojnosť človeka súvisí – ako som už v jednej predchádzajúcej kapitole povedal – s tým, že on sám
+      predstavuje totalitu zmyslu, všeobecnosť. Jeho dôstojnosť spočíva v tom, že nie je len jednou časťou skutočnosti
+      spomedzi ostatných častí, ale v svedomí chce byť spravodlivý k celej skutočnosti, človek ako potenciálne mravná
+      bytosť si zasluhuje bezpodmienečnú úctu.
+    </para>
+    <para>Preto sme povinní mať úctu aj sami k sebe. Sebaúcta človeka vyžaduje byť spravodlivým aj voči mimoľudskej
+      skutočnosti. Kto napr. chová zvieratá pre vlastný osoh alebo na potešenie, dlhuje sám sebe, aby im umožnil, dokiaľ
+      žijú, primeraný zvierací život. Zničiť predmety určené na používanie na vyššie účely, alebo ich používať na nižšie
+      účely, musí byť odôvodnené. Samo vlastníctvo nie je ospravedlnením. Vlastnenie vecí vylučuje, aby nimi disponovali
+      iní ľudia, a vyhradzuje vlastníkovi rozhodovať o ich používaní, ale to neznamená, že ich používanie môže byť
+      nemorálne. Zahodiť niečo, čo môže iný potrebovať, je vždy nemorálne. Jestvuje určitá, takmer magická obava mnohých
+      ľudí zahodiť chlieb. Túto obavu možno ľahko pripísať tomu, že kedysi bol nedostatok chleba. Čo z toho vyplýva? Z
+      toho môžeme vyvodiť, že určitý stupeň nadbytku pre človeka nie je dobrý, lebo ho robí slepým voči hodnote vecí.
+    </para>
+    <para>Čo robí konanie dobrým? – pýtali sme si. Odpoveď znie: aby konanie zodpovedalo tomu. čo je. Odpovede tohto
+      druhu majú v sebe vždy niečo neuspokojivé. Sú nevýrazné a nie sú operacionalizovateľné. Nedozvedáme sa z nich, čo
+      máme v danom prípade robiť. No to nie je ani potrebné, lebo to, čo máme robiť vo väčšine prípadov, beztak vieme už
+      vopred. Úvahy toho druhu slúžia v prvom rade na to, aby sme si zdôvodnili, čo už vieme. Vo väčšine prípadov
+      vychádza, že máme konať podľa „povahy veci“.
+    </para>
+    <para>K povahe sľubu patrí, že sa musí dodržať. Ten druhý sa na to spolieha. Bolo mu sľúbené, že sa môže na to
+      spoľahnúť. Z povahy malých detí vyplýva, že tí, ktorým patria, im poskytnú, čo potrebujú, ak im to núdza
+      neprekazí. Nechať pobehávať vlastne deti ako „deti s kľúčom na krku“ a za ten čas študovať sociálnu psychológiu a
+      počúvať prednášku o „deťoch s kľúčom na krku“, je čosi absurdné.
+    </para>
+    <para>Povedal som, že čo treba robiť, je vo väčšine prípadov samozrejmé. Ale sú aj konfliktné prípady, prípadne
+      kolízie povinností, A sú prípady, keď je správne nedodržať sľub, lebo to vyžaduje nejaká súrnejšia alebo
+      dôležitejšia vec. V jednoduchých modelových situáciách je ľahké vedieť, čo treba robiť. No väčšina situácií, v
+      ktorých sa ocitáme, je komplexná. Križujú sa v nich rôzne požiadavky. ktoré musíme uspokojiť, a všelijaké
+      zodpovednosti, ktoré na nás doliehajú.
+    </para>
+    <para>Aj tu väčšinou platí poradie dôležitosti a naliehavosti pre každého, kto je schopný usudzovať a spravodlivo
+      rozmýšľať. Ale predsa nie vždy. Predovšetkým rozsah zodpovednosti nie je určený raz a navždy. Ako sme už povedali,
+      je nezmyselné stotožňovať tento kruh so svetom a ľudstvom a brať na seba zodpovednosť za všetky následky našich
+      skutkov a nedbalostí.
+    </para>
+    <para>To, za čo máme skutočne niesť zodpovednosť, závisí od mnohých okolností, okrem iného aj od toho, o akého
+      človeka ide. Hornú hranicu dobrého konania nie je možné definitívne vyznačiť. Väčšinou je možné ešte i niečo
+      lepšie, než to, čo robíme my. A bolo by nesprávne tvrdiť, že sme vždy povinní urobiť to najlepšie. To je celkom
+      nemožné.
+    </para>
+    <para>Môže sa však udať dolná hranica. Sú určité konania, ktoré vždy narušia dôstojnosť človeka a dotýkajú sa jeho
+      samoúčelného charakteru konania. Konania, ktoré nemožno ospravedlniť nijakými takzvanými vyššími povinnosťami
+      alebo obsažnejšími zodpovednosťami.
+    </para>
+    <para>Súvisí to s tým, že ľudská osoba nie je čisto duchovná bytosť, ale že sa od prírody manifestuje určitým
+      spôsobom, a to svojím telom a rečou. Keď sa telo a reč nerešpektujú ako reprezentácie osoby, ale sa používajú len
+      ako prostriedky na iné účely, vtedy sa aj osoba používa ako prostriedok.
+    </para>
+    <para>Z toho konkrétne vyplýva, že úmyselné a priame usmrtenie človeka, mučenie, znásilnenie alebo použitie
+      sexuality ako prostriedku na určité účely, je vždy zlé. Ani ten, kto oklame človeka, ktorý mu právom dôveruje, to
+      nemôže ospravedlniť. Inštrumentalizuje reč a takpovediac sa stráca ako osoba, ktorá sa v reči predstavuje.
+    </para>
+    <para>Okrem toho zbavuje toho druhého možnosti pristupovať adekvátne ku skutočnosti, lebo úmyselne prerušuje jeho
+      kontakt so skutočnosťou. Tak napríklad nik nemá právo oklamať chorého, ktorý sa s dôverou v pravdovravnosť spytuje
+      na svoj stav. a tak ho zbaviť možnosti vyrovnať sa so svojím osudom.
+    </para>
+    <para>Dolné hranice dovoleného nedefinujú dobré skutky. Nie každý, kto hovorí pravdu, už tým koná dobre. Môže ju
+      povedať s láskou, dobromyseľne, a môže ju použiť aj ako zbraň s podlým zámerom. Ako sme videli, dobrý úmysel sám
+      síce nerobí konanie dobrým, ale bez dobrého úmyslu, bez dobrého zmýšľania niet dobrých skutkov.
+    </para>
+    <para>V skutočnosti sa deje viac dobrých skutkov, než sa všeobecne myslí, neobmedzene veľa dobrých skutkov. Nemali
+      by sme zatvárať oči pred nimi, lebo nič neposmeľuje viac než také príklady. Nemyslím na hrdinské príklady. Myslím
+      na jednoduché veci ako napríklad na mladíka, ktorého sa spýtam na ulicu, ktorú nemôžem nájsť. On naruší svoj
+      program a ide päť minút so mnou, aby mi ju ukázal. Je to maličkosť, čo nestojí za reč, ale je to bez obmedzenia
+      pekné. Každý taký čin ospravedlňuje jestvovanie sveta. Ten mladík nerozvíjal veľké morálne úvahy, jednoducho
+      urobil, čo mu prišlo na um. To mu prišlo na um preto, lebo je taký. aký je.
+    </para>
+    <para>Jestvuje starý princíp stredovekých filozofov: agere sequitur esse, konanie je dôsledkom bytia. Podľa toho
+      napokon nie skutky sú dobré, ale ľudia. A čo robí človeka dobrým, to má podľa kresťanskej tradície názov „láska“.
+      Je to postoj zásadného súhlasu so skutočnosťou. Z neho vyviera univerzálna náklonnosť, ktorá pripúšťa, že nie sme
+      stredobodom sveta, ale že aj my do neho patríme, že musíme žiť v priateľstve so sebou, aby sme žili dobre. Ale
+      podľa meradla lásky všetci sme len podmienečne dobrí.
+    </para>
+    <para>Už som povedal: čo je v danej situácii dobré, závisí okrem iného od povahy toho. kto sa v tej situácii ocitá.
+      „Je lekár na palube?“ opýtame sa na lodi, keď sa niekto poraní. Ak je niekto lekár, musí pomôcť. A niečo obdobné
+      platí aj o iných vlastnostiach človeka.
+    </para>
+    <para>Sú ľudia s väčším rozhľadom než iní. Tí by mali za určitých okolností poradiť ostatným. Sú ľudia s
+      vypestovanejším citom pre hodnoty. Títo nemôžu bez viny vykonať alebo zanedbať niečo, čo by sme iným azda ani
+      nemohli vyčítať. Sú ľudia, ktorí musia preberať zodpovednosť za iných – ktorá ináč nikoho nezaväzuje len preto, že
+      vidia niečo, čo iní nevidia.
+    </para>
+    <para>Konanie nasleduje bytie. Nepochybne sú rozdiely úrovne, aj medzi ľuďmi. Sú ľudia, ktorí stoja mravne vyššie
+      než iní. Títo nielen smú, ale aj musia viac robiť, lebo viac vedia a viac vidia. Oni si vo všeobecnosti
+      nepripadajú lepšími, ale rozdiel medzi tým. čo vidia a robia, je taký veľký, že preň skôr trpia. Jednoducho, majú
+      jemnejšie svedomie.
+    </para>
+    <para>Kresťanstvu sa odjakživa vyčíta, že vštepilo do ľudí pocit vlny. To je rovnako nesprávne ako i správne. Pravda
+      je, že kresťanstvo zvýšilo pocit hodnoty, urobilo ho zreteľnejším pre skutočnosť a tým, samozrejme, obmedzilo
+      možnosť páchať nevinne neprávosti alebo zanedbávať dobro. Kde je viac svetla, tam sú tiene ostrejšie. Všetci
+      vrháme tiene. „Nikto nie je taký dobrý ako Boh,“ hovorí sa v Novom zákone.
+    </para>
+    <para>No to vedel už pred storočiami žijúci grécky filozof Anaximander, keď napísal: „Z čoho veci vznikajú, do toho
+      aj podľa poriadku času zanikajú, lebo platia pokutu za neprávosti.“ Anaximander chcel povedať: všetko čo jestvuje,
+      zaujíma priestor, ktorý odníma iným. Je vinné už svojou existenciou a platí za svoju vinu tak, že po istom čase
+      musí svoje miesto prepustiť iným.
+    </para>
+    <para>Aj keď nemôžeme pochopiť mýtickú myšlienku viny vecí pre ich holú existenciu, predsa zostáva faktom, že nikto
+      nie je schopný plne sa povzniesť nad svoje čisto egocentrické ponímanie sveta.
+    </para>
+    <para>Všetci máme svoje slepé momenty, svoje konštitučné nepozornosti, všetci si nejako navzájom stúpame na päty.
+      Hranicu medzi vinou a nevinou pritom nikto nemôže jednoznačne vyznačiť, lebo nepozornosti, v ktorých spočíva zlo,
+      sa zakladajú práve na potláčaní. Je zabúdanie úmyselné alebo neúmyselné? Tak či onak, vždy sme si navzájom čosi
+      dlžní.
+    </para>
+    <para>No jestvuje ešte niečo iné než neúprosné koleso spravodlivosti, ktoré ukladá ľuďom a veciam pokuty. Človek má
+      možnosť uznať ako svoju vinu vlastnú obmedzenosť a odpustiť obmedzenosť druhému. pripísať ju jeho nevedomosti.
+      Jestvuje nielen spravodlivosť, ale aj odpustenie a zmierenie. Všetky dobré skutky nič nemenia na tom, že niet
+      ľudského života, ktorý by si zasluhoval, aby ho označili za celkom dobrý. Každý potrebuje zhovievavosť a vari aj
+      odpustenie. Ale na to si môže nárokovať len ten, kto síce nezatvára oči pred neprávosťou, ale je ochotný
+      bezvýhradne odpúšťať. Uznanie, odpustenie, zmierenie, to je vyššia spravodlivosť. Na ňu sa vzťahujú Heglove slová:
+      Zahojiť rany duše tak, aby nezostali jazvy.
+    </para>
   </chapter>
 </book>
