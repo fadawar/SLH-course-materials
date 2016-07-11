@@ -23,6 +23,7 @@
       .numbering-paragraphs {
         color: grey;
       }
+      p { margin: 0.3em; }
     </style>
   </xsl:template>
 

@@ -25,7 +25,7 @@
       <xsl:call-template name="anchor"/>
       <fo:inline color="grey">
         <xsl:number count="para[parent::section or parent::chapter]" level="any"/>
-        <xsl:text>.</xsl:text>
+        <xsl:text>. </xsl:text>
       </fo:inline>
       <xsl:apply-templates/>
     </fo:block>

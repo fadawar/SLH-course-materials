@@ -4,24 +4,22 @@ BUILD_DIR = build
 
 all: html pdf
 
-html:
-	xsltproc -o networkmanager-manual.html $(STYLESHEETS_DIR)/xhtml/docbook.xsl networkmanager-manual.xml
-
-epub: clean
+epub:
 	xsltproc \
 		--stringparam base.dir $(BUILD_DIR)/epub-source/ \
 		$(CUSTOM_XSL_DIR)/custom-style-epub.xsl \
-		src/Spaemann-Robert-Hovorime-o-etike.xml
-	zip -r -X $(BUILD_DIR)/mybook.epub $(BUILD_DIR)/epub-source/mimetype \
+		src/$(file).xml
+	zip -r -X $(BUILD_DIR)/$(file).epub $(BUILD_DIR)/epub-source/mimetype \
 		$(BUILD_DIR)/epub-source/META-INF \
 		$(BUILD_DIR)/epub-source/OEBPS
 
 fo:
-	xsltproc -o $(BUILD_DIR)/out.fo \
-		$(CUSTOM_XSL_DIR)/custom-style-pdf.xsl src/Spaemann-Robert-Hovorime-o-etike.xml
+	xsltproc -o $(BUILD_DIR)/$(file).fo \
+		$(CUSTOM_XSL_DIR)/custom-style-pdf.xsl src/$(file).xml
 
 pdf: fo
-	fop -pdf $(BUILD_DIR)/out.pdf -fo $(BUILD_DIR)/out.fo -c fop-cfg.xml
+	fop -pdf $(BUILD_DIR)/$(file).pdf -fo $(BUILD_DIR)/$(file).fo -c fop-cfg.xml
+	rm $(BUILD_DIR)/$(file).fo
 
 clean:
 	rm -rf $(BUILD_DIR)/*
