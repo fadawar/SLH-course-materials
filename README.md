@@ -4,6 +4,9 @@ Materials for course from The Ladislav Hanus Fellowship
 
 Usage
 -----
+First:
+`vagrant up`
+
 Create pdf:
 `make pdf file=Spaemann-Robert-Hovorime-o-etike`
 
@@ -12,14 +15,14 @@ Create epub:
 
 Setup
 -----
-Install packages `sudo apt install fop docbook-xsl-doc-pdf xsltproc`
+Install Vagrant and run `vagrant up`
 
-Download XSLT from https://sourceforge.net/projects/docbook/files/docbook-xsl/ (tested with version 1.79.1)
-and put it into directory `docbook-xsl`
+### Info
+Docbook XSL is downloaded from https://sourceforge.net/projects/docbook/files/docbook-xsl/
+and then is placed into directory `docbook-xsl`. Tested with version 1.79.1. You can provide new version.
 
-Path to fonts must be defined in `fop-cfg.xml` and you then can change font that will be used in `Makefile`
+Path to fonts is defined in `fop-cfg.xml`.
 
 ToDo
 ----
-Add vagrant
 Add SLH logo to title page
