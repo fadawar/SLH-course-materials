@@ -3,7 +3,7 @@ CUSTOM_XSL_DIR = /vagrant/custom-xsl
 BUILD_DIR = /vagrant/build
 SRC_DIR = /vagrant/src
 
-all: html pdf
+all: pdf epub
 
 epub:
 	vagrant ssh -c "\
@@ -32,5 +32,6 @@ clean:
 
 # This will regenarate custom XSL for title page
 titlepage:
-	xsltproc -o $(CUSTOM_XSL_DIR)/booktitlepage.xsl \
-		$(DOCBOOK_XSL_DIR)/template/titlepage.xsl $(CUSTOM_XSL_DIR)/booktitlepage.xml
+	vagrant ssh -c "\
+		xsltproc -o $(CUSTOM_XSL_DIR)/booktitlepage.xsl \
+			$(DOCBOOK_XSL_DIR)/template/titlepage.xsl $(CUSTOM_XSL_DIR)/booktitlepage.xml"

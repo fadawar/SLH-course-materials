@@ -13,6 +13,8 @@ Create pdf:
 Create epub:
 `make epub file=Spaemann-Robert-Hovorime-o-etike`
 
+Notice: Paramater "file" is not real path to file but name of the file in directory `src` without extension.
+
 Setup
 -----
 Install Vagrant and run `vagrant up`
