@@ -9,6 +9,9 @@
                 <font kerning="yes"  embed-url="/home/vagrant/OpenSans/OpenSans-Bold.ttf">
                       <font-triplet name="OpenSans" style="normal" weight="bold"/>
                 </font>
+                <font kerning="yes"  embed-url="/home/vagrant/OpenSans/OpenSans-Italic.ttf">
+                      <font-triplet name="OpenSans" style="italic" weight="normal"/>
+                </font>
             </fonts>
         </renderer>
       </renderers>
