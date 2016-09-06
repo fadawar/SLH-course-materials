@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="sk">
+  <info>
+    <title>O povinnostech (s. 126 – 159)</title>
+    <author>
+      <firstname>Marcus</firstname>
+      <othername>Tullius</othername>
+      <surname>Cicero</surname>
+    </author>
+    <publisher>
+      <publishername>Svoboda</publishername>
+    </publisher>
+    <pubdate>1970</pubdate>
+  </info>
+
+  <chapter>
+    <title>Kniha třetí</title>
+    <para>1/ Publius Scipio, milý Marku, ten, který byl první nazván Africkým, říkával prý, jak napsal Cato, jenž byl
+      téměř jeho vrstevníkem, že nikdy neodpočívá méně, než když si odpočívá, a nikdy není méně sám, než když je sám. To
+      jsou zajisté skvělá slova, bodná muže velkého a moudrého. Ukazují, že v době odpočinku uvažoval o svých úkolech a
+      v samotě mluvíval sám se sebou, takže nikdy nezahálel, přestože časem necítil potřebu s někým rozmlouvat. A tak
+      dvě věci, které u jiných bývají doprovázeny duševní ochablostí, totiž klid a samota, mu napomáhaly ke zbystření.
+      Kéž bych mohl totéž říci podle pravdy také o sobě! Ale třebas nejsem s to vyrovnat se tomuto znamenitému muži,
+      přece aspoň vůlí se mu snažím co nejvíc přiblížit.
+    </para>
+    <para>Když jsem byl ozbrojeným a zločinným úsilím vyloučen z politického života a z účasti na veřejných
+      záležitostech, vyhledávám ústraní, a protože jsem opustil město, cestuji po svých venkovských statcích a bývám
+      tedy často sám. Ale tento můj klid nelze srovnávat s klidem Scipiona Afrického, ani tuto mou samotu s jeho
+      samotou. Neboť on si dopřával klidu jen tehdy, když si chtěl odpočinout po splnění nej čestnějších veřejných
+      úkolů, a uchyloval se občas z rušné společnosti do samoty jako do přístavu, kdežto můj klid má svůj původ v tom,
+      že nemohu být veřejně činný, nikoli v mé touze po odpočinku. Neboť jak bych mohl vystupovat bez porušení své
+      důstojnosti v radnici nebo na foru, když byla moc senátu potlačena a soudy ztratily smysl? Tak já, jenž jsem kdysi
+      žil v stálém styku s lidmi a před zraky svých spoluobčanů, nyní prckám před zločinci, jichž je všude plno, skrývám
+      ho, jak mohu, a často jsem sám. Ale poučil jsem se u moudrých lidí, že si nejen máme z několikerého zla zvolit
+      nejmenší, ale i ze zla samého si máme vybrat, pokud možno, něco dobrého, proto hledím využít svého klidu – nikoli
+      ovšem takového, jaký si zasloužil ten, jenž kdysi získal klid své obci – a nechci zustavat nečinný v samotě,
+      kterou mi přináší tíseň osudu, a nikoli má vůle.
+    </para>
+    <para>Ovšem Scipio Africký si zasloužil podle mého sondu větší chválu. Neboť žádná písemná památka po něm nezůstala,
+      žádný plod jeho volna ani jeho samoty neexistuje a z toho je patrno, že zcela vyplnil svůj volný čas a svou samotu
+      uvažováním a zkoumáním otázek, k nimž ho přivádělo jeho myšlení. Avšak já, jenž nemám tolik síly, abych se zbavil
+      pocitu samoty tichým přemýšlením, obrátil jsem veškeru svou usilovnou snahu k této své spisovatelské činnosti. A
+      tak jsem za krátkou dobu, co je svoboda obce zničena, napsal víc než za mnoho let, kdy ještě trvala.
+    </para>
+    <para>2/ Ale jestliže celá filosofie, milý Marku, je plodným a úrodným polem, jehož žádná část není neobdělaná a
+      pustá, pak žádná její část nepřináší větší užitek než kapitola pojednávající o povinnostech, od nichž se odvozují
+      pravidla důsledného a čestného života. A proto, ač věřím, že pilně posloucháš výklady o těchto otázkách u našeho
+      přítele Kratippa, předního filosofa dnešní doby, přece pokládám za prospěšné, aby k tvému sluchu doléhaly takové
+      hlasy ze všech stran, abys možno-li nic jiného neslyšel. Tak si ovšem musí počínat všichni, kdo mají v úmyslu
+      kráčet v životě cestou ctnosti, ale, snad nikdo víc než ty; neboť od tebe se očekává, že v nemalé míře napodobíš
+      mou píli, z velké části mou dráhu úřední a snad poněkud i mou slávu. Mimoto vzal jsi na sebe těžký závazek pobytem
+      v Athénách u Kratippa. Odebral ses tam jako na trh ušlechtilých nauk a bylo by tedy velmi ošklivé, aby ses
+      navrátil s prázdnou a dělal hanbu dobré pověsti tohoto města i svého učitele. Proto veškerou silou svého ducha a
+      veškerou svou pracovitostí, není-li učení spíše rozkoší než prací, směřuj k úspěchu a nedopusť, aby se zdálo, že
+      já jsem ti sice poskytl vše, ale ty sám žes selhal. Ale o tom dosti, vždyť jsem ti poslal už mnoho písemných
+      napomenutí. Nyní se vraťme k zbývající části našeho tématu.
+    </para>
+    <para>Tedy Panaitios, jenž bezesporu pojednal o povinnostech nejpřesněji a jehož jsem se s některými opravami
+      přidržel, stanovil tři druhy případů, kdy se lidé radí a uvažují o povinnosti. Za prvé, když jsou na pochybách,
+      <emphasis>zda čin</emphasis>
+      , o kterém se jedná,
+      <emphasis>je čestný či nečestný</emphasis>
+      , za druhé, zda je
+      <emphasis>prospěšný či neprospěšný</emphasis>
+      , za třetí, jak je
+      třeba se rozhodnout, když
+      <emphasis>jednání, jež se jeví čestným, je v rozporu s jednáním, jež se zdá prospěšným</emphasis>
+      . O prvních
+      dvou případech pojednal ve třech knihách, o třetím slíbil pojednat, ale svůj slib nesplnil. A je to kupodivu,
+      poněvadž Panaitios, jak napsal jeho žák Poseidónios, žil ještě třicet let po tom, co vydal ony tři knihy. A divím
+      se také tomu, že i Poseidónios se jen krátce dotkl této otázky v jednom svém pojednání, zvláště když sám píše, že
+      žádná otázka v celé filosofii není tak naléhavá. Naprosto však nesouhlasím s těmi, kteří tvrdí, že tu otázku
+      nepominul náhodou, nýbrž že ji vynechal úmyslně a že by se o ní vůbec nemělo psát, protože prospěch nikdy nemůže
+      být v rozporu s čestností.
+    </para>
+    <para>Lze být vskutku na pochybách o tom, zda se vůbec měla položit ta otázka, která je v osnově Panaitiově na
+      třetím místě, či zda se měla zcela pominout. O tom však pochybovat nelze, že si Panaitios tuto otázku položil, ale
+      neodpověděl na ni. Neboť dokončí-li někdo dvě části z trojdílné osnovy, zbývá mu nutně třetí. Mimoto na konci
+      třetí knihy slibuje, že promluví o této části dále. Přistupuje k tomu spolehlivý svědek Poseidónios, jenž v jednom
+      dopise píše, že Publius Rutilius Rufus, jenž byl Panaitiovým posluchačem, říkával, že jako se nenašel žádný malíř,
+      jenž by dokončil tu část Venuše Kójské, kterou nechal Apellés nedokončenu (neboť krása tváře mařila naději, že ji
+      lze napodobit i v ostatních částech těla), tak že také nikdo nedoplnil to, co vynechal Panaitios, pro výtečnost
+      toho, co dokončil.
+    </para>
+    <para>3/ Zkrátka o úmyslu Panaitiově není možno pochybovat. Spor se snad může vést jen o to, zda správně či
+      nesprávně připojil k úvahám o povinnosti tento třetí bod. Ať už je ctnost jediné dobro, jak věří stoikové, nebo ať
+      je nejvyšším dobrem v tom smyslu, jak soudí vaši peripatétikové, že totiž ve srovnání s ní všechna ostatní dobra
+      téměř nic neváží,
+      <emphasis>nelze pochybovat o tom, že nikdy nemůže být prospěšnost v rozporu s čestností;</emphasis>
+      a proto Sókratés,
+      jak jsme se učili, zatracoval ty, kteří poprvé v klamném domnění odloučili od sebe tyto dva pojmy, jež svou
+      přirozenou podstatou spolu souvisí. A s ním projevili souhlas stoikové, když učili, že každé čestné jednání je
+      prospěšné a že žádné jednání není prospěšné, které není čestné.
+    </para>
+    <para>Kdyby Panaitios tvrdil, že ctnost se má pěstovat proto, že přináší prospěch, jak to činí ti filosofové, pro
+      něž je měřítkem žádoucích věcí rozkoš a bezbolestnost, směl by říci, že prospěch bývá někdy s čestností v rozporu.
+      Ale poněvadž se hlásí k těm, kteří pokládají ctnost za jediné dobro a kteří soudí, že se život ani ziskem toho, co
+      odporuje ctnosti zdáním prospěchu, nestává lepší, ani ztrátou toho horší, zdá se, že skutečně neměl pojímat do své
+      osnovy takovou úvahu, v níž se mělo srovnávat jednání zdánlivě prospěšné s jednáním ctnostným. Vždyť i to, co se
+      nazývá u stoiků nejvyšším dobrem,
+      <emphasis>žít ve shodě s přírodou</emphasis>
+      , znamená podle mého mínění, shodovat se stále s ctností
+      a z ostatních věcí, které vyhovují naší přirozenosti, volit jen ty, které ctnosti neodporují. Proto jsou někteří
+      toho názoru, že bylo nesprávné uvádět toto srovnání a že by se v tomto směru vůbec neměla dávat žádná pravidla.
+    </para>
+    <para>Ovšem čestné jednání ve své vlastní a pravé podstatě, jež nemůže být nikdy odloučeno od ctnosti, se
+      uskutečňuje jenom u mudrců. U těch lidí, kteří nemají dokonalou moudrost, nemůže se nikdy uskutečnit dokonalé
+      čestné jednání ve své vlastní podstatě, ale mohou se u nich uskutečnit aspoň podoby čestnosti. Ty povinnosti, o
+      nichž pojednávám v této knize, nazývají totiž stoikové středními povinnostmi. Jsou obecně rozšířeny a mnoho lidí k
+      nim dospívá přirozenou dobrotou své povahy a pokrokem vědění. Jenom ta povinnost, kterou oni nazývají pravým
+      ctnostným činem, je naprosto dokonalá, má všechny náležité vlastnosti v nejvyšším stupni a nemůže příslušet nikomu
+      než mudrci. Avšak takové činy, jimiž se uskutečňují povinnosti střední, zdají se být naprosto dokonalé, protože si
+      lidé zpravidla neuvědomují, že se něčím liší od činů dokonalých. A pokud si nějaký rozdíl uvědomují, myslí si, že
+      zde nechybí k dokonalosti nic podstatného. Totéž se přihází, když lidé neznalí umění chválí básně, obrazy a jiná
+      taková díla, která si chvály nezaslouží. I to se děje myslím z té příčiny, že je v těch dílech něco dobrého, co
+      lidi neznalé umění zaujme; nedovedou totiž posoudit chybu té či oné věci. Proto snadno změní své mínění, když je
+      znalci poučí.
+    </para>
+    <para>4/ Tedy povinnosti, o kterých pojednávám v tomto spise, jsou podle toho jakési ctnostné činy druhého řádu, jež
+      nejsou vlastní jenom mudrcům, nýbrž jsou společné všem lidem. A tak se cítí jimi přitahováni všichni, kteří mají
+      vlohu k ctnosti. Ostatně připomínají-li se dva Deciové a dva Scipionové jako mužové stateční nebo je-li Fabricius
+      nazýván spravedlivým, neznamená to ještě, že ony dvě dvojice mohou být příkladem skutečně mudrcké statečnosti nebo
+      tento Fabricius příkladem mudrcké spravedlnosti. Nikdo z nich nebyl moudrý v tom smyslu, jak si představujeme
+      <emphasis>mudrce</emphasis>
+      , a nebyli
+      <emphasis>mudrci</emphasis>
+      ani Marcus Cato a Gaius Laelius, kteří byli pokládáni za moudré a tak také nazýváni, ani
+      oněch známých sedm mudrců, nýbrž všichni dosahovali jen jakési vnější podoby s mudrci hojným plněním
+      <emphasis>středních povinností</emphasis>
+      .
+    </para>
+    <para>A tedy nejen o
+      <emphasis>pravé</emphasis>
+      čestnosti platí, že se nemůže dostat do sporu s prospěchem, ale ani čestnost v obecném
+      slova smyslu, o niž usilují všichni, kteří chtějí být pokládáni za poctivé muže, nemá se nikdy měřit vnějším
+      prospěchem. A stejně musíme my pěstovat a zachovávat tu čestnost, na kterou naše chápání stačí, jako mudrci onu
+      vlastní a pravou podstatu čestnosti. Jinak se nemůžeme udržet na cestě k pokroku, po které jsme snad už začali
+      směřovat k ctnosti. Tak si aspoň počínají lidé, kteří jsou pokládáni za poctivé, protože plní své povinnosti. Ti
+      však, kteří všechno měří prospěchem a užitkem a nechtějí ho obětovat čestnosti, mají ve zvyku, uvažují-li o něčem,
+      srovnávat jednání čestné s jednáním, které pokládají za prospěšné; kdežto poctiví muži to nečiní. Proto soudím,
+      když Panaitios řekl, že lidé při tomto srovnávání bývají v pochybnostech, že myslil právě jen to, co řekl, totiž
+      že bývají, nikoli že mají být. Neboť nejen stavět zdánlivý prospěch nad čest, ale i srovnávat tyto věci a být při
+      tom jen trochu v pochybnostech je nadmíru hanebné.
+    </para>
+    <para>A co tedy vlastně působívá někdy pochybnosti a kdy se ukazuje potřeba úvahy? Myslím, že to bývá tehdy, když
+      vzniká pochybnost o skutečné povaze činu, jenž přichází v úvahu. Mnohdy se totiž vlivem okolností stává, že čin,
+      který bývá zpravidla pokládán za hanebný, se hanebným neshledává. Budiž uveden jeden příklad, který však v sobě
+      zahrnuje i podobné příklady jiné. Jaký může být horší zločin než zabít člověka, a dokonce přítele? Ale což se
+      provinil zločinem někdo, kdo zabil tyrana, třebas to byl jeho přítel? Národ římský soudí jinak, neboť ze všech
+      slavných činů pokládá tento čin za nejkrásnější. Zvítězil tu tedy snad prospěch nad ctí? Nikoli, ale čest
+      provázela prospěšný čin.
+    </para>
+    <para>Abychom se tedy mohli s jistotou rozhodnout, bude-li se někdy zdát, že to, co pokládáme za čestné, je v
+      rozporu s tím, co nazýváme prospěšným, je třeba stanovit nějaké pravidlo. Budeme-li pak toto pravidlo při
+      srovnávání věcí zachovávat, nikdy se neuchýlíme od povinnosti. Toto pravidlo se pak bude shodovat nejspíše s
+      naukou školy stoické. Té se také v tomto spise přidržuji, protože i staří akademikové i vaši peripatétikové, kteří
+      se kdysi neodlišovali od akademiků, dávají sice přednost čestnému jednání před jednáním zdánlivě prospěšným, ale
+      přece líp nám poradí v této věci ti myslitelé, kteří učí, že co je čestné, je také prospěšné, a že nic není
+      prospěšné, co není čestné, než ti, kteří připouštějí, že čestné jednání může být někdy neprospěšné a prospěšné
+      jednání někdy nečestné. Mně pak škola akademická, k níž se hlásím, dopřává velké volnosti, neboť mi dává právo
+      hájit každou myšlenku, která se mi jeví pravdě nejpodobnější. Ale nyní o tom pravidle.
+    </para>
+    <para>5/ Tedy činit druhému člověku újmu a jeho škodou rozmnožovat svůj vlastní zisk odporuje přirozenosti více než
+      smrt, než chudoba, než bolest a než všechno ostatní, co může postihnout naše tělo a naše vnější statky. tím
+      především se znemožňuje soužití společnosti.
+    </para>
+    <para>Budeme-li totiž takoví, že budeme pro svůj vlastní prospěch jeden druhého olupovat nebo poškozovat, musí se
+      lidská společnost, která se nejvíce shoduje s přirozeností, nutně rozpadnout. Kdyby každý z našich údů měl vlastní
+      vědomí a myslil si, že by mohl být silný, kdyby pro sebe získal sílu údu sousedního, bylo by celé tělo nutně
+      oslabeno a zahynulo by. A podobně, kdyby se kdokoli z nás chtěl násilím zmocnit statků jiných lidí a kdyby kdekoho
+      olupoval pro svůj vlastní zisk, byla by jednota lidské společnosti nutně rozvrácena. Neboť snaží-li se každý z nás
+      získat životní potřeby spíš pro sebe než pro druhého, smí tak činit v souhlase s přirozeností, abychom však
+      zvětšovali své prostředky, bohatství a moc olupováním jiných, to přirozenost nedovoluje. A nejen právem
+      přirozeným, to je právem společným všem národům, ale i zákony jednotlivých národů, na nichž v jednotlivých obcích
+      spočívá ústavní zřízení, bylo shodně stanoveno, že <emphasis>nesmí jeden druhému škodit pro svůj vlastní
+        prospěch</emphasis>. Vždyť k tomu zákony směřují a ten smysl mají, aby zůstávala neporušena jednota občanů. A
+      kdo tuto jednotu maří, toho trestají smrtí, vyhnanstvím, žalářem a pokutou.
+    </para>
+    <para>A totéž žádá ještě mnohem naléhavěji sám
+      <emphasis>rozum přírody, jenž je zákonem božským i lidským</emphasis>
+      . Kdo chce tohoto
+      zákona poslouchat – a musí ho poslouchat všichni, kdo chtějí žít ve shodě s přírodou –, nikdy se nedopustí toho,
+      aby zatoužil po cizím majetku a přisvojil si to, co by jinému vzal. Neboť mnohem více se shoduje s lidskou
+      přirozeností vznešenost a velikost ducha i laskavost, spravedlnost a štědrost nežli život v rozkoši i bohatství.
+      Je zajisté znakem velikého a vznešeného ducha právě tímto pohrdat a nic si toho necenit ve srovnání s obecným
+      prospěchem. A rovněž se více shoduje s lidskou přirozeností podstupovat nejtěžší námahy a strasti, abychom pokud
+      možno chránili všechny národy a pomáhali jim – napodobujíce Hérakla, kterého lidská víra, pamětlivá jeho
+      dobrodiní, posadila do shromáždění nebešťanů –, než abychom žili v ústraní, i kdybychom se tím chránili všech
+      strastí a mohli naopak žít v největší rozkoši a hojnosti, vynikajíce k tomu ještě krásou a silou tělesnou. A proto
+      právě duchové nejlepší a nejskvělejší stavějí onen způsob života vysoko nad tento. Z toho tedy plyne, že člověk
+      poslouchající své přirozenosti nemůže druhému člověku škodit.
+    </para>
+    <para>A dále, kdo ubližuje druhému, aby sám z toho měl prospěch, bud si myslí, že nedělá nic proti přirozenosti,
+      anebo soudí, že se musí víc vyhýbat smrti, chudobě, bolesti a ztrátě dětí, příbuzných a přátel než křivdě na jiném
+      člověku. Jestliže se domnívá, že násilí spáchané na lidech neodporuje lidské přirozenosti, nač by ses s ním přel,
+      když takto zbavuje člověka veškeré lidskosti? A jestliže přiznává sice, že je to věc hodná zavržení, ale že mnohem
+      horší je smrt, chudoba a bolest, chybuje v tom, že pokládá škodu na těle nebo na vnějších statcích za těžší než
+      škodu na duši.
+    </para>
+    <para>6/ Tedy
+      <emphasis>jedna zásada musí být všem společná, ze prospěch jednotlivcův má být zároveň prospěchem celku;
+      </emphasis>
+      neboť
+      kdyby každý chtěl uchvátit všechen prospěch jen pro sebe, lidská společnost by se zcela rozpadla. A dále, jestliže
+      naše
+      <emphasis>přirozenost žádá, aby člověk pomáhal člověku</emphasis>
+      , ať je to kdokoliv,
+      <emphasis>jen právě proto, že to je člověk</emphasis>
+      , musí být
+      podle téže přirozeností i prospěch všech lidí věcí společnou. A jestliže tomu tak je, jsme všichni spojeni jedním
+      a týmž přirozeným zákonem, a jestliže toto platí, jistě nám přirozený zákon zakazuje, abychom jeden druhému
+      ubližovali. A poněvadž je předpoklad pravdivý, je pravdivý i závěr.
+    </para>
+    <para>Je tedy jistě zcela nevhodné, co říkají někteří lidé, že otci nebo bratru by v ničem neublížili pro svůj
+      prospěch, ale k ostatním občanům že mají vztah jiný. Tito lidé soudí, že je nespojuje s ostatními občany žádné
+      právo a žádné společenství směřující k obecnému blahu, což je názor, jenž úplně rozvrací jednotu obce. Ti lidé
+      pak, kteří tvrdí, že sice musíme mít ohled na spoluobčany, ale nikoli na cizince, ti popírají cit pospolitosti
+      celého lidského rodu. Ale bez tohoto citu hyne dobročinnost, štědrost, šlechetnost a spravedlnost od základů; a o
+      lidech, kteří dávají výhost těm ctnostem, musíme soudit, že jsou bezbožní i vůči nesmrtelným bohům, neboť
+      vyvracejí společnost lidskou jimi zřízenou. Nejpevnějším poutem této společnosti je totiž přesvědčení, že více
+      odporuje přirozenosti, když člověk Člověku působí újmu pro svůj vlastní prospěch, než kdyby musel snášet všechny
+      možné škody ať na vnějších statcích, ať na těle, ať třeba i na duchu, aniž přitom porušil
+      <emphasis>spravedlnost;</emphasis>
+      neboť tato
+      ctnost
+      <emphasis>je paní a královnou všech ctností</emphasis>
+      .
+    </para>
+    <para>Snad někdo řekne: Což by tedy mudrc, sám hynoucí hladem, nesměl odejmout pokrm tvoru zcela neužitečnému? Nebo
+      kdyby poctivý člověk mohl krutému a hroznému tyranu Falaridovi vzít oděv, aby sám nezahynul mrazem, což by to
+      nesměl učinit? Rozhodnutí je v těchto případech velmi snadné. Kdybys způsobil v něčem újmu člověku zcela
+      neužitečnému jen pro svůj vlastní prospěch, jednal bys člověka nedůstojně a proti zákonům přírody. Jestliže jsi
+      ale sám takový člověk, že bys mohl prokázat mnoho užitečného obci a lidské společnosti, kdybys zůstal naživu, pak
+      by se ti nemohlo vytýkat, kdybys z toho důvodu způsobil druhému újmu. Nejde-li však o takový případ, má člověk
+      raději snášet své nevýhodné postavení než jinému ubírat z jeho výhod. To ovšem neznamená, že více odporuje lidské
+      přirozenosti snášet nemoc, nouzi nebo něco podobného než toužit po cizím majetku a ubírat z něho, nýbrž jen tolik,
+      že odporuje přirozenosti nedbat obecného prospěchu. Neboť to je nespravedlivé. A tu sám zákon přírody, který
+      zachovává a udržuje dobro všech lidí, jistě rozhodne, že místo tvora nečinného a neužitečného má se dostat
+      nezbytných životních potřeb člověku moudrému, dobrému a statečnému, neboť kdyby takový Člověk zahynul, způsobil by
+      svou smrtí velikou újmu obecnému prospěchu.
+    </para>
+    <para>Musí se ovšem dát pozor, aby si člověk nebral příliš dobré mínění o sobě a svou sebelásku za záminku ke
+      skutečné křivdě. Bude-li dbát prospěchu lidí a lidské pospolitosti, kterou zde tak často připomínám, splní vždy
+      svou povinnost. A co se týče Falarida, je rozhodnutí nadmíru snadné.
+      <emphasis>Neboť neexistuje žádný cit pospolitosti mezi námi a tyrany</emphasis>
+      , ba spíše mezi námi je nejhlubší propast. Neodporuje tedy přirozenému řádu, můžeš-li to učinit, vzít
+      oděv Člověku, kterého i zabít je čestné; vždyť tento zhoubný a bezbožný druh lidí je třeba zcela vyloučit z lidské
+      společnosti. Jako se uřezávají údy, jsou-li bez krve a bez života a škodí-li ostatním částem těla, tak i tato
+      divoká a nestvůrná šelma v podobě člověka musí být odloučena od těla lidské společnosti.
+    </para>
+    <para>7/ Uvedené otázky jsou vesměs toho druhu, že se při nich povinnost určuje s ohledem na okolnosti. Takové
+      sporné případy byl by patrně sledoval Panaitios ve svém dalším výkladu, kdyby byla nějaká náhoda nebo jiná práce
+      nepřekazila jeho úmysl. Ostatně právě vzhledem k těmto otázkám jsem uvedl v předešlých knihách dosti mnoho rad, z
+      nichž lze poznat, jakému jednání je třeba se vyhýbat, protože je nečestné, a jakému nikoli, protože není nečestné.
+      Ale poněvadž se chystám jaksi postavit krov na započatou či spíše již téměř dokončenou stavbu – tu jako
+      matematikové nedokazují všechny své poučky, ale žádají, aby se připustily některé jejich předpoklady, aby tak
+      snáze vyložili, co zamýšlejí –, podobně já žádám tebe, milý Marku, abys připustil, můžeš-li, že
+      <emphasis>žádné dobro není žádoucí pro svou vlastní hodnotu mimo čestnost</emphasis>
+      . A jestliže ti to Kratippos nedovoluje, aspoň to jistě připustíš,
+      že čestnost je dobro pro svou vlastní hodnotu nejvíce žádoucí. Mně postačí jedno jako druhé a brzy se mi zdá
+      pravděpodobnější toto, brzy ono, ale mimo tuto dvojí možnost neuznávám za pravděpodobné nic.
+    </para>
+    <para>A především se musím zastat Panaitia v tomto smyslu: on netvrdil, že prospěch může být někdy v rozporu s
+      čestností, neboť nic takového tvrdit nesměl, nýbrž mluvil o prospěchu zdánlivém. Často naopak dokazuje, že nic
+      není prospěšné, co není zároveň čestné, a že nic není čestné, aby to nebylo zároveň užitečné, a tvrdí, že žádná
+      horší morová nákaza nepostihla lidský život než nesprávný názor těch, kteří tyto dva pojmy od sebe odloučili. A
+      tak pojal do své osnovy tento jen zdánlivý, nikoli skutečný rozpor ne proto, že bychom někdy smělí dát přednost
+      prospěchu před ctí, nýbrž proto, abychom takové sporné případy dovedli bezpečně rozhodnout, kdyby se někdy
+      naskytly. Tuto nedokončenou část chci tedy doplnit bez cizí pomoci, jak se říká, na vlastní pěst. Neboť z toho, co
+      bylo o této otázce řečeno po Panaitiovi, aspoň v těch spisech, které se mně dostaly do ruky, nic mne neuspokojilo.
+    </para>
+    <para>8/ Když se tedy vyskytne nějaká věc, jež se nám zdá prospěšná, jsme jí nutně přitahováni. Ale jestliže
+      přihlédneme blíže a shledáme, že ta věc, která se nám zdála prospěšná, obsahuje v sobě něco nečestného, tu nejde o
+      to, že bychom se snad měli nějakého prospěchu vzdát, nýbrž o to, abychom si uvědomili, že nemůže být prospěšné to,
+      co je nečestné. Jestliže nic tak neodporuje přirozenosti jako hanebnost – neboť přirozenost si žádá správnost,
+      soulad a důslednost – a jestliže se nic s přirozeností tak neshoduje jako prospěšnost, jistě nemůže být táž věc
+      zároveň prospěšná i hanebná. A rovněž, jsme-li zrozeni k čestnosti a je-li jenom čestnost žádoucí, jak učí Zénón,
+      nebo váží-li aspoň více než všechno ostatní, jak soudí Aristoteles, je nutně čestnost buď jediné, nebo nejvyšší
+      dobro. A co je dobro, to je jistě prospěšné, a tedy cokoli je čestné, to je také prospěšné.
+    </para>
+    <para>A tak je to jenom klamná představa, jestliže se nešlechetní lidé vrhnou na nějaký zdánlivý prospěch a hned se
+      domnívají, že jej lze odloučit od cti. Odtud mají svůj původ úkladné vraždy, travičství, padělání závětí, z toho
+      vznikají krádeže, podvody, vydírání a olupování spojenců a občanů, odtud povstává nesnesitelná moc přílišného
+      bohatství a zde se konečně rodí ve svobodných občanech panovačné choutky, nad něž si nelze představit nic
+      hroznějšího a ohavnějšího. Výhody z toho všeho plynoucí tito lidé ve svém klamném usuzování vidí, ale nevidí
+      <emphasis>trest</emphasis>
+      , neřeknu stanovený zákony, neboť tomu často uniknou, ale
+      <emphasis>obsažený v nečestnosti samé</emphasis>
+      , což je trest
+      nejkrutější.
+    </para>
+    <para>Proto odmítejte lidi toho druhu – skrznaskrz zločinné a bezbožné –, kteří se rozmýšlejí, zda se mají přidržet
+      toho, o čem vědí, že je to čestné, či zda se mají vědomě poskvrnit zločinem. Neboť samo váhání je tu zločinem, i
+      když se k provedení svého úmyslu neodhodlají. Nesmíme se zkrátka vůbec rozmýšlet tam, kde samo rozmýšlení je
+      nečestné. A také je třeba vyloučit z každého rozmýšlení nicotnou naději, že je možno špatný čin skrýt a zatajit.
+      Neboť jestliže jsme se jen trochu úspěšně zabývali filosofií, musíme být přesvědčeni, že i kdybychom mohli skrýt
+      své jednání přede všemi bohy a lidmi, přece bychom nesměli jednat ani lakotně ani nespravedlivě ani svévolně ani
+      neukázněně.
+    </para>
+    <para>9/ Ten smysl má i známá báj o Gygovi, vypravovaná u Platóna. Když se jednou po neobyčejně prudkých deštích
+      země rozestoupila, sestoupil Gygés do té rozsedliny a spatřil tam, jak báj vypravuje, kovového koně, v jehož boku
+      byly dveře. Otevřel je a uviděl mrtvolu člověka nevídané velikosti a na jejím prstě zlatý prsten. Stáhl jej a sám
+      si jej navlekl a potom se odebral – byl to totiž královský pastýř – do shromáždění pastýřů. A tu kdykoli obrátil
+      prsten kamenem k dlani, stal se neviditelným, ale sám viděl všechno. A kdykoli obrátil prsten do původní polohy,
+      zase byl viditelný. Využil tedy této zvláštní moci prstenu, učinil násilí královně a s její pomocí zabil krále,
+      svého pána, zahubil všechny lidi, o kterých si myslil, že mu stojí v cestě, a nikdo ho při těch zločinech nemohl
+      spatřit. A tak se stal najednou pomocí prstenu králem Lýdie. Kdyby však měl takový prsten mudrc, o nic víc by si
+      nemyslil, že smí hřešit, než kdyby ho neměl. Poctiví lidé totiž chtějí jednat čestně, nikoli skrytě.
+    </para>
+    <para>Někteří filosofové, nikterak sice zlí, ale ne dosti bystří, ukazují na to, že je to příběh smyšlený a vybájený
+      Platónem. Jako by Platón chtěl tvrdit, že se to stalo nebo mohlo stát! Smysl tohoto prstenu a příkladu je tento:
+      Dopustil by ses něčeho Špatného z touhy po bohatství a moci, po panování a požitcích, kdyby bylo jisto, že se o
+      tom nikdo nedoví, ba že ani nepojme na tebe nikdo podezření a že to zůstane bohům i lidem navždy utajeno?
+      Namítají, že to není možné. Možné to ovšem je, ale já se jen ptám, co by dělali, kdyby bylo možné to, co jako
+      možnost popírají. Jsou zatvrzelí opravdu jako sédláci. Říkají, že to není možné, a na tom trvají; jaký smysl má to
+      naše „kdyby“, nechápou. Když se totiž tážeme, co by dělali, kdyby mohli svůj čin utajit, neptáme se, zda by jej
+      opravdu mohli utajit, ale natahujeme je jaksi na skřipec, aby odpověděli, buď že by jednali zištně, kdyby měli
+      zajištěnou beztrestnost, a tím by se přiznali ke své zločinné povaze, nebo aby prohlásili, že ani potom by tak
+      nejednali, a tedy aby připustili, že se máme špatnosti vyhýbat pro špatnost samu. Ale vraťme se zas k našemu
+      tématu.
+    </para>
+    <para>10/ Přiházejí se často případy, které nás uvádějí zdáním prospěchu do rozpaků, ne snad že by se člověk
+      rozmýšlel, zda má obětovat čestné jednání velikému prospěchu, neboť to by bylo jistě nešlechetné, ale že uvažuje,
+      zda lze to, co se mu zdá prospěšné, vykonat bez hany. Když Brutus žádal svého kolegu Tarquinia Collatina, aby se
+      vzdal svého úřadu, mohlo se zdát, že si počíná nespravedlivě, neboť Collatinus byl Bratovým spojencem a pomocníkem
+      při vypuzení královské rodiny. Avšak náčelníci obce se usnesli, že se musí odstranit příbuzenstvo Tarquinia
+      Superba a všechno, co má jméno Tarquinius a co připomíná království; tedy to, co bylo prospěšné, totiž starost o
+      vlast, bylo také do té míry čestné, že to musel schvalovat i sám Collatinus. A tak tu rozhodovala prospěšnost, ale
+      ta byla spojena s čestností, bez níž by nebylo bývalo ani prospěšnosti.
+    </para>
+    <para>Jinak však tomu bylo v případě krále, který založil naše město. Neboť jeho mysl zmátlo pouhé zdání prospěchu.
+      Zdálo se mu totiž, že je prospěšnější, aby vládl sám než s někým společně, a proto zabil svého bratra. Ten tedy
+      porušil cit lásky a lidskosti, aby dosáhl toho, co se mu prospěšným zdálo, ale prospěšné nebylo; a přitom si vzal
+      za záminku přeskočení hradby, což nebyl způsob ani přesvědčivý ani vhodný, aby vzbudil dojem čestnosti. Zhřešil
+      tedy, a nechť mi promine, ať už Quirinus nebo Romulus, že takto mluvím.
+    </para>
+    <para>Nelze ovšem na nás žádat, abychom se vzdávali svých statků a přenechávali je jiným, když je sami potřebujeme,
+      nýbrž každý má dbát na svůj vlastní prospěch, ovšem s podmínkou, že přitom nekřivdí druhému. Vtipně to naznačil
+      Chrysippos, když řekl: „Kdo běží o závod, musí vynaložit veškeré úsilí, aby zvítězil; ale podrážet nohu tomu, s
+      kým závodí, nebo rukou jej odstrkovat rozhodně nesmí. A tak ani v životě není nespravedlivé, když se Člověk snaží
+      získat pro sebe věci k životu potřebné, ale druhému je utrhnout – to je bezpráví.“
+    </para>
+    <para>Nejvíce se však matou povinnosti, které se týkají
+      <emphasis>přátelství</emphasis>
+      , kde stejně odporuje pojmu povinnosti nevykonat
+      pro přítele, co můžeš spravedlivě vykonat, jako vykonat pro něho něco nespravedlivého. Ale ve všech těchto
+      případech je rada krátká a ne nesnadná. Tomu, co je zdánlivě prospěšné, čestným úřadům, bohatství, rozkoši a
+      ostatním věcem toho druhu, se nikdy nesmí dávat přednost před přátelstvím. Zato poctivý muž nebude jednat kvůli
+      příteli ani proti veřejnému zájmu, ani proti přísaze a svému svědomí a nebude si jinak počínat ani tehdy, bude-li
+      přímo soudcem ve věci svého přítele. Neboť odloží úlohu přítele, jakmile přijme úlohu soudce. Tolik smí povolit
+      svému přátelství, že si bude raději přát, aby věc přítelova byla spravedlivá, nebo že vhodně upraví lhůtu soudního
+      přelíčení, pokud to dovolují zákony. Když ale bude muset po složení soudcovské přísahy vynést rozsudek, bude
+      pamatovat na to, že bere boha za svědka, to znamená podle mého, že se dovolává svého svědomí, nad něž sám bůh
+      nedal člověku nic božštějšího.
+    </para>
+    <para>Od našich předků jsme přijali velmi pěkný zvyk – kéž bychom ho dbali – že žádajíce soudce o přízeň, dodáváme
+      „pokud to může učinit s dobrým svědomím“. Tato žádost směřuje jen k tomu, v čem – jak jsem před chvílí řekl – může
+      soudce příteli se ctí povolit. Neboť kdybychom měli učinit všechno, co by si přátelé přáli, pak by se takové
+      přátelství nesmělo už pokládat za přátelství, nýbrž za spiknutí.
+    </para>
+    <para>Mluvím tu ovšem o obyčejných přátelstvích, neboť u mužů moudrých a dokonalých se nemůže nic takového stát.
+      Pýthagorovci Daimón a Fintiás byli spjati, jak se vypráví, takovým přátelstvím, že když jednomu z nich tyran
+      Dionýsios určil den popravy a odsouzenec si vyžádal několik dní, aby uvedl své věci do pořádku, druhý se nabídl za
+      rukojmí jeho návratu s podmínkou, že zemře sám, jestliže se přítel nevrátí. A když odsouzený se v ustanovený den
+      vrátil, užasl tyran nad jejich věrností a požádal je, aby ho přijali do svého přátelského svazku jako třetího.
+      Když se tedy v přátelských vztazích dostane to, co se zdá prospěšným, do sporu s čestností, nechť víc platí tento
+      čestný vztah nežli náš zdánlivý prospěch. Budou-li se však od nás žádat ve jménu přátelství skutky nečestné, dejme
+      přednost závazkům svého svědomí před přátelstvím. Tak uskutečníme v tomto případe výběr povinností, o němž zde
+      uvažujeme.
+    </para>
+    <para>11/ Ostatně zdáním prospěchu se velmi Často hřeší ve veřejném životě, jako zhřešili například naši předkové,
+      když zbořili Korint. Ještě krutěji si však počínali Athéňané, když se usnesli, aby Aiginským, kteří měli silné
+      loďstvo, byly uřezány palce na rukou. To se jim zdálo prospěšným, neboť Aigina příliš ohrožovala svou blízkostí
+      přístav Peiraieus. Není ovšem nikdy prospěšné, co je kruté, neboť lidské přirozenosti, kterou se musíme řídit,
+      nejvíc ze všeho odporuje krutost. Špatně také jednají ti, kdo zakazují cizincům bydlit v našich městech a
+      vypovídají je ze země, jak to učinil v době našich otců Pennus a nedávno Papius. Je sice správné nedovolovat, aby
+      si osoboval občanská práva ten, kdo není občanem – takový zákon prosadili moudří konsulové Crassus a Scaevola –,
+      ale upírat cizincům právo na pobyt v městě je samozřejmě nelidské.
+    </para>
+    <para>Zvlášť krásné bývá takové jednání,
+      <emphasis>když se dá přednost cti obce před jejím zdánlivým prospěchem</emphasis>
+      . Příklady
+      najdeme v dějinách naší obce často, zejména v době druhé války punské. Neboť po strašné porážce u Cann projevila
+      naše obec víc zmužilosti než kdy předtím v šťastných dobách. Neukázala se u nás ani známka strachu, nepadla ani
+      zmínka o míru. Tak dokáže čest zastínit zdánlivý lesk prospěchu.
+    </para>
+    <para>Když Athéňané nemohli nijak odolat útoku Peršanů, rozhodli se, že opustí město, ukryjí ženy a děti v Troizéně,
+      vstoupí na lodi a budou hájit svobodu Řecka na moři; tehdy ukamenovali jakéhosi Kyrsila, jenž jim radil, aby
+      zůstali v městě a vpustili tam Xerxa. A přece ten člověk měl, jak se zdá, na mysli jejich prospěch. Nebyl to však
+      skutečný prospěch, neboť byl v rozporu se ctí.
+    </para>
+    <para>Po vítězství ve válce s Peršany prohlásil Themistoklés na sněmu, že by měl návrh prospěšný obci, ale že by
+      nebylo vhodné, aby se o něm mluvilo veřejně. Žádal, aby mu lid ustanovil někoho, s kým by ten návrh sdělil. Byl k
+      tomu ustanoven Aristeidés. Tomu on pověděl, že by bylo možno tajně zapálit loďstvo Lakedaimonských, které bylo
+      vytaženo na břeh u Gytheia, a tím že by byla moc lakedaimonská jistě zlomena. Když to Aristeidés vyslechl, přišel
+      za velkého napětí do sněmu a řekl, že návrh, který Themistoklés dává, je sice velmi prospěšný, ale není nikterak
+      čestný. A tu Athéňané usoudili, že to, co není čestné, není ani prospěšné, a spoléhajíce na názor Aristeidův,
+      zamítli celý tento plán, aniž ho vyslechli. Počínali si líp než my, kteří námořním lupičům dopřáváme svobodu a
+      spojencům ukládáme daně.
+    </para>
+    <para>12/ Nechť tedy platí zásada, že
+      <emphasis>jednání hanebné není nikdy prospěšné, a to ani tehdy, kdybys jím dosáhl toho, v čem spatřuješ prospěch
+      </emphasis>
+      . Neboť již to, že člověk pokládá hanebné jednání za prospěšné, je pro něho velkým
+      neštěstím. Ale často se přiházejí, jak jsem už pověděl, případy, kdy se zdá, že prospěch je v rozporu s čestností,
+      takže je pak třeba vyšetřit, zda je tu skutečný rozpor, či zda je možno prospěch s čestností spojit.
+    </para>
+    <para>Vyskytují se například takové otázky: Kdyby poctivý muž přivezl z Alexandrie na Rhodos velký náklad obilí v
+      takové době, kdy Rhodští by právě trpěli nedostatkem, hladem a největší drahotou, a ten člověk by věděl, že z
+      Alexandrie vyplulo několik kupců, neboť cestou spatřil lodi naložené obilím plout na Rhodos, měl by to říci
+      Rhodským, či mlčet a prodat své zboží co nejdráž? Představujme si, že je to muž moudrý a poctivý; pojednáme tedy o
+      rozmýšlení a rozhodování takového člověka, který by nechtěl Rhodským nic zatajovat, kdyby to pokládal za nečestné,
+      ale byl by na pochybách, že to snad nečestné není.
+    </para>
+    <para>Jinak soudí o takových případech slavný a vážený stoik Diogenés Babylónský, a jinak jeho žák, bystrý
+      Antipatros. Antipatros žádá, aby se povědělo všechno, aby tedy kupující věděl všechno, co ví prodávající; Diogenés
+      je toho názoru, že prodávající má uvést chyby zboží, pokud to nařizuje občanské právo, i jinak má jednat poctivě,
+      ale když už prodává, má právo se snažit, aby prodal co nejvýhodněji. „Přivezl jsem a vyložil zboží a prodávám je
+      ne dráže než ostatní, ba snad ještě laciněji, poněvadž mám větší zásobu. Komu se tu děje křivda?“ Na to namítne
+      Antipatros: „Cos to řekl? Ty se máš starat o lidi, sloužit lidské společnosti, s tím určením ses narodil a máš
+      přirozený cit, jímž se máš řídit, že tvůj prospěch je prospěchem obecným a obecný prospěch prospěchem tvým – a ty
+      zatajíš těm lidem, jaká hojnost zboží je pro ně na cestě?“ Diogenés odpoví asi takto: „Něco jiného je zatajovat,
+      něco jiného mlčet. Ani tehdy ti nic nezatajuji, jestliže ti neřeknu, jaká je podstata bohů, či co je nejvyšší
+      dobro, ačkoli by ti poznání těchto věcí víc prospělo než láce obilí. Ale nejsem přece povinen, abych ti řekl
+      vždycky právě to, co by ti bylo prospěšné slyšet.“ – „Právě naopak, jsi povinen, pamatuješ-li na to, že lidé jsou
+      mezi sebou spojeni přirozeným svazkem pospolitosti.“ – „Pamatuji na to,“ odpoví onen, „ale což je ten společenský
+      svazek takový, že jednotlivec nesmí mít soukromý majetek? Kdyby tomu tak bylo, pak by se ani nesmělo nic prodávat,
+      ale mělo by se to darovat.“
+    </para>
+    <para>13/ Vidíš, že se v celé této rozepři netvrdí: „Ačkoli je to hanebné, přece to udělám, poněvadž je mi to
+      prospěšné,“ nýbrž: „Je to prospěšné, a přitom to není hanebné,“ kdežto druhá strana praví: „Nesmí se tak jednat,
+      protože to přece jen hanebné je.“ Představme si, že se poctivý muž rozhodl prodat dům pro nějaké jeho vady, které
+      sám zná, ale o nichž jiní lidé nevědí. Dejme tomu, že je ten dům nezdravý, a je pokládán za zdravý, není známo, že
+      se ve všech ložnicích objevují hadi, že je špatně stavěn, že je na spadnutí, ale mimo pána to nikdo neví. A dejme
+      tomu, že by to prodávající kupcům neřekl a že by ten dům prodal ještě mnohem dráž, než sám čekal. Ptám se, zda
+      nejednal nespravedlivě nebo aspoň nečestně.
+    </para>
+    <para>Antipatros řekne: „Ovšemže jednal! Neboť připustí-li někdo, aby kupec nalítl, aby se ve svém poblouzení vrhl
+      do nejhorší škody, co je to jiného než neukázat bloudícímu cestu, což se v Athénách trestá veřejnou klatbou? A je
+      to ještě víc než neukázat cestu; znamená to vědomě přivádět druhého na cestu bludnou.“ Naproti tomu tvrdí
+      Diogenés: „Cožpak tě přinutil ke koupi člověk, který tě k ní ani nepřemlouval? Ten člověk nabídl na prodej to, co
+      se mu nelíbilo, tys koupil, co se ti líbilo. Jestliže se lidé, kteří nabízejí dobrý a dobře stavěný statek, podle
+      obecného mínění nedopouštějí podvodu, i když statek není ani dobrý ani dobře stavěný, tím méně se dopouštějí
+      podvodu ti, kteří svůj dům ani nepochválí. Neboť jak se může mluvit o podvodu tam, kde rozhoduje úsudek
+      kupujícího?
+    </para>
+    <para>A jestliže se nemusí ručit ani za všechno to, co bylo výslovně řečeno, myslíš, že se má ručit za to, co vůbec
+      řečeno nebylo? Co by bylo pošetilejší, než aby prodávající vykládal o nedostatcích věci, kterou clíce prodat? A co
+      by bylo víc nesmyslné, než aby vyvolavač z rozkazu pánova ohlašoval: Prodám nezdravý dům?“
+    </para>
+    <para>Tak se tedy v některých pochybných případech z jedné strany brání čestnost, kdežto z druhé strany se hájí
+      prospěch, a to tak, že podle toho by nejen bylo čestné učinit to, co se zdá prospěšným, ale dokonce by bylo
+      hanebné neučinit to. To je tedy ten rozpor, který často zdánlivě vzniká mezi prospěchem a ctí. A takové sporné
+      případy je třeba rozsoudit. Neboť nevyložili jsme je proto, abychom jen kladli otázky, nýbrž abychom je řešili.
+      Myslím tedy, že by ani ten obchodník obilím neměl nic zatajovat Rhodským, ani ten člověk prodávající dům jeho
+      kupcům. Nelze sice vždy mluvit o zatajování, kdykoli něco zamlčíš, ale jestliže chceš, aby to, co ty víš, nevěděli
+      kvůli tvému prospěchu ti, kteří mají zájem na tom, aby to věděli, je to zatajování. A kdo by nevěděl, jaké povahy
+      je takové zatajování a o jakém člověku svědčí? Jistě ne o člověku otevřeném, prostém, spravedlivém ani poctivém,
+      ale spíš o člověku prohnaném, pokryteckém, lstivém, podvodném, zlomyslném, zchytralém, škodolibém a šibalském. Což
+      není neprospěšné uvalit na sebe výtku tolika a ještě jiných nectností?
+    </para>
+    <para>14/ Jestliže tedy zasluhují hanu lidé, kteří něco zamlčí, co máme soudit pak o těch, kteří předstírají něco
+      nepravdivého? Římský rytíř Gaius Canius, člověk ne nevtipný a dosti vzdělaný, se uchýlil do Syrakus, ne aby se
+      staral o obchody, ale aby se nemusel starat o nic, jak sám říkal, a mezi řečí se zmiňoval o tom, že by rád koupil
+      nějakou pěknou vilu se zahradou, kam by si mohl pozvat přátele a kde by se mohl nerušeně bavit. Když se to
+      rozkřiklo, jakýsi syrakuský peněžník jménem Pythius mu řekl, že má vilu, která sice není na prodej, ale je-li
+      Caniovi libo, že jí může užívat jako své, a zároveň ho pozval na druhý den do své zahradní vily na oběd. Ganius
+      pozvání přijal a Pythius, jenž jako peněžník měl velký vliv u lidí všech stavů, povolal k sobě rybáře, požádal je,
+      aby nazítří lovili před jeho vilou, a řekl jim, jak si mají počínat. V určený čas přijde Canius na oběd. Hostina,
+      kterou dal Pythius připravit, byla nádherná a na dohled bylo vidět množství rybářských člunů. A rybáři přinášeli,
+      co kdo chytil, a házeli ryby Pythiovi k nohám. Tu se tázal Canius: „Co to, prosím tě, znamená, Pythie, tolik ryb a
+      tolik člunů?“ A ten odpověděl: „Co je na tom divného? Kolik se chytne v Syrakusách ryb, chytne se na tomto místě.
+      I pro pitnou vodu sem lidé chodí, takže bez tohoto mého statku se nemohou obejít.“
+    </para>
+    <para>Canius zatoužil po vile a žádal Pythia, aby mu ji prodal. Ten dělá nejprve těžkosti – ale nač dlouhé řeči,
+      nakonec Canius dosáhne svého. A poněvadž o tu vilu velice stál a byl člověk bohatý, dal za ni tolik, kolik Pythius
+      žádal, a koupil i celé zařízení. Podepíše smlouvu a uzavře pravoplatný obchod. Na druhý den pozve své přátele a
+      sám přijde hodně brzy. Po člunech ani památky. Ptá se nejbližšího souseda, zda je snad nějaký svátek rybářů, že
+      žádného nevidí. Ten řekl: „Pokud vím, není, ale tady rybáři neloví, proto jsem se včera divil, co se to asi
+      stalo.“ Canius se rozzlobil, ale co mohl dělat? Tenkrát ještě neexistovala právní formule o zlém úmyslu a podvodu,
+      kterou vydal můj přítel a kolega v praetuře Gaius Aquilius. V této formuli podal právě na otázku, jaký význam má
+      výraz
+      <emphasis>dolus malus</emphasis>
+      , zlý úmysl, podvod, toto vysvětlení: „Když se něco jiného předstíralo, a něco jiného vykonalo.“
+      To bylo jistě řečeno skvěle, jak se dalo očekávat od člověka zkušeného v definování. Tedy Pythius a všichni lidé,
+      kteří něco jiného dělají a něco jiného předstírají, jsou věrolomní, nepoctiví a zlomyslní. A proto žádný jejich
+      čin jim nemůže být prospěšný, je-li poskvrněn tolika nectnostmi.
+    </para>
+    <para>15/ Je-li tedy Aquiliova definice správná, je třeba předstírání i zastírání z lidského života vůbec vyloučit.
+      Proto poctivý muž nebude nic předstírat ani zastírat, ani aby lépe prodal. Ostatně tak řečený
+      <emphasis>dolus malus</emphasis>
+      , zlý
+      úmysl, podvod, byl trestán i zákony, například poručnická zpronevěra zákony dvanácti desek a podvod na
+      neplnoletých zákonem Plaetoriovým i rozhodnutími, jež se dějí bez zákonných norem podle zásady dobré víry,
+      <emphasis>ex fide bona</emphasis>
+      . Ve zvláštních případech takových soudů vynikají zejména tyto formule: při soudním jednání o vrácení věna
+      <emphasis>„rozhoduj co nejlépe a nejslušněji“</emphasis>
+      , při sporech o vrácení svěřené věci
+      <emphasis>„nechť se jedná poctivě, jak se sluší mezi poctivými lidmi“
+      </emphasis>
+      . A což je přípustný jakýkoli pokus o podvod tam, kde platí zásada „co nejlépe a nejslušněji“?
+      Nebo může se jednat lstivě a se zlým úmyslem tam, kde se mluví o „poctivém jednáni mezi poctivými lidmi“?
+    </para>
+    <para>Podstatou zlého úmyslu a podvodu je, jak praví Aquilius, předstírání. Je tedy třeba vyloučit z uzavírání smluv
+      všechnu lež. Prodávající nechť si nezjednává přihazovače a kupující zas nikoho, kdo by cenu srážel; a oba dva
+      nechť neučiní více nabídek než jednu. Onehdy Quintus Scaevola, syn Publiův, kupoval pozemek a žádal, aby mu
+      prodávající udal hned pevnou cenu, a když se tak stalo, řekl, že oceňuje pozemek výš, a přidal mu sto tisíc,
+      sesterciů. Nikdo by nepopřel, že to bylo jednání poctivého muže, ale že by byl moudrý, když takto jednal, to lidé
+      popírají, stejně jako by ho neuznali za moudrého, kdyby byl sám prodal svůj pozemek laciněji, než by byl mohl. To
+      je to neštěstí, že se dělá rozdíl mezi lidmi poctivými a moudrými. V tom smyslu řekl Ennius, že
+      <emphasis>„marně je mudrc moudrý, když sám sobe prospět nemůže“</emphasis>
+      . Zcela správně, jenomže bych se musel dohodnout s Enniem o tom, co to
+      znamená „prospět“.
+    </para>
+    <para>Hekatón Rkodský, žák Panaitiův, říká v knize O povinnosti, kterou věnoval Quintu Tuberonovi: „Člověk moudrý se
+      má starat o svůj majetek, pokud ovšem přitom nejedná proti mravům, zákonům a zvyklostem. Vždyť nechceme být bohatí
+      jen pro sebe, ale i pro děti, příbuzné, přátele a nejvíce pro obec. Neboť jmění jednotlivců je bohatstvím obce.“
+      Tomuto muži se Scaevolův čin, o němž jsem se právě zmínil, nemůže ovšem líbit. Vždyť on prohlašuje, že je odhodlán
+      učinit pro svůj prospěch všechno, s výjimkou jen toho, co je výslovně zakázáno. Za to si nezaslouží velkou chválu
+      ani uznání. Ovšem postavíme-li se na stanovisko, že „zlá lest“ je i předstírání i zastírání, najde se velmi málo
+      případů, kde by se nevyskytoval „zlý úmysl“, a je-li poctivý ten člověk, který prospívá každému, komu může, a
+      nikomu neškodí, jistě takového nesnadno najdeme. Přesto však nikdy není prospěšné hřešit, poněvadž to je vždycky
+      hanebné, a naopak vždycky je čestné být poctivým člověkem, a proto je to také vždycky prospěšné.
+    </para>
+    <para>16/ Ostatně co se týká nemovitostí, nařizuje naše právo občanské pod trestem, aby se při prodeji uváděly
+      jejich nedostatky, pokud jsou prodávajícímu známy. Podle zákonů dvanácti desek stačí ručit za to, co bylo výslovně
+      prohlášeno, přičemž ten, kdo učiní klamné prohlášení, musí nahradit škodu dvojnásob, kdežto právníci z povolání
+      ustanovili trest i za pouhé zamlčení; neboť rozhodli, že prodávající ručí za každý nedostatek nemovitosti, o němž
+      věděl a výslovně ho neuvedl. Stalo se například, že augurové, hodlajíce konat, věštecké pozorování na hradě,
+      rozkázali Tiberiu Claudia Gentumalovi, který měl dům na vrchu Caeliu, aby zbořil ty jeho části, jejichž výška jim
+      bránila v pozorování; ale Claudius ten dům prodal. Koupil jej Publius Calpurnius Lanarius. Augurové mu oznámili
+      týž rozkaz. A tak Calpurnius dům zbořil, ale když se dověděl, že Claudius prodal dům až potom, co mu augurové
+      uložili jej zbořit, pohnal ho před smírčího soudce se žádostí, aby se mu dostalo náhrady, pokud by mu ji byl
+      Claudius povinen dát a poskytnout podle zásady dobré víry. Soudcem byl Marcus Cato, otec mého slavného přítele
+      Catona – neboť jako jiní lidé se označují jmény svých otců, tak se sluší, aby tento otec tak skvělého muže byl
+      označován podle svého syna –, a ten jako soudce vynesl toto rozhodnutí: „Když při prodeji o té věci věděl a
+      neohlásil ji, je povinen nahradit kupci škodu.“ Rozhodl tedy, že zásada „dobré víry“ vyžaduje, aby kupující věděl
+      o nedostatku, o němž ví prodávající. Jestliže tedy rozsoudil správně, nepočínali si správně ani onen obchodník
+      obilím, ani člověk prodávající nezdravý dům, když mlčeli.
+    </para>
+    <para>Všechny jednotlivé případy takového zamlčení nemohou být ovšem pojaty do práva občanského, ale ty, které tam
+      být mohou, jsou pilně stíhány. Náš příbuzný Marcus Marius Gratidianus prodal Gaiu Sergiu Oratovi dům, který sám od
+      něho před několika lety koupil. Na tom domě vázla služebnost, ale Marius to v kupní smlouvě neuvedl. Věc se
+      dostala před soud. Oratu hájil Crassus, Gratidiana Antonius. Crassus se dovolával práva, podle něhož prodávající
+      je povinen ručit za škodu, jestliže vědomě neuvedl nějaký nedostatek, Antonius se dovolával smyslu pro slušnost s
+      odůvodněním, že ten nedostatek nebyl Sergiovi neznámý, neboť sám ten dům dříve prodal; a že tedy nebylo třeba nic
+      říkat, neboť nebyl oklamán ten, kdo věděl, jaký právní závazek tíží majetek, který koupil. Proč to připomínám?
+      Abys poznal, že naši předkové neměli zalíbení v lidech zchytralých.
+    </para>
+    <para>17/
+      <emphasis>Ale jinak potírají lstivé jednání zákony, jinak filosofové.</emphasis>
+      Zákony potírají jen takové, které mohou
+      postihnout hmatatelně, filosofové však i to, které postihují rozumovým poznáním. Rozum tedy žádá, abychom
+      zanechali nástrah, přetvářky a klamu. A což to není nástraha, jestliže napneš síť, třebas nemáš v úmyslu zvěř
+      plašit a honit? Vždyť zvěř často sama vběhne do sítě, i když ji nikdo nenahání. A něco podobného je, když nabízíš
+      dům, který hodláš prodat pro jeho nedostatky, oznámení o tom nastražíš jako síť a někdo do ní vběhne, aniž co
+      tuší.
+    </para>
+    <para>Naše přirozené cítění se sice porušilo tak, že takové jednání, pokud vidím, ani není pokládáno podle obecného
+      mravu za nečestné, ani není stíháno zákonem nebo právem občanským, přece však je zakázáno zákonem přírody. Neboť
+      nejširší povahy je ten společenský svazek – řekl jsem to sice již často, ale je třeba to stále opakovat –, jenž
+      spojuje všechny lidi navzájem, užší je svazek, jenž spojuje příslušníky téhož kmene, a ještě těsnější je ten, jenž
+      spojuje příslušníky téže obce. Proto naši předkové rozlišili
+      <emphasis>obecně lidské právo a právo občanské</emphasis>
+      . Co je obsaženo
+      v právu občanském, není proto ještě obsaženo v právu obecně lidském, avšak co je obsaženo v právu obecné lidském.
+      má být zároveň v právu občanském.
+    </para>
+    <para>My ovšem nepostihujeme výraznou a přesnou podobu skutečného práva a podstatu spravedlnosti, nýbrž známe jen
+      její stínové obrazy. Kéž bychom se aspoň těmi řídili, neboť pocházejí od nejlepších vzoru přírody a pravdy.
+    </para>
+    <para>Věru významně zní právní formule
+      <emphasis>abych nebyl oklamán a podveden tebou nebo skrze víru v tebe</emphasis>
+      , zlatá jsou slova
+      <emphasis>jakož se sluší, aby poctivě a bez podvodného úmyslu bylo jednáno mezi lidmi poctivými</emphasis>
+      . Ale kdo jsou „poctiví lidé“
+      a co znamená „poctivě jednat“, to je velká otázka. Nejvyšší pontifex Quintus Scaevola říkával, že zvláštní
+      důležitost mají všechny ty soudy, při nichž se užívá zásady
+      <emphasis>podle dobré víry</emphasis>
+      , a přikládal zásadě
+      <emphasis>dobré víry</emphasis>
+      velmi
+      širokou platnost, a to ve sporech týkajících se poručnictví a obchodních společností, věcí svěřených a mandátů,
+      koupí a prodejů, nájmů a pronájmů, tedy založených na vztazích, na nichž spočívá společenský život. V těchto
+      případech je prý třeba znamenitého soudce, aby určil, čím je kdo komu povinen, neboť většinou se kladou požadavky
+      z obou stran. Pročež je nutno potlačovat lstivost a zchytralost, která se chce zdát rozumnou prozíravostí, je však
+      jejím pravým opakem. Rozumná prozíravost totiž spočívá ve volbě mezi dobrem a zlem, kdežto zchytralost, je-li
+      každé nečestné jednání zlé, dává přednost zlu před dobrem.
+    </para>
+    <para>Právo občanské, odvozené z přírody, stíhá zchytralost a podvod nejenom, pokud se týká nemovitostí, ale
+      nepřipouští žádnou lest ze strany prodávajícího ani při prodeji otroků. Neboť ten, kdo musí vědět, že některý
+      otrok není zdráv nebo že se rád pokouší o útěk nebo krade, ručí podle ediktu aedilů za škodu. Něco jiného je, když
+      jde o dědice. A poněvadž pramenem práva je příroda, plyne z toho, že je ve shodě s lidskou přirozeností, aby nikdo
+      netěžil z nevědomosti druhého člověka.
+      <emphasis>Není větší zhouby v lidském životě, než tváří-li se chytráctví jako moudrost.
+      </emphasis>
+      Zde mají původ ty nesčetné případy, kdy se zdá, jako by byl prospěch v rozporu s čestností. Neboť kolik
+      se najde lidí, kteří by se dovedli zdržet bezpráví, kdyby jim bylo zaručeno, že jejich čin zůstane bez trestu a
+      zcela utajen?
+    </para>
+    <para>18/ Přezkoušejme podle libosti toto tvrzení, a to na příkladech takového jednání, v němž by obecný lid ani
+      neshledával žádnou vinu. Není tu řeč o vrazích, travičích, padělatelích závětí, zlodějích a podvodnících, kteří si
+      zaslouží, aby byli trestáni žalářem, a nikoli slovy a rozpravami filosofů, nýbrž chceme uvažovat o jednání
+      takových lidí, kteří jsou pokládáni za poctivé. Jacísi lidé přinesli z Řecka padělanou závěť boháče Lucia Minucia
+      Basila. Aby snadněji obdrželi dědictví, uvedli jako spoludědice Marka Crassa a Quinta Hortensia, nejvlivnější lidi
+      té doby. Ti měli sice podezření, že závěť je padělaná, ale sami si nebyli vědomi žádné viny, proto neodmítli dárek
+      z cizí kořisti. Stačí to, aby nebyli sami pokládáni za viníky? Já soudím, že nikoli, ačkoli jsem jednoho z nich
+      míval rád a druhého, protože už je mrtev, nemám v nenávisti. Vždyť Basilus si přál, aby Marcus Satrius, syn jeho
+      sestry, přijal jeho jméno, a učinil ho svým dědicem (mám tu na mysli známého patrona kraje Picenského a Sabinského
+      – jak potupné to znamení doby), neslušelo se tedy, aby předáci obce obdrželi majetek a Satrius aby nedostal nic
+      mimo jméno.
+    </para>
+    <para>Jedná-li nespravedlivě, jak jsem vyložil v prvé knize, ten, kdo nebrání a nepřekáži křivdě, ačkoli múže, jak
+      teprve máme soudit o člověku, který nejenže křivdě nepřekáží, nýbrž ještě ji podporuje? Já aspoň nepokládám ani
+      právně bezvadná dědictví za Čestná, byla-li získána potměšilým lichocením a předstíranými, nikoli skutečnými
+      úsluhami. V takových případech se zdává něco jiného prospěšným a něco jiného čestným. Neprávem, neboť
+      <emphasis>zákon prospěšnosti souhlasí vždy se zákonem čestnosti</emphasis>
+      . Kdo si to neuvědomí, nebude dalek žádného podvodu a žádného
+      zločinu. Neboť bude-li uvažovat takto: „Tamto je sice čestné, ale toto je prospěšné,“ odváží se ve svém bludu
+      odtrhnout od sebe věci spjaté spolu svou přirozenou podstatou, a to je zdroj všech podvodů, zločinů a ohavností.
+    </para>
+    <para>19/ A tak kdyby poctivý muž měl tu moc, že by jediným lusknutím prstů dostal své jméno do závěti boháčů,
+      neužil by této své moci, ani kdyby měl zajištěno, že ho nikdo nebude z toho podezřívat. Kdyby však někdo dal Marku
+      Crassovi takovou moc, aby se mohl lusknutím prstu dát zapsat mezi dědice, třeba by ve skutečnosti dědicem nebyl,
+      věř mi, že by se dal na náměstí do tance. Ale člověk spravedlivý a takový, jakého my uznáváme za poctivce, nikomu
+      nic nevezme, aby se toho sám zmocnil. Kdo se tomu diví, nechť přizná, že neví, co je to poctivý člověk. Kdo však
+      bude chtít ještě nezřetelnou představu ve své mysli objasnit, nechť sám sebe přesvědčí o tom, že
+      <emphasis>poctivý muž je ten, kdo prospívá, komu může, a neškodí nikomu, leda by byl nespravedlivě napaden
+      </emphasis>
+      . A cožpak neškodí jinému ten,
+      kdo jakoby nějakým kouzlem odstrčí oprávněné dědice, aby sám vstoupil na jejich místo?
+    </para>
+    <para>Někdo snad namítne: Nesmí tedy člověk jednat tak, aby mu to přineslo užitek a prospěch? To nechci tvrdit, ale
+      ať si uvědomí, že nic není užitečné ani prospěšné, co je nespravedlivé. Kdo nenabude tohoto přesvědčení, nemůže
+      být poctivým člověkem. Slýchával jsem jako chlapec od svého otce, že bývalý konsul Gaius Fimbria měl být soudcem
+      ve věci Marka Lutatia Pinthie, římského rytíře a muže nepochybně čestného, který složil soudní záruku pro případ,
+      že nebude uznán poctivým mužem. A tu prý mu Fimbria řekl, že v té věci nikdy nevynese rozsudek, poněvadž se chce
+      vyhnout tomu, že buď by musel zbavit dobré pověsti řádného člověka, kdyby rozhodiv jeho neprospěch, nebo by musel
+      jen tak nazdařbůh prohlásit někoho za poctivého člověka, ačkoli k zjištění této vlastnosti je třeba bezpočtu
+      chvályhodných skutků. Prostě poctivému muži, o němž měl Fimbria stejně jasnou představu jako Sókratés, nemůže se
+      nikdy nic zdát prospěšným, co není čestné.
+      <emphasis>Takový muž se neodváží nejenom nic učinit, ale ani nic pomyslit, co by
+        se neodvážil veřejně říci.
+      </emphasis>
+
+    </para>
+    <para>Což není hanba, aby filosofové byli na pochybách o tom, o čem nejsou na pochybách ani vesničané, u nichž
+      vzniklo přísloví stářím už zevšednělé? Ti totiž, chtějí-li pochválit něčí spolehlivost a poctivost, říkávají:
+      Potmě bys mohl s ním hrát hru, při níž se hádá počet zdvižených prstů. Jaký jiný to má smysl než ten, že nic není
+      prospěšné, co se nesluší, třeba bys toho mohl dosáhnout, aniž tě někdo přistihl při bezpráví. Což nevidíš, že
+      podle tohoto přísloví nelze odpustit ani onomu Gygovi, ani tomu člověku, o němž jsem před chvílí předpokládal, že
+      by mohl lusknutím prstů shrábnout všechna dědictví? Neboť jako se hanebné jednání nikterak nemůže stát čestným,
+      třebas by zůstalo skryto, tak se nemůže způsobit, aby to, co není čestné, bylo prospěšné, poněvadž tomu překáží a
+      odporuje přirozenost.
+    </para>
+    <para>20/ Vyskytne se ovšem námitka, jestliže kyne někomu nadmíru veliký zisk, že je to důvod k hříchu. Když Gaius
+      Marius ztrácel naději na konsulát a už sedmý rok po praetuře se na své politické dráze nehnul z místa, dokonce se
+      zdálo, že se už nikdy nebude o konsulát ucházet, obvinil u národa římského Quinta Metella, znamenitého muže a
+      občana, svého velitele, od něhož byl vyslán do Říma, že protahuje válku. Jestliže prý Římané zvolí konsulem jeho,
+      vbrzku odevzdá Jugurthu živého nebo mrtvého do moci národa římského. A tak se sice konsulem stal, ale porušil
+      věrnost a spravedlnost, neboť křivým obviněním uvalil nepřízeň na velmi poctivého a váženého občana.
+    </para>
+    <para>Ani náš příbuzný Gratidianus si nepočínal jako poctivý muž, když byl praetorem; tribunové lidu si tehdy
+      přibrali na poradu sbor praetorů, aby byla společným rozhodnutím upravena otázka finanční. V té době totiž
+      kolísala cena peněz, takže nikdo ani nevěděl, kolik má. Společně sepsali úřední výnos s určením trestu a soudní
+      příslušnosti a usnesli se, že příštího dne všichni najednou vystoupí na řečniště. Potom šli každý svou cestou,
+      jenom Marius Gratidianus se odebral ze zasedání rovnou na řečniště a sám vyhlásil to, co bylo dohodnuto společně.
+      A to mu ovšem vyneslo mnoho poct. Stavěli mu sochy ve všech městských čtvrtích a zapalovali před ním kadidlo a
+      svíce. Zkrátka, nebylo nad něj člověka lidu dražšího.
+    </para>
+    <para>Takové případy tedy někdy matou uvažujícího člověka, když se nezdá tak důležité to, v čem se porušuje
+      slušnost, kdežto zisk z toho plynoucí se zdá velmi významný; například Mariovi Gratidianovi se nezdálo příliš
+      hanebné připravit své kolegy a tribuny lidu o přízeň občanů, ale zato se mu zdálo velmi prospěšné, aby se stal
+      pomocí toho konsulem, čehož si tenkrát umínil dosáhnout. Ale ve všech případech platí jediná zásada – a přál bych
+      si, aby sis ji dokonale zapamatoval –, že to, v čem se spatřuje prospěch, nesmí být hanebné, nebo se v tom nesmí
+      spatřovat prospěch, jestliže to hanebné je.
+    </para>
+    <para>Můžeme tedy některého z těch dvou Mariů pokládat za poctivého muže? Hledej a pátrej ve své mysli, jakou tam
+      chováš představu o poctivém člověku. Sluší se na poctivého člověka, aby lhal kvůli svému prospěchu, aby jiné
+      osočoval, předbíhal a klamal? Jistěže ne. Je nějaká věc tak vzácná nebo zisk tak žádoucí, abys kvůli tomu ztratil
+      důstojnost a jméno poctivého člověka? Může tento takzvaný prospěch dát člověku tolik, kolik mu vezme, zbaví-li ho
+      dobrého jména a poruší-li jeho věrnost a spravedlnost? Jaký je v tom rozdíl, jestli se někdo z člověka promění ve
+      zvíře, či zachová-li si lidskou podobu, ale projevuje nestvůrnou zvířeckost?
+    </para>
+    <para>21/ Jsou lidé, kteří vůbec nedbají práva a cti, jen aby dosáhli moci. Což si tak nepočínal muž, který si i za
+      tchána zvolil takového člověka, aby mohl opřít svou moc o jeho smělost? Zdálo se mu prospěšným, aby se sám zmohl
+      co nejvíce, zatímco druhý by na sebe vzal nepřízeň veřejnosti. Nevěděl, jak je to nespravedlivé vůči vlasti a jak
+      hanebné. Sám jeho tchán pak příliš často citoval verše z Foiničanek, které přeložím, jak dovedu, snad neuměle, ale
+      aspoň srozumitelně:
+    </para>
+    <formalpara>
+      <emphasis>
+        Neb když už právo rušit chceš, tu pro slávu je rušit smíš, však jinak ctnost si zachovej!
+      </emphasis>
+    </formalpara>
+    <para>Jak zhoubnou myšlenku tu vyslovil Eteoklés nebo spíše Eurípidés, když učinil výjimkou právě to, co je
+      největším zločinem.
+    </para>
+    <para>A proč si vůbec všímáme maličkostí, podvodných dědictví, obchodů a prodejů?</para>
+    <para>Hle, tu máme člověka, jenž zatoužil stát se králem lidu římského a pánem všech národů, a také toho dosáhl.
+      Jestli takovou touhu někdo nazve čestnou, je šílený, neboť tím schvaluje záhubu zákonů a svobody a pokládá jejich
+      kruté a ohavné potlačení za slavný čin. Jestli však někdo přiznává, že není čestné být samovládcem v obci, která
+      byla svobodná a má být svobodná, ale přitom tvrdí, že je to prospěšné tomu, kdo si může tak počínat, jakými
+      domluvami, či spíše jakými výtkami se mám pokusit odvrátit takového člověka od jeho bludu? Což může, bohové
+      nesmrtelní, být někomu prospěšná nejhanebnější a nejhroznější zrada vlasti, i když je snad ten, kdo se jí
+      dopustil, nazýván od ujařmených občanů Otcem?
+    </para>
+    <para>Zkrátka prospěch se má řídit čestností tak, aby bylo patrno, že se tyto dva pojmy liší od sebe jenom jmény,
+      ale ve své podstatě jsou jedno a totéž.
+    </para>
+    <para>Nevím, zda podle obecné lidové představy existuje nějaký větší prospěch než být králem, ale když posuzuji tu
+      věc podle pravdy svým rozumem, shledávám, že naopak nic není neprospěšnějšího pro člověka, jenž dosáhl vlády
+      nespravedlivě. Což mohou být někomu prospěšné úzkosti, starosti, strach ve dne v noci a život plný úkladů a
+      nebezpečí?
+      <emphasis>Mnozí nenávidí krále, málokteří ho milují</emphasis>
+      , praví Accius. Avšak o jakého krále tu šlo? O toho, jenž
+      zdědil království po Tantalovi a Pelopovi a vládl právem. Oč více lidí asi nenávidělo toho tyrana, jenž vojskem
+      národa římského ujařmil sám národ římský a přinutil obec nejen svobodnou, ale i jiným národům vládnoucí, aby jemu
+      otročila! Jakou skvrnu asi měl ten člověk na svém svědomí, jakou ránu ve své duši? Komu může být jeho vlastní
+      život prospěšný, žije-li tak, že ten, kdo by ho života zbavil, získal by si největší vážnost a slávu? Jestliže
+      tedy ani tyto věci, které se nejspíš zdají prospěšnými, prospěšné nejsou, protože jsou plné hanby a nečestnosti,
+      musí to postačit k přesvědčení, že nic není prospěšné, co není čestné.
+    </para>
+    <para>22/ Ostatně toto smýšlení jsme dali najevo často i jindy, a zvláště tak učinil za války s Pyrrhem Gaius
+      Fabricius, který byl tehdy podruhé konsulem, a s ním i náš senát. Když král Pyrrhus počal útočnou válku proti
+      národu římskému a my jsme zápasili o nadvládu s tímto ušlechtilým a mocným králem, přišel od něho zběh do
+      Fabriciova tábora a nabídl mu, dostane-li odměnu, že se vrátí tak tajně, jako přišel, do tábora Pyrrhova a že jej
+      otráví. Fabricius vydal tohoto člověka Pyrrhovi a za tento čin byl pochválen senátem. A přece, hledíme-li jen na
+      vnější prospěch a na obecné mínění o něm, byl by mohl jediný zběh skončit tu těžkou válku a odstranit nebezpečného
+      soupeře říše. Byla by to však velká hanba a potupa, kdyby ten, s nímž jsme zápasili o slávu, byl býval přemožen
+      zločinem, a nikoli statečností. Bylo tedy prospěšnější jak pro Fabricia, jenž byl v našem městě tím, čím byl v
+      Athénách Aristeidés, tak pro senát, jenž nikdy neodloučil prospěch od čestnosti, zápasit s nepřítelem zbraní, či
+      jedem?
+    </para>
+    <para>Usiluje-li se o vládu kvůli slávě, tedy pryč se zločinem, neboť na zločinu se sláva zakládat nemůže. Ale
+      jestli se bezohledně usiluje o
+      <emphasis>moc</emphasis>
+      pro ni samu, nemůže taková moc přinést prospěch, neboť je spojena s hanbou.
+      Nebyl tedy prospěšný návrh Lucia Philippa, syna Quintova, aby obce, které Lucius Sulla usnesením senátu osvobodil
+      od poplatků, byly zase poplatné, ale peníze, jimiž si osvobození od daní vykoupily, abychom jim nevrátili. Senát
+      tento jeho návrh schválil. Ale jaká to byla potupa pro říši! Vždyť více platilo slovo námořních lupičů než senátu.
+      Zvětšily se ovšem důchody a tedy to prý bylo prospěšné.
+    </para>
+    <para>Jak dlouho ještě budou mít lidé odvahu nazývat prospěšným jednání nečestné! Může nějaké říši, která se má
+      opírat o svou slávu a o přízeň spojenců, být prospěšná nenávist a hanba? Často jsem v tom nesouhlasil ani se svým
+      přítelem Catonem. Zdálo se mi, že příliš tvrdě hájí státní pokladnu a důchody, že nájemcům cel odpírá všechno a
+      spojencům mnoho, zatímco bychom měli být vůči těmto laskaví a s oněmi jednat; tak, jak jednáváme se svými selskými
+      nájemci; a tehdy tím spíše, protože na svornosti stavů závisela spása obce. Chyboval také Curio, když říkával, že
+      věc obyvatelů zapádského kraje je sice spravedlivá, ale vždycky k tomu dodával: „Zvítězit však musí ohled na náš
+      prospěch.“ Byl by měl raději dokazovat, že ta věc není spravedlivá, protože není prospěšná obci, a nikoli uznávat
+      sice, že spravedlivá je, ale přitom tvrdit, že není prospěšná.
+    </para>
+  </chapter>
+</book>
