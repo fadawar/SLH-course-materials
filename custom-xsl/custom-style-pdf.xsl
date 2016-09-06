@@ -41,4 +41,11 @@
   <!--</fo:block>-->
   <!--</xsl:template>-->
 
+  <!-- Turn off TOC -->
+  <xsl:param name="generate.toc">
+    article   nop
+    book      nop
+    section   nop
+  </xsl:param>
+
 </xsl:stylesheet>
